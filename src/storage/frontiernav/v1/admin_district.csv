@@ -1,0 +1,127 @@
+A1,Mission: The Duel (Part II),Client: Gi Zang,"Requirements: Chapter 11, The Duel (Part I)"
+
+B1,Character Hangout: Nagi
+
+C1,Mission: Cavern Crushers,Client: Stella,"Requirements: Chapter 9, Prone Sweet Prone"
+
+C2,Mission: Attack on Biahno Hills,Client: Lara Nara,"Requirements: Chapter 7, spoken to Suriella"
+
+D1,Mission: Dead Men Tell No Tales,Client: Stella,"Requirements: Chapter 7, Primordia Survey Rate > 50%"
+
+D2,Mission: Prone Sweet Prone,Client: Stella,"Requirements: Chapter 5, Oblivia Survey Rate > 40%"
+
+D3,Treasure: Large Container,Requirements: Mechanical Level 4
+
+E1,Heart-to-Heart: Gwin,Affinity: 1,Appears: Afternoon
+
+E2,Heart-to-Heart: Irina,Affinity: 3,Appears: Morning,Requirements: 2nd heart-to-heart
+
+E3,Character Hangout: Doug
+
+E4,Treasure: Trailer,Requirements: Mechanical Level 2
+
+E5,Affinity Mission: Manhunt,"Requirements: Chapter 8, Level 33"
+
+E6,Affinity Mission: Spy Games,"Requirements:  Chapter 7, Level 28"
+
+E7,Mission: Rescue at the Ensconced Citadel,Client: Julius,"Requirements: Chapter 6, Noctilum Survey Rate > 30%"
+
+E8,Mission: The Ultimate Price,Client: Quincy,"Requirements: Chapter 10, Cavern Crushers"
+
+F1,Mission: The Handy Ma-non,Client: Sostenasa,Requirements: Chapter 5
+
+F2,Affinity Mission: My Dream,"Requirements: Chapter 5, Level 22"
+
+F3,Affinity Shift: Cedric (Hangar),Quest Required: Tree-mendous
+
+F4,Affinity Mission: The Nopon Heir,"Requirements: Chapter 12, Level 49,  L - ♥♥♥♥"
+
+F5,Character Hangout: L
+
+F6,Mission: That's In-Credible!,Client: Tutura,Requirements: Chapter 5
+
+F7,Affinity Mission: Reporting for Duty,"Requirements: Chapter 10, Level 41, Nagi - ♥♥♥"
+
+F8,Affinity Mission: A False Hope,"Requirements: Chapter 5, Level 24, Hope - ♥♥"
+
+F9,Mission: Planetary Pioneer (Part II),Client: Kirsty,"Requirements: Chapter 5, Planetary Pioneer (Part I)"
+
+F10,Affinity Shift: Nopopon,"Requirements: Late night, The Divine Nopopon"
+
+G1,Mission: Mamma Mia! (<3),Client: Mia,Requirements: Chapter 3
+
+G2,Affinity Mission: Mia Grows Up,"Requirements: Chapter 12, Level 53, Mia ♥♥♥♥, Sparking a Smile"
+
+G3,Affinity Mission: Brotherly Love,"Requirements: Chapter 11, Level 46, Phog ♥♥♥♥, Frye ♥♥♥♥, Blitzkrieg"
+
+G4,Heart-to-Heart: Doug,Affinity: 5,Appears: All day,Requirements: 4th heart-to-heart
+
+G5,Affinity Mission: L's Conundrum,"Requirements: Chapter 10, Level 38, L - ♥♥, Booming Business"
+
+G6,Mission: Booming Business,Client: L,Requirements: Chapter 5
+
+G7,Mission: Lend an Ear,Client: Gu Ladha (on top of the Blade tower),"Requirements: Chapter 11, A Challenger Approaches"
+
+G8 ,Mission: Setting Forth,Client: Muimui,"Requirements: Chapter 8, BFFs"
+
+G9,Heart-to-heart: Nagi,Affinity: 1,Appears: Afternoon
+
+H1,Mission: Planetary Pioneer (Part IV),Client: Kirsty,"Requirements: Chapter 8, Planetary Pioneer (Part III)"
+
+H2,"Mission: Waste Not, Want Not",Client: Lara Mara,Requirements: Chapter 10
+
+H3,Mission: Skell License,Client: Vandham,Requirements: Chapter 6
+
+H4,Heart-to-Heart: Frye,Affinity: 2,Appears: Nighttime,Requirements: 1st heart-to-heart
+
+H5,Mission: House of Cards,Client: Yardley,"Requirements: Chapter 5, Yardley's Scheme"
+
+H6,Mission: White Lifehold,Client: Lara Mara,"Requirements: Chapter 11, Turf War"
+
+H7,Mission: BLADE Level Basics,Client: Eleonora,Requirements: Chapter 3
+
+H8,Affinity Mission: Soldier of the Harriers,"Requirements: Chapter 7, Level 30, Doug ♥♥♥"
+
+H9,Mission: The Probe-fessional,Client: Kirsty,Requirements: Chapter 2
+
+H10,Mission: The Duel (Part III),Client: Gi Zang,"Requirements: Chapter 11, The Duel (Part II)"
+
+I1 ,Affinity Mission: The Little Rich Girl,"Requirements: Chapter 10, Level 39, Murderess ♥♥"
+
+I2,Character Hangout: Lao
+
+I3,Character Hangout: Gwin
+
+I4,Mission: City Saviors,Client: Carl,"Requirements: Chapter 3, Primordia Survey Rate > 15%"
+
+I5,Affinity Mission: Close Comrades,"Requirements: Chapter 4, Level 20"
+
+I6,Mission: Planetary Pioneer (Part II),Client: Kirsty,"Requirements: Chapter 5, Planetary Pioneer (Part I)"
+
+I7,Affinity Shift: Wolf,Requirements: UNCERTAIN Talk to Heradot or complete Snipe Hunt
+
+I8,Mission: Ovah and Out,Client: Han'barac,"Requirements: Chapter 7, Going Viral"
+
+I9,Mission: Cooking Schooled,Client: Sherry,"Requirements: Chapter 12, Lionhearted (aka Ceaseless Vigor)"
+
+I10,Mission: Mia Is Missing! (aka Mia's Conclusion),Client: Mia (starts in Ganglion Antropolis),"Requirements: Chapter 11, It's-a Mia!, Definian Downfall, Cauldros Survey Rate > 65%"
+
+J1,Mission: Unknown Assailant,Client: Raleigh,"Requirements: Chapter 10, Frontier Spirit"
+
+J2,Mission: Frontier Spirit,Client: Corwin,Requirements: Chapter 6
+
+J3,Heart-to-Heart: Lin,Affinity: 3,Appears: Afternoon,Requirements: 2nd heart-to-heart
+
+J4,Mission: Close Encounters,Client: Sarona,Requirements: Chapter 6
+
+J5,Mission: The Root of All Evil,Client: Tobias,"Requirements: Chapter 8, Planetary Pioneer (Part IV)"
+
+J6,Character Hangout: Irina
+
+J7,Character Hangout: Murderess
+
+K1,Mission: Myles to Go,Client: Satie,Requirements: Chapter 2
+
+L1 ,Mission: Slovity's Rampage,Client: Trigo Bambolt,"Requirements: Chapter 10, Cavern Crushers"
+
+L2,Affinity Mission: Blitzkrieg,"Requirements: Chapter 8, Level 33, Phog ♥♥♥, Frye ♥♥♥, A Great Divide"

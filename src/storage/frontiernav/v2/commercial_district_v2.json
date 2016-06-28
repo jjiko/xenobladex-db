@@ -1,0 +1,383 @@
+{
+  "map":"commercial district",
+  "coordinatex":39,
+  "coordinatesy":{"a1":"0px","a2":"42px","a3":"86px","a4":"130px","a5":"175px","a6":"219px","b1":"21px","b2":"64px","b3":"108px","b4":"152px","b5":"196px","b6":"241px","c1":"41px","c2":"86px","c3":"130px","c4":"173px","c5":"218px","d1":"18px","d2":"63px","d3":"107px","d4":"151px","d5":"194px","d6":"239px","e1":"40px","e2":"85px","e3":"130px","e4":"173px","e5":"217px","f1":"19px","f2":"64px","f3":"106px","f4":"150px","f5":"194px","g1":"129px","g2":"172px","g3":"216px","h1":"105px","h2":"150px","h3":"194px","i1":"39px","i2":"84px","i3":"131px","i4":"172px","i5":"216px","j1":"60px","j2":"105px","k1":"38px","k2":"82px","k3":"127px"},
+  "segments": {
+    "a1": {
+      "type": "mission",
+      "data": {
+        "name": "Going Viral",
+        "client": "Client: Julius",
+        "requirements": "Requirements: Chapter 7, Circle of Life"
+      }
+    },
+    "a2": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Gwin",
+        "affinity": "5",
+        "appears": "Evening"
+      }
+    },
+    "a3": {
+      "type": "mission",
+      "data": {
+        "name": "Alien Nation",
+        "client": "Client: Alex",
+        "requirements": "Requirements: Chapter 7"
+      }
+    },
+    "a4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Heart-to-heart: Lin",
+        "affinity": "2",
+        "appears": "Afternoon"
+      }
+    },
+    "a5": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Mia",
+        "affinity": "4",
+        "appears": "All day"
+      }
+    },
+    "a6": {
+      "type": "character hangout",
+      "data": {
+        "name": "Boz\u00e9"
+      }
+    },
+    "b1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Celica",
+        "affinity": "3",
+        "appears": "Morning"
+      }
+    },
+    "b2": {
+      "type": "treasure",
+      "data": {
+        "type": "Container",
+        "requirements": "Requirements: Mechanical level 2"
+      }
+    },
+    "b3": {
+      "type": "mission",
+      "data": {
+        "name": "Stop, Thief!",
+        "client": "Client: Shiraton",
+        "requirements": "Requirements: Chapter 9, A Dubious Operation"
+      }
+    },
+    "b4": {
+      "type": "mission",
+      "data": {
+        "name": "A Dubious Operation",
+        "client": "Client: Shiraton",
+        "requirements": "Requirements: Chapter 7, Dead Men Tell No Tales"
+      }
+    },
+    "b5": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Mia",
+        "affinity": "2",
+        "appears": "Late Night"
+      }
+    },
+    "b6": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage (only appears after chapter 8)",
+        "requirements": "Archaeological Level 4"
+      }
+    },
+    "c1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Phog",
+        "affinity": "4",
+        "appears": "All Day"
+      }
+    },
+    "c2": {
+      "type": "mission",
+      "data": {
+        "name": "A Hero's Ride",
+        "client": "Client: Justin",
+        "requirements": "Requirements: Chapter 2"
+      }
+    },
+    "c3": {
+      "type": "mission",
+      "data": {
+        "name": "Better Latte Than Never",
+        "client": "Client: Jo",
+        "requirements": "Requirements: Chapter 2"
+      }
+    },
+    "c4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Doug",
+        "affinity": "4",
+        "appears": "All Day"
+      }
+    },
+    "c5": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Quiquat",
+        "requirements": "Requirements: Some of Kirsty and Tobias' quests done?"
+      }
+    },
+    "d1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Lin",
+        "affinity": "4",
+        "appears": "Evening"
+      }
+    },
+    "d2": {
+      "type": "mission",
+      "data": {
+        "name": "Emotion Commotion",
+        "client": "Client: Chiopitus",
+        "requirements": "Requirements: Chapter 7"
+      }
+    },
+    "d3": {
+      "type": "affinity",
+      "data": {
+        "name": "The Matchmaker",
+        "requirements": "Chapter 6, Level 24, Lao \u2665 "
+      }
+    },
+    "d4": {
+      "type": "affinity",
+      "data": {
+        "name": "Definian Downfall",
+        "requirements": "Client: HT665: Erio"
+      }
+    },
+    "d5": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Irina",
+        "affinity": "5",
+        "appears": "All Day"
+      }
+    },
+    "d6": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Veverta",
+        "requirements": "Requirements: Alex's Last Stand?"
+      }
+    },
+    "e1": {
+      "type": "affinity",
+      "data": {
+        "name": "Nine Lives",
+        "requirements": "Chapter 5, Level 20"
+      }
+    },
+    "e2": {
+      "type": "affinity",
+      "data": {
+        "name": "Renewed Will",
+        "requirements": "Chapter 3, Level 15"
+      }
+    },
+    "e3": {
+      "type": "mission",
+      "data": {
+        "name": "No Ma-non Need Apply",
+        "client": "Client: Wersal",
+        "requirements": "Requirements: Chapter 5, The Pipsqueak, That's In-Credible!"
+      }
+    },
+    "e4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "L",
+        "affinity": "4",
+        "appears": "All Day"
+      }
+    },
+    "e5": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Nagi",
+        "affinity": "3",
+        "appears": "Morning"
+      }
+    },
+    "f1": {
+      "type": "mission",
+      "data": {
+        "name": "Sparking a Smile",
+        "client": "Client: Ngogo",
+        "requirements": "Requirements: Chapter 8, BFFs, Mira Survey Rate > 40%"
+      }
+    },
+    "f2": {
+      "type": "mission",
+      "data": {
+        "name": "Unsatisfied Customer",
+        "client": "Client: Chiroro (lower part of the floating island at FN320)",
+        "requirements": "Requirements: Chapter 11, BFFs, viewed scene with Chiroro and Felice"
+      }
+    },
+    "f3": {
+      "type": "mission",
+      "data": {
+        "name": "The Fashionista",
+        "client": "Client: Victoria",
+        "requirements": "Requirements: Chapter 6"
+      }
+    },
+    "f4": {
+      "type": "mission",
+      "data": {
+        "name": "Planetary Pioneer (Part III)",
+        "client": "Client: Kirsty",
+        "requirements": "Requirements: Chapter 6, Planetary Pioneer (Part II)"
+      }
+    },
+    "f5": {
+      "type": "character hangout",
+      "data": {
+        "name": "Yelv"
+      }
+    },
+    "g1": {
+      "type": "mission",
+      "data": {
+        "name": "The Sword of Legendaryness",
+        "client": "Client: Muimui",
+        "requirements": "Requirements: Chapter 11, Bread and a Circus"
+      }
+    },
+    "g2": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Murderess",
+        "affinity": "2",
+        "appears": "Nighttime"
+      }
+    },
+    "g3": {
+      "type": "affinity",
+      "data": {
+        "name": "Serial Thriller",
+        "requirements": "Chapter 12, Level 53, A False Hope, Murderess \u2665\u2665\u2665\u2665"
+      }
+    },
+    "h1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Frye",
+        "affinity": "4",
+        "appears": "All Day"
+      }
+    },
+    "h2": {
+      "type": "mission",
+      "data": {
+        "name": "My Angel, My Lana",
+        "client": "Client: Bubu",
+        "requirements": "Requirements: Chapter 10, BFFs"
+      }
+    },
+    "h3": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage (only appears after chapter 8)",
+        "requirements": "Archaeological Level 3"
+      }
+    },
+    "i1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Hope",
+        "affinity": "5",
+        "appears": "All Day"
+      }
+    },
+    "i2": {
+      "type": "mission",
+      "data": {
+        "name": "Trade Agreement:",
+        "client": "Client: Warawa",
+        "requirements": "Requirements: Chapter 7, BFFs, Prone Sweet Prone, Circle of Life, Dead Men Tell No Tales"
+      }
+    },
+    "i3": {
+      "type": "affinity",
+      "data": {
+        "name": "The Ties That Bind",
+        "requirements": "Chapter 4, Level 15"
+      }
+    },
+    "i4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "L",
+        "affinity": "1",
+        "appears": "Afternoon"
+      }
+    },
+    "i5": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Beats",
+        "requirements": "Requirements: A Present for Hope?"
+      }
+    },
+    "j1": {
+      "type": "mission",
+      "data": {
+        "name": "Murder Most Foul",
+        "client": "Client: Ackwar",
+        "requirements": "Requirements: Chapter 9"
+      }
+    },
+    "j2": {
+      "type": "mission",
+      "data": {
+        "name": "Wrothian Innovation",
+        "client": "Client: Go Sirho",
+        "requirements": "Requirements: Chapter 10, A Challenger Approaches, Orphe Pluck"
+      }
+    },
+    "k1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Hope",
+        "affinity": "2",
+        "appears": "Evening"
+      }
+    },
+    "k2": {
+      "type": "mission",
+      "data": {
+        "name": "A Dish Served Cold",
+        "client": "Client: Zo Langra",
+        "requirements": "Requirements: Chapter 11, A Challenger Approaches"
+      }
+    },
+    "k3": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Elma",
+        "affinity": "3",
+        "appears": "Morning"
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "map":"barracks",
+  "coordinatex":39,
+  "coordinatesy":{"a1":"22px","a2":"67px","b1":"0px","b2":"43px","b3":"87px","c1":"19px","c2":"66px","d1":"0px","d2":"42px","d3":"89px","e1":"21px","e2":"66px","f1":"0px","f2":"42px","f3":"87px","g1":"21px","g2":"65px"},
+  "segments": {
+    "a1": {
+      "type": "affinity",
+      "data": {
+        "name": "The Repair Job",
+        "requirements": "Chapter 3, Level 13, Lin \u2665"
+      }
+    },
+    "a2": {
+      "type": "character hangout",
+      "data": {
+        "name": "Lin"
+      }
+    },
+    "b1": {
+      "type": "affinity",
+      "data": {
+        "name": "A Day in the Life",
+        "requirements": "Chapter 4, Level 16"
+      }
+    },
+    "b2": {
+      "type": "affinity",
+      "data": {
+        "name": "Then and Now",
+        "requirements": "Chapter 12, Level 58, Elma \u2665\u2665\u2665\u2665"
+      }
+    },
+    "b3": {
+      "type": "affinity",
+      "data": {
+        "name": "To Serve Nopon (aka Collecting Alien Recipes!)",
+        "requirements": "Chapter 12, Level 52, Lin \u2665\u2665\u2665\u2665"
+      }
+    },
+    "c1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Elma",
+        "affinity": "5",
+        "appears": "Night"
+      }
+    },
+    "c2": {
+      "type": "affinity",
+      "data": {
+        "name": "Nagi's Time",
+        "requirements": "Chapter 8, Level 32"
+      }
+    },
+    "d1": {
+      "type": "affinity",
+      "data": {
+        "name": "A Challenger Approaches",
+        "requirements": "Chapter 10, Level 42, Prospective Partners"
+      }
+    },
+    "d2": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Heart-to-heart: Nagi",
+        "affinity": "4",
+        "appears": "All day"
+      }
+    },
+    "d3": {
+      "type": "affinity",
+      "data": {
+        "name": "We Were Soldiers",
+        "requirements": "Chapter 3, Level 12, Elma \u2665"
+      }
+    },
+    "e1": {
+      "type": "character hangout",
+      "data": {
+        "name": "Elma"
+      }
+    },
+    "e2": {
+      "type": "affinity",
+      "data": {
+        "name": "Two Peas in a Pod",
+        "requirements": "Chapter 11, Level 47, A Day in the Life"
+      }
+    },
+    "f1": {
+      "type": "affinity",
+      "data": {
+        "name": "Fathers and Sons",
+        "requirements": "Chapter 11, Level 50, Irina \u2665\u2665\u2665\u2665"
+      }
+    },
+    "f2": {
+      "type": "uncategorized",
+      "data": {
+        "name": "Story Missions Complete"
+      }
+    },
+    "f3": {
+      "type": "affinity",
+      "data": {
+        "name": "BFFs",
+        "requirements": "Chapter 5, Level 22, The Ties That Bind"
+      }
+    },
+    "g1": {
+      "type": "affinity",
+      "data": {
+        "name": "Prospective Partners",
+        "requirements": "Chapter 9, Level 34, Mira Survey Rate > 18%, Spy Games"
+      }
+    },
+    "g2": {
+      "type": "affinity",
+      "data": {
+        "name": "A Friend in Need",
+        "requirements": "Chapter 5, Level 19"
+      }
+    }
+  }
+}

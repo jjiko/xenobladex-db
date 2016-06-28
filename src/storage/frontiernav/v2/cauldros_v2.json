@@ -1,0 +1,681 @@
+{
+  "map":"cauldros",
+  "coordinatex": 39,
+  "coordinatesy": {"a1":"108px","a2":"197px","b1":"86px","b2":"173px","b3":"217px","b4":"262px","c1":"63px","c2":"151px","c3":"196px","c4":"241px","d1":"131px","d2":"175px","d3":"218px","d4":"263px","e1":"66px","e2":"109px","e3":"152px","e4":"197px","e5":"240px","f1":"41px","f2":"87px","f3":"131px","f4":"175px","f5":"219px","f6":"262px","f7":"305px","f8":"350px","g1":"65px","g2":"110px","g3":"152px","g4":"196px","g5":"240px","g6":"284px","g7":"327px","g8":"372px","h1":"86px","h2":"131px","h3":"174px","h4":"218px","h5":"263px","h6":"306px","h7":"350px","i1":"64px","i2":"108px","i3":"152px","i4":"196px","i5":"240px","i6":"285px","i7":"330px","j1":"-1px","j2":"44px","j3":"87px","j4":"132px","j5":"175px","j6":"218px","j7":"264px","j8":"307px","k1":"64px","k2":"109px","k3":"153px","k4":"197px","k5":"240px","k6":"284px","l1":"86px","l2":"131px","l3":"174px","l4":"219px","l5":"263px","l6":"307px","m1":"64px","m2":"108px","m3":"151px","m4":"197px","n1":"87px","n2":"131px"},
+  "segments": {
+    "a1": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "Mechanical Level 1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G3"
+      }
+    },
+    "a2": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Reliquary",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,000 GP, 4 BP, Slayer.MECHANOID IV"
+      }
+    },
+    "b1": {
+      "type": "fn",
+      "data": {
+        "id": "501",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "b2": {
+      "type": "mission",
+      "data": {
+        "name": "Supplies Surprise",
+        "client": "Client: Nalu (Drongo Caravan)",
+        "requirements": "Requirements: Chapter 4"
+      }
+    },
+    "b3": {
+      "type": "fn",
+      "data": {
+        "id": "502",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "b4": {
+      "type": "treasure",
+      "data": {
+        "type": "Indigen Nest",
+        "requirements": "Biological Level 1",
+        "rewards": "50 XP, 4 BP, some Demon Horns?"
+      }
+    },
+    "c1": {
+      "type": "treasure",
+      "data": {
+        "type": "Indigen Nest (flight?)",
+        "requirements": "Biological Level 5",
+        "rewards": "500 XP, 24 BP, Custom.WP-ATK XIII, Custom.WP-SPEED XIII, Custom.WP-FUEL XIII"
+      }
+    },
+    "c2": {
+      "type": "mission",
+      "data": {
+        "name": "Gorkwa Games",
+        "client": "Client: Troylan (Ma-non Ship)",
+        "requirements": "Requirements: Chapter 7, Dead Men Tell No Tales"
+      }
+    },
+    "c3": {
+      "type": "mission",
+      "data": {
+        "name": "Sparking a Smile",
+        "client": "Client: Ngogo (Commercial District)",
+        "requirements": "Requirements: Chapter 8, BFFs, Mira Survey Rate > 40%"
+      }
+    },
+    "c4": {
+      "type": "mission",
+      "data": {
+        "name": "Slovity's Revenge",
+        "client": "Client: Slovity Pagus (Ma-non Ship)",
+        "requirements": "Requirements: Chapter 11, Slovity's Rampage"
+      }
+    },
+    "d1": {
+      "type": "fn",
+      "data": {
+        "id": "503",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "d2": {
+      "type": "treasure",
+      "data": {
+        "type": "Lifepod",
+        "requirements": "Mechanical Level 2",
+        "rewards": "30 XP, 3,000 GP, Mining Probe G8"
+      }
+    },
+    "d3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Kringe, the Hunting Arrow (40)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "d4": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "Mechanical Level 2",
+        "rewards": "100 XP, 10,000 GP, Mining Probe G8"
+      }
+    },
+    "e1": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "Mechanical Level 2",
+        "rewards": "100 XP, 20,000 GP, Mining Probe G1"
+      }
+    },
+    "e2": {
+      "type": "mission",
+      "data": {
+        "name": "The Bodyguard",
+        "client": "Client: Zazazan (somewhere in this hexagon)",
+        "requirements": "Requirements: Chapter 5, BFFs"
+      }
+    },
+    "e3": {
+      "type": "mission",
+      "data": {
+        "name": "My Angel, My Lana",
+        "client": "Client: Bubu (Commercial District)",
+        "requirements": "Requirements: Chapter 10, BFFs"
+      }
+    },
+    "e4": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,000 GP, 4BP, SpecUp.GRAV-RES VIII"
+      }
+    },
+    "e5": {
+      "type": "fn",
+      "data": {
+        "id": "504",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "f1": {
+      "type": "affinity",
+      "data": {
+        "name": "Definian Downfall",
+        "requirements": "Client: HT665: Erio (Commercial District)"
+      }
+    },
+    "f2": {
+      "type": "fn",
+      "data": {
+        "id": "505",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "f3": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Reliquary",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,000 GP, 4 BP, Slayer.INSECTOID VII"
+      }
+    },
+    "f4": {
+      "type": "fn",
+      "data": {
+        "id": "506",
+        "requirements": "3",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "f5": {
+      "type": "tyrant",
+      "data": {
+        "name": "Coil, the Never-Ending (55)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "f6": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Reliquary",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,000 GP, 4 BP, Overdrive.FRAME-HP X"
+      }
+    },
+    "f7": {
+      "type": "tyrant",
+      "data": {
+        "name": "Prinsipe, the Ravenous (44)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "f8": {
+      "type": "mission",
+      "data": {
+        "name": "The Old Gods",
+        "client": "Client: Feloran (Ma-non Ship)",
+        "requirements": "Requirements: Chapter 12, Dead Men Tell No Tales"
+      }
+    },
+    "g1": {
+      "type": "mission",
+      "data": {
+        "name": "Mia Is Missing! (aka Mia's Conclusion)",
+        "client": "Client: Mia (inside a locked trailer. Appears as a treasure symbol on minimap)",
+        "requirements": "Requirements: Chapter 11, It's-a Mia!, Definian Downfall, Cauldros Survey Rate > 65%"
+      }
+    },
+    "g2": {
+      "type": "mission",
+      "data": {
+        "name": "The Duel (Part IV)",
+        "client": "Client: Gi Zang (the center of E4\/tile north of FN 504)",
+        "requirements": "Requirements: Chapter 11, (The Duel Part III)"
+      }
+    },
+    "g3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Chantai's Galdr (47)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "g4": {
+      "type": "treasure",
+      "data": {
+        "type": "Patrol Chopper Wreckage",
+        "requirements": "Mechanical Level 3",
+        "rewards": "150 XP, 20,000 GP, Mining Probe G6"
+      }
+    },
+    "g5": {
+      "type": "affinity",
+      "data": {
+        "name": "To Serve Nopon (aka Collecting Alien Recipes!) (Barracks)",
+        "requirements": "Chapter 12, Level 52, Lin \u2665\u2665\u2665\u2665"
+      }
+    },
+    "g6": {
+      "type": "mission",
+      "data": {
+        "name": "Rites of Ruin",
+        "client": "Client: Jalimbo (Residential District)",
+        "requirements": "Requirements: Chapter 8, The Miracle Maker"
+      }
+    },
+    "g7": {
+      "type": "fn",
+      "data": {
+        "id": "507",
+        "requirements": "3",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "g8": {
+      "type": "mission",
+      "data": {
+        "name": "Black Lifehold",
+        "client": "Client: Milly (Oblivia - Dorian Caravan)",
+        "requirements": "Requirements: Chapter 11, Daytime"
+      }
+    },
+    "h1": {
+      "type": "tyrant",
+      "data": {
+        "name": "Eisen, the Ebon Rock (51)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "h2": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 2",
+        "rewards": "30 XP, 1,500 GP, 2 BP, Resist Stun XII"
+      }
+    },
+    "h3": {
+      "type": "affinity",
+      "data": {
+        "name": "Lionhearted (aka Ceaseless Vigor)",
+        "requirements": "Chapter 12, Level 51, A Challenger Approaches"
+      }
+    },
+    "h4": {
+      "type": "fn",
+      "data": {
+        "id": "508",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "h5": {
+      "type": "tyrant",
+      "data": {
+        "name": "Pelicollo, the Panzer (36)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "h6": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container (flight?)",
+        "requirements": "Archaeological Level 3",
+        "rewards": "150 XP, 10,000 GP, 6 BP, CriticalUp X"
+      }
+    },
+    "h7": {
+      "type": "treasure",
+      "data": {
+        "type": "Lifepod",
+        "requirements": "Mechanical Level 3",
+        "rewards": "150 XP, 20,000 GP, Mining Probe G8"
+      }
+    },
+    "i1": {
+      "type": "tyrant",
+      "data": {
+        "name": "Chantai, the Insect Maiden (38)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "i2": {
+      "type": "fn",
+      "data": {
+        "id": "509",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "i3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Armored Cruiser Seidr (61)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "i4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Duran, the Draconian",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "i5": {
+      "type": "tyrant",
+      "data": {
+        "name": "Ilithios, the Enlightened (48)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "i6": {
+      "type": "treasure",
+      "data": {
+        "type": "Lifepod",
+        "requirements": "Mechanical Level 3",
+        "rewards": "150 XP, 20,000 GP, Mining Probe G8"
+      }
+    },
+    "i7": {
+      "type": "treasure",
+      "data": {
+        "type": "Lifepod",
+        "requirements": "Mechanical Level 2",
+        "rewards": "100 XP, 10,000 GP, Mining Probe G9"
+      }
+    },
+    "j1": {
+      "type": "fn",
+      "data": {
+        "id": "510",
+        "requirements": "3",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "j2": {
+      "type": "affinity",
+      "data": {
+        "name": "A Present for Hope (Residential District)",
+        "requirements": "Chapter 10, Level 44, Hope \u2665\u2665\u2665\u2665"
+      }
+    },
+    "j3": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,000 GP, 4BP, AttributeDmg.THERM VIII"
+      }
+    },
+    "j4": {
+      "type": "treasure",
+      "data": {
+        "type": "Indigen Nest",
+        "requirements": "Biological Level 2",
+        "rewards": "100 XP, 6 BP, Unfathomable Devil Wings"
+      }
+    },
+    "j5": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,00 GP, 4 BP, Resist.THERM-DOWN VIII"
+      }
+    },
+    "j6": {
+      "type": "fn",
+      "data": {
+        "id": "511",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "j7": {
+      "type": "treasure",
+      "data": {
+        "type": "Patrol Chopper Wreckage",
+        "requirements": "Mechanical Level 2",
+        "rewards": "100 XP, 10,000 GP, Mining Probe G6"
+      }
+    },
+    "j8": {
+      "type": "fn",
+      "data": {
+        "id": "512",
+        "requirements": "4",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "k1": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Reliquary",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,000 GP, 4 BP, Overdrive.FRAME-HP XV"
+      }
+    },
+    "k2": {
+      "type": "fn",
+      "data": {
+        "id": "513",
+        "requirements": "4",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "k3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Terenty, the Blademaster (72)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "k4": {
+      "type": "treasure",
+      "data": {
+        "type": "Patrol Chopper Wreckage",
+        "requirements": "Mechanical Level 2",
+        "rewards": "100 XP, 10,000 GP, Mining Probe G8"
+      }
+    },
+    "k5": {
+      "type": "mission",
+      "data": {
+        "name": "Until the End",
+        "client": "Client: Vi Sezha (Oblivia - Wrothian Stronghold)",
+        "requirements": "Requirements: Chapter 11, A Challenger Approaches"
+      }
+    },
+    "k6": {
+      "type": "tyrant",
+      "data": {
+        "name": "Gi-zho, the Iron Deity (79)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "l1": {
+      "type": "tyrant",
+      "data": {
+        "name": "Jia Mian, the Beloved (50)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "l2": {
+      "type": "mission",
+      "data": {
+        "name": "The Queen Is Dead",
+        "client": "Client: Ni Zinga (Oblivia - Wrothian Stronghold)",
+        "requirements": "Requirements: Chapter 11, A Challenger Approaches"
+      }
+    },
+    "l3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Sharnaak, the Technician (46)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "l4": {
+      "type": "mission",
+      "data": {
+        "name": "Alex's Last Stand",
+        "client": "Client: Eliza (Residential District)",
+        "requirements": "Requirements: Chapter 10, The Line of Fire"
+      }
+    },
+    "l5": {
+      "type": "fn",
+      "data": {
+        "id": "514",
+        "requirements": "3",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "l6": {
+      "type": "treasure",
+      "data": {
+        "type": "Patrol Chopper Wreckage",
+        "requirements": "Mechanical Level 4",
+        "rewards": "200 XP, 100,000 GP, Storage Probe"
+      }
+    },
+    "m1": {
+      "type": "mission",
+      "data": {
+        "name": "The Unbreakable Sword",
+        "client": "Client: De Zing (Ma-non Ship)",
+        "requirements": "Requirements: Chapter 12, A Challenger Approaches"
+      }
+    },
+    "m2": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Reliquary",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, AttributeDmg.ELEC X"
+      }
+    },
+    "m3": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,000 GP, 4BP, Resist.GRAV-DOWN VIII"
+      }
+    },
+    "m4": {
+      "type": "fn",
+      "data": {
+        "id": "515",
+        "requirements": "3",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "n1": {
+      "type": "fn",
+      "data": {
+        "id": "516",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "n2": {
+      "type": "treasure",
+      "data": {
+        "type": "Indigen Nest",
+        "requirements": "Biological Level 3",
+        "rewards": "150 XP, 8 BP, some Eyepatch?"
+      }
+    }
+  }
+}

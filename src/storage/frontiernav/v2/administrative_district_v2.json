@@ -1,0 +1,487 @@
+{
+  "map": "administrative district",
+  "coordinatex": 39,
+  "coordinatesy": {"a1":"242px","b1":"263px","c1":"242px","c2":"284px","d1":"220px","d2":"263px","d3":"306px","e1":"67px","e2":"110px","e3":"154px","e4":"196px","e5":"239px","e6":"282px","e7":"329px","e8":"373px","f1":"44px","f2":"88px","f3":"132px","f4":"174px","f5":"220px","f6":"263px","f7":"306px","f8":"350px","f9":"393px","f10":"436px","g1":"22px","g2":"66px","g3":"109px","g4":"153px","g5":"197px","g6":"242px","g7":"286px","g8":"328px","g9":"373px","h1":"0px","h2":"45px","h3":"87px","h4":"130px","h5":"175px","h6":"219px","h7":"264px","h8":"307px","h9":"350px","h10":"394px","i1":"21px","i2":"64px","i3":"109px","i4":"153px","i5":"197px","i6":"241px","i7":"285px","i8":"330px","i9":"374px","i10":"417px","j1":"43px","j2":"87px","j3":"132px","j4":"176px","j5":"220px","j6":"264px","j7":"309px","k1":"200px","l1":"176px","l2":"220px"},
+  "segments": {
+    "a1": {
+      "type": "mission",
+      "data": {
+        "name": "The Duel (Part II)",
+        "client": "Client: Gi Zang",
+        "requirements": "Requirements: Chapter 11, The Duel (Part I)"
+      }
+    },
+    "b1": {
+      "type": "character hangout",
+      "data": {
+        "name": "Nagi"
+      }
+    },
+    "c1": {
+      "type": "mission",
+      "data": {
+        "name": "Cavern Crushers",
+        "client": "Client: Stella",
+        "requirements": "Requirements: Chapter 9, Prone Sweet Prone"
+      }
+    },
+    "c2": {
+      "type": "mission",
+      "data": {
+        "name": "Attack on Biahno Hills",
+        "client": "Client: Lara Nara",
+        "requirements": "Requirements: Chapter 7, spoken to Suriella"
+      }
+    },
+    "d1": {
+      "type": "mission",
+      "data": {
+        "name": "Dead Men Tell No Tales",
+        "client": "Client: Stella",
+        "requirements": "Requirements: Chapter 7, Primordia Survey Rate > 50%"
+      }
+    },
+    "d2": {
+      "type": "mission",
+      "data": {
+        "name": "Prone Sweet Prone",
+        "client": "Client: Stella",
+        "requirements": "Requirements: Chapter 5, Oblivia Survey Rate > 40%"
+      }
+    },
+    "d3": {
+      "type": "treasure",
+      "data": {
+        "type": "Large Container",
+        "requirements": "Requirements: Mechanical Level 4"
+      }
+    },
+    "e1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Gwin",
+        "affinity": "1",
+        "appears": "Afternoon"
+      }
+    },
+    "e2": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Irina",
+        "affinity": "3",
+        "appears": "Morning"
+      }
+    },
+    "e3": {
+      "type": "character hangout",
+      "data": {
+        "name": "Doug"
+      }
+    },
+    "e4": {
+      "type": "treasure",
+      "data": {
+        "type": "Trailer",
+        "requirements": "Requirements: Mechanical Level 2"
+      }
+    },
+    "e5": {
+      "type": "affinity",
+      "data": {
+        "name": "Manhunt",
+        "requirements": "Chapter 8, Level 33"
+      }
+    },
+    "e6": {
+      "type": "affinity",
+      "data": {
+        "name": "Spy Games",
+        "requirements": " Chapter 7, Level 28"
+      }
+    },
+    "e7": {
+      "type": "mission",
+      "data": {
+        "name": "Rescue at the Ensconced Citadel",
+        "client": "Client: Julius",
+        "requirements": "Requirements: Chapter 6, Noctilum Survey Rate > 30%"
+      }
+    },
+    "e8": {
+      "type": "mission",
+      "data": {
+        "name": "The Ultimate Price",
+        "client": "Client: Quincy",
+        "requirements": "Requirements: Chapter 10, Cavern Crushers"
+      }
+    },
+    "f1": {
+      "type": "mission",
+      "data": {
+        "name": "The Handy Ma-non",
+        "client": "Client: Sostenasa",
+        "requirements": "Requirements: Chapter 5"
+      }
+    },
+    "f2": {
+      "type": "affinity",
+      "data": {
+        "name": "My Dream",
+        "requirements": "Chapter 5, Level 22"
+      }
+    },
+    "f3": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Cedric (Hangar)",
+        "requirements": "Tree-mendous"
+      }
+    },
+    "f4": {
+      "type": "affinity",
+      "data": {
+        "name": "The Nopon Heir",
+        "requirements": "Chapter 12, Level 49,  L - \u2665\u2665\u2665\u2665"
+      }
+    },
+    "f5": {
+      "type": "character hangout",
+      "data": {
+        "name": "L"
+      }
+    },
+    "f6": {
+      "type": "mission",
+      "data": {
+        "name": "That's In-Credible!",
+        "client": "Client: Tutura",
+        "requirements": "Requirements: Chapter 5"
+      }
+    },
+    "f7": {
+      "type": "affinity",
+      "data": {
+        "name": "Reporting for Duty",
+        "requirements": "Chapter 10, Level 41, Nagi - \u2665\u2665\u2665"
+      }
+    },
+    "f8": {
+      "type": "affinity",
+      "data": {
+        "name": "A False Hope",
+        "requirements": "Chapter 5, Level 24, Hope - \u2665\u2665"
+      }
+    },
+    "f9": {
+      "type": "mission",
+      "data": {
+        "name": "Planetary Pioneer (Part II)",
+        "client": "Client: Kirsty",
+        "requirements": "Requirements: Chapter 5, Planetary Pioneer (Part I)"
+      }
+    },
+    "f10": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Nopopon",
+        "requirements": "Requirements: Late night, The Divine Nopopon"
+      }
+    },
+    "g1": {
+      "type": "mission",
+      "data": {
+        "name": "Mamma Mia! (<3)",
+        "client": "Client: Mia",
+        "requirements": "Requirements: Chapter 3"
+      }
+    },
+    "g2": {
+      "type": "affinity",
+      "data": {
+        "name": "Mia Grows Up",
+        "requirements": "Chapter 12, Level 53, Mia \u2665\u2665\u2665\u2665, Sparking a Smile"
+      }
+    },
+    "g3": {
+      "type": "affinity",
+      "data": {
+        "name": "Brotherly Love",
+        "requirements": "Chapter 11, Level 46, Phog \u2665\u2665\u2665\u2665, Frye \u2665\u2665\u2665\u2665, Blitzkrieg"
+      }
+    },
+    "g4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Doug",
+        "affinity": "5",
+        "appears": "All day"
+      }
+    },
+    "g5": {
+      "type": "affinity",
+      "data": {
+        "name": "L's Conundrum",
+        "requirements": "Chapter 10, Level 38, L - \u2665\u2665, Booming Business"
+      }
+    },
+    "g6": {
+      "type": "mission",
+      "data": {
+        "name": "Booming Business",
+        "client": "Client: L",
+        "requirements": "Requirements: Chapter 5"
+      }
+    },
+    "g7": {
+      "type": "mission",
+      "data": {
+        "name": "Lend an Ear",
+        "client": "Client: Gu Ladha (on top of the Blade tower)",
+        "requirements": "Requirements: Chapter 11, A Challenger Approaches"
+      }
+    },
+    "g8": {
+      "type": "mission",
+      "data": {
+        "name": "Setting Forth",
+        "client": "Client: Muimui",
+        "requirements": "Requirements: Chapter 8, BFFs"
+      }
+    },
+    "g9": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Heart-to-heart: Nagi",
+        "affinity": "1",
+        "appears": "Afternoon"
+      }
+    },
+    "h1": {
+      "type": "mission",
+      "data": {
+        "name": "Planetary Pioneer (Part IV)",
+        "client": "Client: Kirsty",
+        "requirements": "Requirements: Chapter 8, Planetary Pioneer (Part III)"
+      }
+    },
+    "h2": {
+      "type": "mission",
+      "data": {
+        "name": "Waste Not, Want Not",
+        "client": "Client: Lara Mara",
+        "requirements": "Requirements: Chapter 10"
+      }
+    },
+    "h3": {
+      "type": "mission",
+      "data": {
+        "name": "Skell License",
+        "client": "Client: Vandham",
+        "requirements": "Requirements: Chapter 6"
+      }
+    },
+    "h4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Frye",
+        "affinity": "2",
+        "appears": "Nighttime"
+      }
+    },
+    "h5": {
+      "type": "mission",
+      "data": {
+        "name": "House of Cards",
+        "client": "Client: Yardley",
+        "requirements": "Requirements: Chapter 5, Yardley's Scheme"
+      }
+    },
+    "h6": {
+      "type": "mission",
+      "data": {
+        "name": "White Lifehold",
+        "client": "Client: Lara Mara",
+        "requirements": "Requirements: Chapter 11, Turf War"
+      }
+    },
+    "h7": {
+      "type": "mission",
+      "data": {
+        "name": "BLADE Level Basics",
+        "client": "Client: Eleonora",
+        "requirements": "Requirements: Chapter 3"
+      }
+    },
+    "h8": {
+      "type": "affinity",
+      "data": {
+        "name": "Soldier of the Harriers",
+        "requirements": "Chapter 7, Level 30, Doug \u2665\u2665\u2665"
+      }
+    },
+    "h9": {
+      "type": "mission",
+      "data": {
+        "name": "The Probe-fessional",
+        "client": "Client: Kirsty",
+        "requirements": "Requirements: Chapter 2"
+      }
+    },
+    "h10": {
+      "type": "mission",
+      "data": {
+        "name": "The Duel (Part III)",
+        "client": "Client: Gi Zang",
+        "requirements": "Requirements: Chapter 11, The Duel (Part II)"
+      }
+    },
+    "i1": {
+      "type": "affinity",
+      "data": {
+        "name": "The Little Rich Girl",
+        "requirements": "Chapter 10, Level 39, Murderess \u2665\u2665"
+      }
+    },
+    "i2": {
+      "type": "character hangout",
+      "data": {
+        "name": "Lao"
+      }
+    },
+    "i3": {
+      "type": "character hangout",
+      "data": {
+        "name": "Gwin"
+      }
+    },
+    "i4": {
+      "type": "mission",
+      "data": {
+        "name": "City Saviors",
+        "client": "Client: Carl",
+        "requirements": "Requirements: Chapter 3, Primordia Survey Rate > 15%"
+      }
+    },
+    "i5": {
+      "type": "affinity",
+      "data": {
+        "name": "Close Comrades",
+        "requirements": "Chapter 4, Level 20"
+      }
+    },
+    "i6": {
+      "type": "mission",
+      "data": {
+        "name": "Planetary Pioneer (Part II)",
+        "client": "Client: Kirsty",
+        "requirements": "Requirements: Chapter 5, Planetary Pioneer (Part I)"
+      }
+    },
+    "i7": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Wolf",
+        "requirements": "Requirements: UNCERTAIN Talk to Heradot or complete Snipe Hunt"
+      }
+    },
+    "i8": {
+      "type": "mission",
+      "data": {
+        "name": "Ovah and Out",
+        "client": "Client: Han'barac",
+        "requirements": "Requirements: Chapter 7, Going Viral"
+      }
+    },
+    "i9": {
+      "type": "mission",
+      "data": {
+        "name": "Cooking Schooled",
+        "client": "Client: Sherry",
+        "requirements": "Requirements: Chapter 12, Lionhearted (aka Ceaseless Vigor)"
+      }
+    },
+    "i10": {
+      "type": "mission",
+      "data": {
+        "name": "Mia Is Missing! (aka Mia's Conclusion)",
+        "client": "Client: Mia (starts in Ganglion Antropolis)",
+        "requirements": "Requirements: Chapter 11, It's-a Mia!, Definian Downfall, Cauldros Survey Rate > 65%"
+      }
+    },
+    "j1": {
+      "type": "mission",
+      "data": {
+        "name": "Unknown Assailant",
+        "client": "Client: Raleigh",
+        "requirements": "Requirements: Chapter 10, Frontier Spirit"
+      }
+    },
+    "j2": {
+      "type": "mission",
+      "data": {
+        "name": "Frontier Spirit",
+        "client": "Client: Corwin",
+        "requirements": "Requirements: Chapter 6"
+      }
+    },
+    "j3": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Lin",
+        "affinity": "3",
+        "appears": "Afternoon"
+      }
+    },
+    "j4": {
+      "type": "mission",
+      "data": {
+        "name": "Close Encounters",
+        "client": "Client: Sarona",
+        "requirements": "Requirements: Chapter 6"
+      }
+    },
+    "j5": {
+      "type": "mission",
+      "data": {
+        "name": "The Root of All Evil",
+        "client": "Client: Tobias",
+        "requirements": "Requirements: Chapter 8, Planetary Pioneer (Part IV)"
+      }
+    },
+    "j6": {
+      "type": "character hangout",
+      "data": {
+        "name": "Irina"
+      }
+    },
+    "j7": {
+      "type": "character hangout",
+      "data": {
+        "name": "Murderess"
+      }
+    },
+    "k1": {
+      "type": "mission",
+      "data": {
+        "name": "Myles to Go",
+        "client": "Client: Satie",
+        "requirements": "Requirements: Chapter 2"
+      }
+    },
+    "l1": {
+      "type": "mission",
+      "data": {
+        "name": "Slovity's Rampage",
+        "client": "Client: Trigo Bambolt",
+        "requirements": "Requirements: Chapter 10, Cavern Crushers"
+      }
+    },
+    "l2": {
+      "type": "affinity",
+      "data": {
+        "name": "Blitzkrieg",
+        "requirements": "Chapter 8, Level 33, Phog \u2665\u2665\u2665, Frye \u2665\u2665\u2665, A Great Divide"
+      }
+    }
+  }
+}

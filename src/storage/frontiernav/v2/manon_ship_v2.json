@@ -1,0 +1,188 @@
+{
+  "map":"manon ship",
+  "coordinatex":39,
+  "coordinatesy":{"a1":"45px","a2":"90px","b1":"22px","b2":"66px","c1":"0px","c2":"45px","c3":"86px","d1":"23px","d2":"111px","e1":"131px","f1":"109px","f2":"152px","g1":"86px","g2":"173px","g3":"217px","g4":"262px","h1":"196px","h2":"239px","h3":"283px","i1":"173px","i2":"216px","i3":"262px","j1":"194px"},
+  "segments": {
+    "a1": {
+      "type": "mission",
+      "data": {
+        "name": "Forbidden Love",
+        "client": "Client: Loda Gorida",
+        "requirements": "Requirements: Chapter 8, Prone Sweet Prone"
+      }
+    },
+    "a2": {
+      "type": "mission",
+      "data": {
+        "name": "No-Show Nen'celeg",
+        "client": "Client: Nan'celeg",
+        "requirements": "Requirements: Chapter 10, House Call"
+      }
+    },
+    "b1": {
+      "type": "mission",
+      "data": {
+        "name": "Gorkwa Games",
+        "client": "Client: Troylan",
+        "requirements": "Requirements: Chapter 7, Dead Men Tell No Tales"
+      }
+    },
+    "b2": {
+      "type": "mission",
+      "data": {
+        "name": "House Call",
+        "client": "Client: Nan'celeg",
+        "requirements": "Requirements: Chapter 10, Circle of Life"
+      }
+    },
+    "c1": {
+      "type": "mission",
+      "data": {
+        "name": "A New Life",
+        "client": "Client: Bazis Wolfen",
+        "requirements": "Requirements: Chapter 11, Here Come the Brides, Oblivia Survey Rate > 70%"
+      }
+    },
+    "c2": {
+      "type": "mission",
+      "data": {
+        "name": "Here Come the Brides",
+        "client": "Client: Nemard Wolfen",
+        "requirements": "Requirements: Chapter 9, Prone Sweet Prone"
+      }
+    },
+    "c3": {
+      "type": "mission",
+      "data": {
+        "name": "The Unbreakable Sword",
+        "client": "Client: De Zing",
+        "requirements": "Requirements: Chapter 12, A Challenger Approaches"
+      }
+    },
+    "d1": {
+      "type": "mission",
+      "data": {
+        "name": "A Grim Undertaking",
+        "client": "Client: Hala Gorida",
+        "requirements": "Requirements: Chapter 6, Prone Sweet Prone"
+      }
+    },
+    "d2": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "L",
+        "affinity": "2",
+        "appears": "Nighttime"
+      }
+    },
+    "e1": {
+      "type": "mission",
+      "data": {
+        "name": "The Lurker",
+        "client": "Client: Go Rogan",
+        "requirements": "Requirements: Chapter 12, The Duel Part (IV)"
+      }
+    },
+    "f1": {
+      "type": "mission",
+      "data": {
+        "name": "Snipe Hunt",
+        "client": "Client: Bihabba",
+        "requirements": "Requirements: Chapter 12"
+      }
+    },
+    "f2": {
+      "type": "character hangout",
+      "data": {
+        "name": "Mia"
+      }
+    },
+    "g1": {
+      "type": "mission",
+      "data": {
+        "name": "Sun'celeg Rises",
+        "client": "Client: Sun'barac",
+        "requirements": "Requirements: Chapter 6, Rescue at the Ensconced Citadel"
+      }
+    },
+    "g2": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Zurranik",
+        "requirements": "Requirements: Gold Rush, maybe Trade Agreement"
+      }
+    },
+    "g3": {
+      "type": "mission",
+      "data": {
+        "name": "The Membership",
+        "client": "Client: May May",
+        "requirements": "Requirements: Chapter 6, Planetary Pioneer (Part III)"
+      }
+    },
+    "g4": {
+      "type": "mission",
+      "data": {
+        "name": "Tree-mendous",
+        "client": "Client: Sevvy Belgazus",
+        "requirements": "Requirements: Chapter 5, Prone Sweet Prone"
+      }
+    },
+    "h1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Elma",
+        "affinity": "4",
+        "appears": "Evening"
+      }
+    },
+    "h2": {
+      "type": "mission",
+      "data": {
+        "name": "The Old Gods",
+        "client": "Client: Feloran",
+        "requirements": "Requirements: Chapter 12, Dead Men Tell No Tales"
+      }
+    },
+    "h3": {
+      "type": "mission",
+      "data": {
+        "name": "An Ancient Legend",
+        "client": "Client: Nimu Turton",
+        "requirements": "Requirements: Chapter 12, Slovity's Revenge"
+      }
+    },
+    "i1": {
+      "type": "mission",
+      "data": {
+        "name": "Training Day",
+        "client": "Client: Zarch Quokett",
+        "requirements": "Requirements: Chapter 7, Prone Sweet Prone"
+      }
+    },
+    "i2": {
+      "type": "mission",
+      "data": {
+        "name": "The Art of War",
+        "client": "Client: Sajif Scoppio",
+        "requirements": "Requirements: Chapter 8, Prone Sweet Prone"
+      }
+    },
+    "i3": {
+      "type": "mission",
+      "data": {
+        "name": "Slovity's Revenge",
+        "client": "Client: Slovity Pagus",
+        "requirements": "Requirements: Chapter 11, Slovity's Rampage"
+      }
+    },
+    "j1": {
+      "type": "mission",
+      "data": {
+        "name": "The Party Line",
+        "client": "Client: Sun'barac",
+        "requirements": "Requirements: Chapter 12, A Challenger Approaches, BFFs, Prone Sweet Prone, Circle of Life, Dead Men Tell No Tales"
+      }
+    }
+  }
+}

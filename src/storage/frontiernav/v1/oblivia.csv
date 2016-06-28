@@ -1,0 +1,95 @@
+A1,Treasure: White Whale Debris,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G2"
+A2,FN Site 301,Mechanical Level: 1,Production: B,Revenue: D,Combat Support: B,"Mineable Resources: Infernium, Arc Sand Ore, Lionbone Bort"
+B1,"Tyrant: Melanya, the Sound Sleeper (20)",Subcategory: Suid,Appears: Always,Location: Sleeping on the west side of the hexagon
+B2,Mission: Sun'celeg Rises,Client: Sun'barac (Ma-non Ship),"Requirements: Chapter 6, Rescue at the Ensconced Citadel"
+C1,FN Site 302,Mechanical Level: 2,Production: C,Revenue: E,Combat Support: B
+C2,"Tyrant: Gotthard, the Intimidating (61)",Subcategory: Auravis,Appears: Always,Location: Flying around over that area of the abyss
+C3,Treasure: Skell Wreckage,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Mining Probe G2"
+C4,FN Site 303,Mechanical Level: 1,Production: C,Revenue: E,Combat Support: B,"Mineable Resources: Aurorite, White Cometite"
+D1,Treasure: Indigen Nest,Requires: Biological Level 4,"Rewards: 200 XP, 10 BP, Lovestruck Sheep Horns"
+D2,"Tyrant: Germaine, the Treasure Keeper",Subcategory: Ovis,Appears: Always,Location: Eddie's Conquest
+D3,Treasure: Vehicle Wreckage,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Mining Probe G2"
+D4,FN Site 304 (NEED FLIGHT),Mechanical Level: 5,Production: B,Revenue: A,Combat Support: S
+D5,Treasure: Alien Wreckage,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,000 GP, 4 BP, TP Rebound V"
+D6,"Tyrant: Vendura, the Spellbinder (20)",Subcategory: Prone,Appears: Daytime,Location: Upper part of Mesa Fortress?
+E1,"Tyrant: Libra, the Long-Lived (20)",Subcategory: Purgovent,Appears: Always,Location: Along the NW shore of the beach
+E2,FN Site 305,Mechanical Level: 1,Production: C,Revenue: E,Combat Support: B,"Mineable Resources: Aurorite, Arc Sand Ore, Enduron Lead"
+E3,"Tyrant: Jindriska, the Serene (26)",Subcategory: Mortifole,Appears: Always,Location: On the southern part of the upper walkway (flower)
+E4,"Tyrant: Barnabas, the Despot (65)",Subcategory: Vigent,Appears: Daytime,Location: Wanders around Aaroy Plain
+E5,Mission: A Dish Served Cold,Client: Zo Langra (Commercial District),"Requirements: Chapter 11, A Challenger Approaches"
+E6,"Treasure: Indigen Nest (IN THE ABYSS, IN A GAP BETWEEN TWO PILLARS)",Requires: Biological Level 2,"Rewards: 100 XP, 6 BP, Supreme(?) Bunny Ears"
+E7,Mission: Prone Sweet Prone,Client: Stella (Administrative District),"Requirements: Chapter 5, Oblivia Survey Rate > 40%"
+F1,"Tyrant: Edgardo, the Carefree (18)",Subcategory: Thallus,Appears: Always,Location: Camouflaged as a stick on the north side of one of the pillars
+F2,Treasure: Skell Wreckage,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G8"
+F3,"Tyrant: Squallo, the Sand Mirer (65)",Subcategory: Sabula,Appears: Daytime,Location: Will pop out of the ground somewhere in the hexagon
+F4,Treasure: White Whale Debris,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Mining Probe G2"
+F5,Affinity Mission: Foggy Dilemma (Residential District),"Requirements: Chapter 4, Level 13, Backup Request (Phog)"
+F6,FN Site 306,Mechanical Level: 1,Production: C,Revenue: D,Combat Support: B,Sightseeing Spots: Cryptic Sign (flight?)
+F7,Treasure: Skell Wreckage,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G8"
+F8,FN Site 307,Mechanical Level: 3,Production: C,Revenue: B,Combat Support: B,"Mineable Resources: Infernium, Arc Sand Ore, Enduron Lead, White Cometite"
+G1,FN Site 308,Mechanical Level: 2,Production: B,Revenue: C,Combat Support: A,Mineable Resources: Ouroboros Crystal
+G2,"Tyrant: Ro-darm, the Demon Claw (38)",Subcategory: Oc-serv,Appears: Always,"Location: South of FN 308, lying on the ground against the wall."
+G3,Mission: Slovity's Rampage,Client: Trigo Bambolt (Administrative District),"Requirements: Chapter 10, Cavern Crushers"
+G4,FN Site 309,Mechanical Level: 2,Production: C,Revenue: C,Combat Support: B,"Mineable Resources: Enduron Lead, Ouroboros Crystal"
+G5,Mission: Mayday,Client: May (should be in the hexagon),Requirements: Chapter 2
+G6,Treasure: Skell Wreckage,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Mining Probe G2"
+G7,"Tyrant: Hartmut, the Calamity (91)",Subcategory: Millepod,Appears: Always,Location: Flying in the eastern half of the abyss
+G8,"Tyrant: Valeriano, the Rolling Thunder (26)",Subcategory: Duoguill,Appears: Electromagnetic Storm,Location: The center of the lake
+G9,Affinity Mission: A Friend in Need (Barracks),"Requirements: Chapter 5, Level 19"
+H1,Treasure: White Whale Debris (might need flight),Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G6"
+H2,Treasure: Skell Wreckage,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G8"
+H3,"Tyrant: Ernest, the Contemplative (36)",Subcategory: Progren,Appears: Always,"Location: Along the wall, NE of 309"
+H4,"Tyrant: Celedonia, the Battle-Tested (18)",Subcategory: Grex,Appears: Always,Location: roams around the hexagon?
+H5,Treasure: Indigen Dung,Requires: Biological Level 2,"Rewards: 100 XP, 6 BP, Jet Black Devil Wings"
+H6,"Tyrant: Vittorio, the Battle-Scarred (28)",Subcategory: Tectinsla,Appears: Always,"Location: In the NW corner of the hexagon, near the rocks. (burrowed)"
+H7,Treasure: White Whale Debris,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Mining Probe G2"
+H8,Mission: Mighty Mia,Client: Mia (on the ring),"Requires: Chapter 6, Adventure! (Noctilum)"
+H9,Treasure: Trailer Wreckage,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Mining Probe G4"
+I1,FN Site 310,Mechanical Level: 2,Production: C,Revenue: A,Combat Support: B
+I2,Mission: The Duel (Part I),Client: Gi Zang (this hexagon),"Requirements: Chapter 10, A Challenger Approaches"
+I3,FN Site 311,Mechanical Level: 2,Production: C,Revenue: B,Combat Support: B
+I4,"Tyrant: Rolf, the Sonorous (44)",Subcategory: Saltat,Appears: Always,Location: On the southeast banks of the river
+I5,"Tyrant: Ludvik, the Picky Eater",Subcategory: Casuari/Evello,Appears: Daytime,"Location: Center of the hexagon, next to some small trees"
+I6,FN Site 312,Mechanical Level: 2,Production: C,Revenue: D,Combat Support: B,"Mineable Resources: Infernium, Boiled-Egg Ore, Lionbone Bort"
+I7,Mission: A Grim Undertaking,Client: Hala Gorida (Ma-non Ship),"Requirements: Chapter 6, Prone Sweet Prone"
+I8,FN Site 313,Mechanical Level: 1,Production: C,Revenue: E,Combat Support: A,"Sightseeing Spots: Azure Lagoon, Crater Oasis"
+I9,Treasure: Skell Wreckage,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G8"
+I10,FN Site 314,Mechanical Level: 3,Production: C,Revenue: B,Combat Support: S
+J1,Affinity Mission: The Little Rich Girl (Administrative District),"Requirements: Chapter 10, Level 39, Murderess ♥♥"
+J2,"Tyrant: Elaine, the Lunar Eclipse (55)",Subcategory: Ceto,Appears: Nighttime,Location: Above the west end of Lake Basel
+J3,Affinity Mission: A Challenger Approaches (Barracks),"Requirements: Chapter 10, Level 42, Prospective Partners"
+J4,FN Site 315,Mechanical Level: 3,Production: A,Revenue: A,Combat Support: B,"Sightseeing Spots: Kintrees, Mount Edge Peak"
+J5,Treasure: White Whale Debris,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G8"
+J6,Affinity Mission: Then and Now (Barracks),"Requirements: Chapter 12, Level 58, Elma ♥♥♥♥"
+J7,"Tyrant: Eliane, the Unmoved (29)",Subcategory: Morifole,Appears: Always,Location: Along the north side of the river (burrowed)
+J8,"Tyrant: Sviatoslav, the Reproachful (39)",Subcategory: Aprica,Appears: Rain,Location: Near the base of Balance Rock
+J9,Affinity Mission: A Great Divide (Residential District),"Requirements: Chapter 7, Level 30, Bottoms Up, Phog ♥♥"
+K1,Treasure: Skell Wreckage,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G8"
+K2,FN Site 316,Mechanical Level: 2,Production: C,Revenue: D,Combat Support: B
+K3,"Tyrant: Ferdinand, the Fortuitous",Subcategory: Mephite,Appears: Always,Location: In that bend sticking out of Lake Basel
+K4,Treasure: Indigen Nest (might require flight),Requires: Biological Level 4,"Rewards: 200 XP, 10 BP, Warm Cat Ears"
+K5,Mission: Bread and a Circus (Residential District),Client: Moimoi,"Requirements: Chapter 10, Muimui's Meltdown"
+K6,"Tyrant: Climati, the Chilling Wind (30)",Subcategory: Sylooth,Appears: Always,Location: Walking along Central Ibra Ravine
+K7,Treasure: Indigen Nest (might require flight),Requires: Biological Level 5,"Rewards: 500 XP, 12 BP, Warm Angel Wings"
+K8,Mission: Shotgun Diplomacy (Residential District),Client: Eliza,"Requirements: Chapter 8, Alien Nation"
+K9,FN Site 317,Mechanical Level: 3,Production: C,Revenue: A,Combat Support: B,Sightseeing Spots: Beachside Trove
+K10,"Tyrant: Silvestre, the Morning Light (48)",Subcategory: Levitath,Appears: Always,Location: Floating around the giant ring on the beach
+L1,Treasure: White Whale Debris,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G8"
+L2,Mission: Dorian Caravan,Client: Vandham (part of BFFs affinity mission in the Barracks),"Requirements: Chapter 5, Level 22, The Ties That Bind"
+L3,Treasure: Vehicle Wreckage,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G8"
+L4,Treasure: Indigen Dung,Requires: Biological Level 3,"Rewards: 150 XP, 8 BP, some Angel Halo?"
+L5,"Tyrant: Feliciano, the All-Seeing (70)",Subcategory: Sphinx,Appears: Daytime,Location: Sits beneath the sea anenome-looking trees
+L6,FN Site 318,Mechanical Level: 2,Production: C,Revenue: B,Combat Support: B,"Sightseeing Spots: Atop the Giant Ring (flight), Primeval Meadow (easier to reach with flight)","Mineable Resources: Boiled-Egg Ore, White Cometite, Lionbone Bort"
+L7,Treasure: Vehicle Wreckage,Requires: Mechanical Level 3,"Rewards: 150 XP, 20,000 GP, Mining Probe G8"
+L8,Treasure: Skell Wreckage,Requires: Mechanical Level 3,"Rewards: 150 XP, 20,000 GP, Mining Probe G8"
+L9,FN Site 319,Mechanical Level: 2,Production: C,Revenue: D,Combat Support: B,Sightseeing Spots: Great Washington Isle,"Mineable Resources: Infernium, Boiled-Egg Ore"
+M1,FN Site 320 (flight),Mechanical Level: 3,Production: C,Revenue: B,Combat Support: B,"Mineable Resources: Aurorite, Ouroboros Crystal"
+M2,"Tyrant: Vilem, the Gold-Scaled (45)",Subcategory: Aetrygon,Appears: Always,Location: Southeast section of Lake Basel (pop in)
+M3,FN Site 321,Mechanical Level: 2,Production: A,Revenue: D,Combat Support: A
+M4,Treasure: White Whale Debris,Requires: Mechanical Level 3,"Rewards: 150 XP, 20,000 GP, Mining Probe G4"
+M5,"Tyrant: Bertrand, the Gorge Scourge (57)",Subcategory: Adsecula,Appears: Always,Location: In that small cave area with all the water and germivores (slow pop in)
+M6,Treasure: Skell Wreckage (might need skell/flight to reach),Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G4"
+N1,Mission: The Trading Floor,Client: Mumun (Dorian Caravan?),Requirements: Chapter 3
+N2,Treasure: Alien Container,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, CriticalUP X"
+O1,Affinity Mission: Spy Games (Administrative District),"Requirements: Chapter 7, Level 28"
+O2,FN Site 322,Mechanical Level: 4,Production: A,Revenue: A,Combat Support: B

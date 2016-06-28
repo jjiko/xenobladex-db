@@ -1,0 +1,77 @@
+A1,FN Site 201,Mechanical Level: 3,Production: C,Revenue: B,Combat Support: S
+A2,FN Site 202,Mechanical Level: 2,Production: C,Revenue: C,Combat Support: B
+A3,Treasure: Strange Tree,Requires: Biological Level 5,"Rewards: 500 XP, 12 BP, Warm Bunny Ears?"
+A4,FN Site 203,Mechanical Level: 2,Production: C,Revenue: A,Combat Support: B
+A5,Treasure: Skell Wreckage,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Mining Probe G2"
+B1,Mission: A Fateful Choice,Client: On'tonam (Residential District),"Requirements: Chapter 12, No-Show Nen'celeg, Noctilum Survey Rate > 80%"
+B2,Affinity Mission: The Nopon Heir (Administrative District),"Requirements: Chapter 12, Level 49, L - ♥♥♥♥"
+B3,"Tyrant: Planetes, the Torrential (50)",Subcategory: Unafulge,Appears: Always,Location: Floating in the mountains on top of the waterfall
+B4,Mission: House Call,Client: Nan'celeg (Ma-non Ship),"Requirements: Chapter 10, Circle of Life"
+B5,"Tyrant: Pyotr, the Shepherd (74)",Subcategory: Sylooth,Appears: Always,"Location: Walks along the west bank of the river, followed by two Ovis"
+B6,Affinity Mission: Prospective Partners (Barracks),"Requirements: Chapter 9, Level 34, Mira Survey Rate > 18%, Spy Games"
+B7,Treasure: Strange Tree,Requires: Biological Level 4,"Rewards: 200 XP, 10 BP?, Urbane Sheep Horns"
+B8,FN Site 204,Mechanical Level: 1,Production: A,Revenue: C,Combat Support: B
+B9,Mission: Frontier Spirit,Client: Corwin (Admininstrative District),Requirements: Chapter 6
+B10,FN Site 205,Mechanical Level: 1,Production: A,Revenue: F,Combat Support: B
+B11,"Tyrant: Froste, the Courteous (50)",Subcategory: Vesper,Appears: Always,Location: The back of Vitriol Cesspool
+C1,"Tyrant: Telethia, the Endbringer (99)",Subcategory: Telethia,Appears: Always,Location: Flying around that area,Notes: DOESN'T COUNT DURING THE NOPON HEIR OR A FATEFUL CHOICE
+C2,FN Site 206,Mechanical Level: 5,Production: B,Revenue: A,Combat Support: S
+C3,"Tyrant: Joker, the Unknowable (90)",Subcategory: Blatta,Appears: Always,Location: Inside the giant flower (fly in from above)
+C4,"Tyrant: Frajeel, the Purgatorial (50)",Subcategory: Levitath,Appears: Always,Location: It floats around that area
+C5,FN Site 207,Mechanical Level: 2,Production: C,Revenue: C,Combat Support: B,"Mineable Resources: White Cometite, Cimmerian Cinnabar, Foucaultium"
+C6,Mission: The Art of War (Ma-non Ship),Client: Sajif Scoppio,"Requirements: Chapter 8, Prone Sweet Prone"
+C7,FN Site 208,Mechanical Level: 2,Production: B,Revenue: D,Combat Support: S,Mineable Resources: Foucaultium
+C8,Mission: Rescue at the Ensconced Citadel,Client: Julius (Administrative District),"Requirements: Chapter 6, Noctilum Survey Rate > 30%"
+C9,Affinity Mission: My Dream (Administrative District),"Requirements: Chapter 5, Level 22"
+C10,"Tyrant: Katerina, the Cliffhanger (48)",Subcategory: Morifole,Appears: Always,"Location: SW of the fast travel location, but exactly on the fast travel icon"
+C11,"Tyrant: Schneider, the Cliffpercher (10)",Subcategory: Forfex,Appears: Always,Location: On a ledge below one of solid sections overlooking the waterfall
+C12,Mission: The Voltant Visionary,Client: Trachlo Lythren (Industrial District),"Requirements: Chapter 7, Dead Men Tell No Tales"
+C13,FN Site 209,Mechanical Level: 1,Production: C,Revenue: F,Combat Support: B
+D1,Treasure: Patrol Chopper Wreckage,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, EZ Debuff Probe"
+D2,Mission: Circle of Life,Client: Kon'luarb (Residential District),"Requirements: Chapter 7, The Journey Begins, Water Woes"
+D3,FN Site 210,Mechanical Level: 2,Production: B,Revenue: D,Combat Support: B
+D4,Treasure: Vehicle Wreckage,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G6"
+D5,FN Site 211,Mechanical Level: 2,Production: A,Revenue: D,Combat Support: B
+D6,Mission: No-Show Nen'celeg,Client: Nan'celeg (Ma-non Ship),"Requirements: Chapter 10, House Call"
+D7,FN Site 212,Mechanical Level: 1,Production: B,Revenue: E,Combat Support: B,"Mineable Resources: Aurorite, Enduron Lead, White Cometite"
+D8,Treasure: Trailer Wreckage,Requires: Mechanical Level 1,"Rewards: 50 XP, 6,000 GP, Mining Probe G1"
+D9,Mission: Dodonga Caravan,Client: Vandham (part of BFFs affinity mission in the Barracks),"Requirements: Chapter 5, Level 22, The Ties That Bind"
+E1,FN Site 213,Mechanical Level: 4,Production: C,Revenue: A,Combat Support: B,Sightseeing Spots: Sentinel's Nest
+E2,Affinity Mission: Manhunt (Administrative District),"Requirements: Chapter 8, Level 33"
+E3,FN Site 214,Mechanical Level: 2,Production: C,Revenue: D,Combat Support: B,"Sightseeing Spots: Millstone Ridge, Skygazer's Atrium"
+E4,"Tyrant: Demetrio, the Tempestuous (28)",Subcategory: Simius,Appears: Always,Location: In the Ganglion base
+E5,FN Site 215,Mechanical Level: 2,Production: C,Revenue: D,Combat Support: B,"Mineable Resources: Aurorite, Enduron Lead, Everfreeze Ore, Foucaultium"
+E6,Treasure: Alien Wreckage,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,000 GP, 4 BP, AttributeDmg.ETHER IV"
+E7,Affinity Mission: Close Comrades (Administrative District),"Requirements: Chapter 4, Level 20"
+E8,FN Site 216,Mechanical Level: 3,Production: C,Revenue: A,Combat Support: A,Sightseeing Spots: Cascade Isle
+E9,Mission: A Proper Chopper,Client: Roscoe (Industrial District),Requirements: Chapter 4
+E10,FN Site 217,Mechanical Level: 2,Production: C,Revenue: C,Combat Support: B,"Mineable Resources: Aurorite, Infernium, Cimmerian Cinnabar"
+F1,Mission: Dead Men Tell No Tales,Client: Stella (Administrative District),"Requirements: Chapter 7, Primordia Survey Rate > 50%"
+F2,Mission: Murder Most Foul,Client: Ackwar (Commercial District),Requirements: Chapter 9
+F3,"Tyrant: Elena, the Infernal (79)",Subcategory: Scirpo,Appears: Fog,"Location: In the Weeping Whitewood, very large scirpo"
+F4,"Tyrant: Griffus, the Tartarean (49)",Subcategory: Insidia,Appears: Always,"Location: SE of 215, running back and forth on the pathway"
+F5,FN Site 218,Mechanical Level: 1,Production: C,Revenue: E,Combat Support: B,"Mineable Resources: Aurorite, Enduron Lead, Cimmerian Cinnabar"
+F6,Mission: Adventure!,Client: Mia (top of the Skybound Coil tree),"Requirements: Chapter 5, Mamma Mia!"
+F7,"Tyrant: Tormenta, the Scarlet-Clad (41)",Subcategory: Turba,Appears: Always,Location: Just south of the Skybound Coil Tree fast travel minimap ICON
+F8,Mission: Lone Survivors,Client: Robert (Industrial District),"Requirements: Chapter 8, Circle of Life"
+F9,FN Site 219,Mechanical Level: 1,Production: C,Revenue: E,Combat Support: B,"Mineable Resources: Enduron Lead, White Cometite"
+F10,"Tyrant: Sarcosuchus, the Iron-Eater (39)",Subcategory: Dilus,Appears: Always,Location: Slightly NE of FN217 in the river. (slow pop up)
+F11,Treasure: Strange Tree,Requires: Biological Level 1,"Rewards: 50 XP, 4 BP, Urbane Bunny Whiskers?"
+G1,Treasure: White Whale Debris,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G9"
+G2,Treasure: Skell Wreckage,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G8"
+G3,Mission: The Duel (Part III),Client: Gi Zang (Admininstrative District),"Requirements: Chapter 11, The Duel (Part II)"
+G4,"Tyrant: Clemente, the Iron Meteor (22)",Subcategory: Falsaxum,Appears: Always,Location: Almost directly under the Nopon Braidbridge fast travel point (burrowed)
+G5,Treasure: Patrol Chopper Wreckage (way up in the trees),Requires: Mechanical Level 2,"Rewards: 20 XP, 2,000 GP, Mining Probe G2"
+G6,FN Site 220,Mechanical Level: 2,Production: C,Revenue: C,Combat Support: A,Sightseeing Spots: Orochi's Belly,"Mineable Resources: Infernium, Everfreeze Ore"
+G7,Treasure: Skell Wreckage,Requires: Mechanical Level 1,"Rewards: 50 XP, 6,000 GP, Mining Probe G2"
+G8,FN Site 221,Mechanical Level: 1,Production: C,Revenue: E,Combat Support: B,"Sightseeing Spots: Ensanguined Font, Yagami's Vista"
+G9,Mission: Missing in Action,Client: Jitsu (Whale's Nostril),"Requirements: Chapter 5, BFFs, Lin in party"
+G10,FN Site 222,Mechanical Level: 1,Production: C,Revenue: D,Combat Support: B,Sightseeing Spots: Whale's Weeper
+G11,"Tyrant: Desdemona, the Subterranean (11)",Subcategory: Scirpo,Appears: Always,Location: On a ledge/tree root…. Can't remember where (slow pop in)
+H1,FN Site 223,Mechanical Level: 1,Production: C,Revenue: F,Combat Support: B,Sightseeing Spots: Idyll Beach
+H2,FN Site 224,Mechanical Level: 4,Production: C,Revenue: A,Combat Support: B
+H3,"Tyrant: Buchwald, the Guardian (77)",Subcategory: Virago,Appears: Always,Location: same cave as FN 224
+H4,FN Site 225,Mechanical Level: 3,Production: C,Revenue: A,Combat Support: B,Sightseeing Spots: Decapotatmon Vista
+H5,Treasure: Skell Wreckage,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Research Probe G5"
+H6,Treasure: Alien Container,Requires: Archaeological Level 4,"Rewards: 20 XP, 20,000 GP, 8 BP, Max TP Up X"
+H7,Mission: Data Miner,Client: Gigio (Rustpool Banks),Requires: Chapter 3

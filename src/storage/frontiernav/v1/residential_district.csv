@@ -1,0 +1,60 @@
+A1,Heart-to-Heart: Phog,Affinity: 1,Appears: Afternoon (under residential district)
+A2,Mission: Circle of Life,Client: Kon'luarb,"Requirements: Chapter 7, The Journey Begins, Water Woes"
+A3,Character Hangout: Phog
+A4,Heart-to-Heart: Lin,Affinity: 5,Appears: Morning,"Requirements: Chapter 10, 4th heart-to-heart, A Girl's Wings"
+A5,Mission: Off the Record (Archaeological),Client: Solan (complete the mission here),Requirements: Archaeological Level 4
+A6,Heart-to-Heart: Phog,Affinity: 3,Appears: All Day,Requirements: 2nd heart-to-heart
+A7,Treasure: Alien Wreckage (appears after chapter 8),Requires: Archaeological Level 4
+A8,Heart-to-Heart: Gwin,Affinity: 2,Appears: Late Night,Requirements: 1st heart-to-heart
+B1,"Mission: Herbivores, Unite!",Client: Naza Tenpanzi,"Requirements: Chapter 9, Circle of Life, Prone Sweet Prone, Noctilum Survey Rate > 45%"
+B2,Affinity Mission: A Present for Hope,"Requirements: Chapter 10, Level 44, Hope ♥♥♥♥"
+B3,Mission: The Celeste Three,Client: Fosdyke,"Requirements: Chapter 5, intel from NPC near Doug"
+B4,Heart-to-Heart: L,Affinity: 5,Appears: Early Morning,Requirements: 4th heart-to-heart
+B5,Heart-to-Heart: Celica,Affinity: 2,Appears: Morning,Requirements: 1st heart-to-heart
+B6,Heart-to-Heart: Doug,Affinity: 3,Appears: Daytime,Requirements: 2nd heart-to-heart
+C1,Heart-to-Heart: Gwin,Affinity: 3,Appears: Late Night,Requirements: 2nd heart-to-heart
+C2,Heart-to-Heart: Frye,Affinity: 3,Appears: All Day,"Requirements: 2nd heart-to-heart, A Great Divide, pet cat"
+C3,Mission: The Line of Fire,Client: Alice,"Requirements: Chapter 9, Shotgun Diplomacy"
+C4,Character Hangout: Hope
+C5,Mission: Planetary Pioneer (Part V),Client: Kirsty,"Requirements: Chapter 11, Planetary Pioneer (Part IV)"
+C6,Heart-to-Heart: Gwin,Affinity: 4,Appears: All Day,"Requirements: 3rd heart-to-heart, pet dog"
+C7,Heart-to-Heart: Mia,Affinity: 5,Appears: All Day,"Requirements: 4th heart-to-heart, Mia Grows Up"
+C8,Heart-to-Heart: Hope,Affinity: 4,Appears: All Day,"Requirements: 3rd heart-to-heart, pet dog"
+D1,Heart-to-Heart: Phog,Affinity: 5,Appears: All Day,"Requirement: 4th heart-to-heart, Brotherly Love"
+D2,Affinity Mission: Foggy Dilemma,"Requirements: Chapter 4, Level 13, Backup Request (Phog)"
+D3,Heart-to-Heart: Murderess,Affinity: 1,Appears: Afternoon
+D4,Heart-to-Heart: Murderess,Affinity: 4,Appears: All Day,"Requirements: 3rd heart-to-heart, pet cat"
+D5,Treasure: Alien Wreckage (only appears after chapter 8),Requires: Archaeological Level 3
+D6,Heart-to-Heart: Doug,Affinity: 1,Appears: Afternoon,Requirement: Pet dog
+D7,Mission: Bread and a Circus,Client: Moimoi,"Requirements: Chapter 10, Muimui's Meltdown"
+E1,Heart-to-Heart: Elma,Affinity: 2,Appears: Night,"Requirements: 1st heart-to-heart, pet cat"
+E2,Mission: New Frontier,Client: Kirsty,"Requirements: Chapter 12, Entrepreneurial Spirit, Wrothian Innovation, Planetary Pioneer (Part V)"
+E3,Mission: Off the Record (Mechanical),Client: Solan (complete the mission here),Requirements: Mechanical Level 4
+E4,Heart-to-Heart: Mia,Affinity: 1,Appears: Late Night
+E5,Affinity Shift: Caroline,Requirements: Trade Agreement?
+E6,Mission: Alex's Last Stand,Client: Eliza,"Requirements: Chapter 10, The Line of Fire"
+E7,Heart-to-Heart: Phog,Affinity: 2,Appears: All Day,"Requirements: 1st heart-to-heart, pet cat"
+E8,Affinity Shift: Kon'luarb,Requirements: Haywire! (?)
+F1,Mission: Lakeside Getaway,Client: Rosie,"Requirements: Chapter 6, Water Woes, Frontier Spirit"
+F2,Mission: Water Woes,Client: Ajoa,Requirements: Chapter 5
+F3,Heart-to-Heart: Irina,Affinity: 2,Appears: Evening,"Requirements: 1st heart-to-heart, pet dog"
+F4,Heart-to-Heart: L,Affinity: 3,Appears: All Day,"Requirements: 2nd heart-to-heart, pet cat"
+F5,Heart-to-Heart: Murderess,Affinity: 5,Appears: All Day,Requirements: 4th heart-to-heart
+F6,Affinity Shift: Wendy,Requirements: Sparking a Smile?
+F7,Heart-to-Heart: Nagi,Affinity: 5,Appears: Afternoon,Requirements: 4th heart-to-heart
+G1,Character Hangout: H.B.
+G2,Affinity Mission: Hope Springs Eternal,"Requirements: Chapter 3, Level 21, accepted Marry Me!"
+G3,Mission: The Miracle Maker,Client: Staccata,"Requirements: Chapter 6, Water Woes"
+G4,Mission: The Divine Nopopon,Client: Shinshin,"Requirements: Chapter 12, BFFs, Mira Survey Rate > 80%"
+G5,Affinity Mission: A Great Divide,"Requirements: Chapter 7, Level 30, Bottoms Up, Phog ♥♥"
+G6,Mission: The Bug Whisperer,Client: Min'barac,"Requirements: Chapter 10, BFFs, Circle of Life, Prone Sweet Prone"
+H1,Mission: Shotgun Diplomacy,Client: Eliza,"Requirements: Chapter 8, Alien Nation"
+H2,Affinity Shift: Letrick,Requirements: Emotion Commotion
+H3,Mission: Rites of Ruin,Client: Jalimbo,"Requirements: Chapter 8, The Miracle Maker"
+H4,Mission: Definian Love OR Fortun and Glory,Client: Lyvia OR Erio,Requirements: Definian Downfall (kill Fortun OR spare Fortun)
+H5,Affinity Shift: Phoskeran,Requirements: An Ancient Legend (?)
+I1,Treasure: Container,Requires: Mechanical Level 2
+I2,Treasure: Trailer,Requires: Mechanical Level 3
+I3,Mission: A Fateful Choice,Client: On'tonam,"Requirements: Chapter 12, No-Show Nen'celeg, Noctilum Survey Rate > 80%"
+I4,Mission: The Journey Begins,Client: Kun'luarb,"Requirements: Chapter 7, Sun'celeg Rises"
+I5,Heart-to-Heart: Hope,Affinity: 1,Appears: Afternoon

@@ -1,0 +1,912 @@
+{
+  "map":"primordia",
+  "coordinatex": 39,
+  "coordinatesy": {
+    "a1": 18,
+    "a2": 63,
+    "a3": 108,
+    "b1": 42,
+    "b2": 86,
+    "b3": 130,
+    "b4": 174,
+    "b5": 218,
+    "b6": 262,
+    "b7": 306,
+    "c1": 64,
+    "c2": 108,
+    "c3": 152,
+    "c4": 196,
+    "c5": 241,
+    "c6": 284,
+    "d1": 86,
+    "d2": 41,
+    "d3": 130,
+    "d4": 174,
+    "d5": 218,
+    "d6": 262,
+    "d7": 306,
+    "e1": 109,
+    "e2": 153,
+    "e3": 197,
+    "e4": 241,
+    "e5": 285,
+    "e6": 329,
+    "f1": 88,
+    "f2": 132,
+    "f3": 176,
+    "f4": 219,
+    "f5": 262,
+    "g1": 21,
+    "g2": 66,
+    "g3": 109,
+    "g4": 153,
+    "g5": 197,
+    "g6": 242,
+    "h1": 88,
+    "h2": 132,
+    "h3": 176,
+    "h4": 219,
+    "i1": 20,
+    "i2": 65,
+    "i3": 109,
+    "i4": 153,
+    "i5": 197,
+    "i6": 240,
+    "j1": 0,
+    "j2": 44,
+    "j3": 132,
+    "j4": 176,
+    "j5": 220,
+    "j6": 264,
+    "k1": 154,
+    "k2": 198,
+    "k3": 242,
+    "k4": 286,
+    "k5": 330,
+    "l1": 132,
+    "l2": 176,
+    "l3": 220,
+    "l4": 264,
+    "l5": 309,
+    "m1": 198,
+    "m2": 242,
+    "m3": 286,
+    "m4": 330,
+    "n1": 176,
+    "n2": 219,
+    "n3": 264,
+    "n4": 308,
+    "n5": 352,
+    "o1": 154,
+    "o2": 198,
+    "o3": 242,
+    "o4": 285,
+    "o5": 331,
+    "o6": 374,
+    "p1": 175,
+    "p2": 219,
+    "p3": 263,
+    "p4": 307,
+    "q1": 198,
+    "q2": 241
+  },
+  "segments": {
+    "a1": {
+      "type": "tyrant",
+      "data": {
+        "name": "Caesar, the Hundred-Eyed (68)",
+        "level": "",
+        "subcategory": "Petramand",
+        "appears": "Always",
+        "location": "Stonelattice Cavern"
+      }
+    },
+    "a2": {
+      "type": "mission",
+      "data": {
+        "name": "Snipe Hunt",
+        "client": "Bihabba (Ma-non Ship)",
+        "requirements": "Chapter 12"
+      }
+    },
+    "a3": {
+      "type": "treasure",
+      "data": {
+        "type": "Skell Wreckage",
+        "requirements": "1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G1"
+      }
+    },
+    "b1": {
+      "type": "fn",
+      "data": {
+        "id": "101",
+        "requirements": "5",
+        "production": "C",
+        "revenue": "A",
+        "combat_support": "S",
+        "sightseeing_spots": "Sightseeing Spots: Stonelattice Cavern",
+        "mineable_resources": null
+      }
+    },
+    "b2": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 5",
+        "rewards": "500 XP, 50,000 GP, 10 BP, Gravity Resistance Up X"
+      }
+    },
+    "b3": {
+      "type": "fn",
+      "data": {
+        "id": "103",
+        "requirements": "1",
+        "production": "C",
+        "revenue": "E",
+        "combat_support": "A",
+        "sightseeing_spots": "Sightseeing Spots: Wonderment Bluff",
+        "mineable_resources": ""
+      }
+    },
+    "b4": {
+      "type": "treasure",
+      "data": {
+        "type": "Skell Wreckage",
+        "requirements": "1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G9"
+      }
+    },
+    "b5": {
+      "type": "tyrant",
+      "data": {
+        "name": "Celestin, the Spring Storm (50)",
+        "level": "",
+        "subcategory": "Progen",
+        "appears": "Always",
+        "location": "Headwater Summit (lake)"
+      }
+    },
+    "b6": {
+      "type": "affinity",
+      "data": {
+        "name": "Affinity The Repair Job (Barracks)",
+        "requirements": "Chapter 3, Level 13, Lin ♥"
+      }
+    },
+    "b7": {
+      "type": "fn",
+      "data": {
+        "id": "102",
+        "requirements": "1",
+        "production": "C",
+        "revenue": "F",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "c1": {
+      "type": "mission",
+      "data": {
+        "name": "The Queen Is Dead",
+        "client": "Ni Zinga (Wrothian Stronghold)",
+        "requirements": "Chapter 11, A Challenger Approaches"
+      }
+    },
+    "c2": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Insect Nest",
+        "requirements": "Biological Level 1",
+        "rewards": "50 XP, 4 BP, Cat ears (not sure which one)"
+      }
+    },
+    "c3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Zdenka, the Raucous (60)",
+        "level": "",
+        "subcategory": "Saltat",
+        "appears": "Always",
+        "location": "On top of one of the stone pillars (slow pop in)"
+      }
+    },
+    "c4": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G8"
+      }
+    },
+    "c5": {
+      "type": "fn",
+      "data": {
+        "id": "104",
+        "requirements": "3",
+        "production": "C",
+        "revenue": "A",
+        "combat_support": "B",
+        "sightseeing_spots": "Sightseeing Spots: Headwater Cliff",
+        "mineable_resources": ""
+      }
+    },
+    "c6": {
+      "type": "treasure",
+      "data": {
+        "type": "Vehicle Wreckage",
+        "requirements": "1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G1"
+      }
+    },
+    "d1": {
+      "type": "fn",
+      "data": {
+        "id": "105",
+        "requirements": null,
+        "production": "A",
+        "revenue": "F",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "d2": {
+      "type": "tyrant",
+      "data": {
+        "name": "Sapara, the Laconic (22)",
+        "level": "",
+        "subcategory": "Saltat",
+        "appears": "Rarely",
+        "location": "Slightly NW of the base of Unicorn Rock"
+      }
+    },
+    "d3": {
+      "type": "affinity",
+      "data": {
+        "name": "Affinity A Day in the Life (Barracks)",
+        "requirements": "Chapter 4, Level 16"
+      }
+    },
+    "d4": {
+      "type": "fn",
+      "data": {
+        "id": "106",
+        "requirements": "1",
+        "production": "B",
+        "revenue": "E",
+        "combat_support": "B",
+        "sightseeing_spots": "Sightseeing Spots: Turtle Nest",
+        "mineable_resources": "Mineable Resources: Arc Sand Ore"
+      }
+    },
+    "d5": {
+      "type": "mission",
+      "data": {
+        "name": "Haywire!",
+        "client": "Rosie (Biahno Water-Purification Plant?)",
+        "requirements": "Chapter 9, Good Neighbors"
+      }
+    },
+    "d6": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G1"
+      }
+    },
+    "d7": {
+      "type": "mission",
+      "data": {
+        "name": "Forbidden Love",
+        "client": "Loda Gorida (Ma-non Ship)",
+        "requirements": "Chapter 8, Prone Sweet Prone"
+      }
+    },
+    "e1": {
+      "type": "tyrant",
+      "data": {
+        "name": "Bohdan, the Mistral (37)",
+        "level": "",
+        "subcategory": "Auravis",
+        "appears": "Daytime",
+        "location": "Flying in the air above Unicorn Rock"
+      }
+    },
+    "e2": {
+      "type": "treasure",
+      "data": {
+        "type": "Skell Wreckage",
+        "requirements": "2",
+        "rewards": "100 XP, 10,000 GP, Mining Probe G4"
+      }
+    },
+    "e3": {
+      "type": "mission",
+      "data": {
+        "name": "Cinicula Assault",
+        "client": "Conner (southwest corner of J5)",
+        "requirements": "Chapter 2, Welcome Back Conner"
+      }
+    },
+    "e4": {
+      "type": "affinity",
+      "data": {
+        "name": "Affinity Renewed Will (Commercial District)",
+        "requirements": "Chapter 3, Level 15"
+      }
+    },
+    "e5": {
+      "type": "fn",
+      "data": {
+        "id": "107",
+        "requirements": "1",
+        "production": "A",
+        "revenue": "F",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "e6": {
+      "type": "treasure",
+      "data": {
+        "type": "Patrol Chopper Wreckage",
+        "requirements": "4",
+        "rewards": "200 XP, 40,000 GP, Mining Probe G9"
+      }
+    },
+    "f1": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "5",
+        "rewards": "500 XP, 100,000 GP, FILE USP0260SA (Zenith Cannon lvl. 50), Mining Probe G9"
+      }
+    },
+    "f2": {
+      "type": "fn",
+      "data": {
+        "id": "108",
+        "requirements": "1",
+        "production": "C",
+        "revenue": "F",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": "Mineable Resources: Aurorite, Arc Sand Ore, Foucaultium"
+      }
+    },
+    "f3": {
+      "type": "mission",
+      "data": {
+        "name": "The Lurker",
+        "client": "Go Rogan (Ma-non Ship)",
+        "requirements": "Chapter 12, The Duel Part (IV)"
+      }
+    },
+    "f4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Eckart, the Indestructible (50)",
+        "level": "",
+        "subcategory": "Cinicula",
+        "appears": "Always",
+        "location": "On a ledge NW of Sayram Lake (slow pop in)"
+      }
+    },
+    "f5": {
+      "type": "tyrant",
+      "data": {
+        "name": "Casper, the Unhealthy Eater (13)",
+        "level": "",
+        "subcategory": "Blatta",
+        "appears": "Nighttime",
+        "location": "In a crevice between the crystal wall and some rock, south of gate"
+      }
+    },
+    "g1": {
+      "type": "tyrant",
+      "data": {
+        "name": "Ridill, the Arrogant (58)",
+        "level": "",
+        "subcategory": "Lophid",
+        "appears": "Rarely",
+        "location": "Next to that giant rock in the ocean, with the other Lophids"
+      }
+    },
+    "g2": {
+      "type": "fn",
+      "data": {
+        "id": "109",
+        "requirements": "2",
+        "production": "C",
+        "revenue": "D",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": "Mineable Resources: Foucaultium, Dawnstone, Lionbone Bort"
+      }
+    },
+    "g3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Necro, the Cavelord (69)",
+        "level": "",
+        "subcategory": "Vesper",
+        "appears": "Always",
+        "location": "In the cave at the bottom of the Drop Shaft"
+      }
+    },
+    "g4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Experimental composite Qmoeva (59)",
+        "level": "",
+        "subcategory": "Qmoeva",
+        "appears": "Nighttime",
+        "location": "The top of Talon Rock Third Terrane (slow pop in)"
+      }
+    },
+    "g5": {
+      "type": "fn",
+      "data": {
+        "id": "110",
+        "requirements": "1, Flying Skell",
+        "production": "C",
+        "revenue": "E",
+        "combat_support": "B",
+        "sightseeing_spots": "Sightseeing Spots: Talon Rock Prominence",
+        "mineable_resources": "Mineable Resources: Aurorite, Arc Sand Ore, White Cometite, Dawnstone"
+      }
+    },
+    "g6": {
+      "type": "mission",
+      "data": {
+        "name": "City Saviors",
+        "client": "Carl (Administrative District)",
+        "requirements": "Chapter 3, Primordia Survey Rate > 15%"
+      }
+    },
+    "h1": {
+      "type": "fn",
+      "data": {
+        "id": "111",
+        "requirements": "1",
+        "production": "C",
+        "revenue": "F",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": "Mineable Resources: Foucaultium"
+      }
+    },
+    "h2": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, CriticalUp II"
+      }
+    },
+    "h3": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G2"
+      }
+    },
+    "h4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Dieter, the Epicure (39)",
+        "level": "",
+        "subcategory": "Grex",
+        "appears": "Always",
+        "location": "Ledge W of 112, may move around"
+      }
+    },
+    "i1": {
+      "type": "tyrant",
+      "data": {
+        "name": "Daril, the Eradicator",
+        "level": "",
+        "subcategory": "Marnuck",
+        "appears": "Nighttime",
+        "location": "Outside of Castaway Cavern, by the pool of liquid"
+      }
+    },
+    "i2": {
+      "type": "treasure",
+      "data": {
+        "type": "Patrol Chopper Wreckage",
+        "requirements": "1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G1"
+      }
+    },
+    "i3": {
+      "type": "mission",
+      "data": {
+        "name": "The Good Thief",
+        "client": "Horonalderon (Industrial District)",
+        "requirements": "Chapter 9, Dead Men Tell No Tales, Water Woes"
+      }
+    },
+    "i4": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "3",
+        "rewards": "150 XP, 20,000 GP, Mining Probe G4"
+      }
+    },
+    "i5": {
+      "type": "fn",
+      "data": {
+        "id": "112",
+        "requirements": "1",
+        "production": "A",
+        "revenue": "F",
+        "combat_support": "A",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "i6": {
+      "type": "tyrant",
+      "data": {
+        "name": "Mesgen, the Fairweathered (28)",
+        "level": "",
+        "subcategory": "Potamus",
+        "appears": "Always",
+        "location": "Along the east coast of Sayram Lake"
+      }
+    },
+    "j1": {
+      "type": "fn",
+      "data": {
+        "id": "113",
+        "requirements": "1",
+        "production": "C",
+        "revenue": "C",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "j2": {
+      "type": "mission",
+      "data": {
+        "name": "Close Encounters",
+        "client": "Sarona (Administrative District)",
+        "requirements": "Chapter 6"
+      }
+    },
+    "j3": {
+      "type": "affinity",
+      "data": {
+        "name": "Affinity Nagi's Time (Barracks)",
+        "requirements": "Chapter 8, Level 32"
+      }
+    },
+    "j4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Shatskikh, the Flash (25)",
+        "level": "",
+        "subcategory": "Xiphias",
+        "appears": "Rarely",
+        "location": "The waters just off Northpointe Cove"
+      }
+    },
+    "j5": {
+      "type": "mission",
+      "data": {
+        "name": "Welcome Back, Conner",
+        "client": "Nathan",
+        "requirements": "Chapter 2"
+      }
+    },
+    "j6": {
+      "type": "fn",
+      "data": {
+        "id": "114",
+        "requirements": "1",
+        "production": "C",
+        "revenue": "E",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "k1": {
+      "type": "fn",
+      "data": {
+        "id": "115",
+        "requirements": "2",
+        "production": "C",
+        "revenue": "D",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": "Mineable Resources: Arc Sand Ore, White Cometite, Lionbone Bort"
+      }
+    },
+    "k2": {
+      "type": "mission",
+      "data": {
+        "name": "Here Come the Brides",
+        "client": "Nemard Wolfen (Ma-non Ship)",
+        "requirements": "Chapter 9, Prone Sweet Prone"
+      }
+    },
+    "k3": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,000 GP, 4 BP, HP Rebound V"
+      }
+    },
+    "k4": {
+      "type": "treasure",
+      "data": {
+        "type": "Vehicle Wreckage",
+        "requirements": "1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G1"
+      }
+    },
+    "k5": {
+      "type": "mission",
+      "data": {
+        "name": "An Ancient Legend",
+        "client": "Nimu Turton (Ma-non Ship)",
+        "requirements": "Chapter 12, Slovity's Revenge"
+      }
+    },
+    "l1": {
+      "type": "affinity",
+      "data": {
+        "name": "Affinity We Were Soldiers (Barracks)",
+        "requirements": "Chapter 3, Level 12, Elma ♥"
+      }
+    },
+    "l2": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "2",
+        "rewards": "100 XP, 10,000 GP, Mining Probe G2"
+      }
+    },
+    "l3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Etutanne, the Bloodthirsty",
+        "level": 33,
+        "subcategory": "Adsecula",
+        "appears": "Always",
+        "location": "Hovering in the Silent Mire"
+      }
+    },
+    "l4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Hephaestus, the Absconder",
+        "level": 25,
+        "subcategory": "Duoguill",
+        "appears": "Nighttime",
+        "location": "In the water under Roof Rock"
+      }
+    },
+    "l5": {
+      "type": "fn",
+      "data": {
+        "id": "116",
+        "requirements": "1?",
+        "production": "A",
+        "revenue": "D",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "m1": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G4"
+      }
+    },
+    "m2": {
+      "type": "fn",
+      "data": {
+        "id": "117",
+        "requirements": "1",
+        "production": "A",
+        "revenue": "D",
+        "combat_support": "A",
+        "sightseeing_spots": "Rock Cavern",
+        "mineable_resources": ""
+      }
+    },
+    "m3": {
+      "type": "affinity",
+      "data": {
+        "name": "Affinity Nine Lives (Commercial District)",
+        "requirements": "Chapter 5, Level 20"
+      }
+    },
+    "m4": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, Back Attack Plus V"
+      }
+    },
+    "n1": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "4",
+        "rewards": "200 XP, 40,000 GP, Mining Probe G6"
+      }
+    },
+    "n2": {
+      "type": "tyrant",
+      "data": {
+        "name": "Gugli, the Relentless (20)",
+        "level": "",
+        "subcategory": "Suid",
+        "appears": "Always",
+        "location": "Along the northwest shore of Lake Janpath "
+      }
+    },
+    "n3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Luciel, the Eternal (92)",
+        "level": "",
+        "subcategory": "Millesaur",
+        "appears": "Always",
+        "location": "Hangs out along the west side of Lake Janpath. May roam"
+      }
+    },
+    "n4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Eutropio, the Sea Rumble (45)",
+        "level": "",
+        "subcategory": "Levitath",
+        "appears": "Always",
+        "location": "Floats around the hexagon, usually in the lower layer"
+      }
+    },
+    "n5": {
+      "type": "mission",
+      "data": {
+        "name": "A Dubious Operation",
+        "client": "Shiraton (Commercial District)",
+        "requirements": "Chapter 7, Dead Men Tell No Tales"
+      }
+    },
+    "o1": {
+      "type": "mission",
+      "data": {
+        "name": "Muimui's Meltdown",
+        "client": "Moimoi (Industrial District)",
+        "requirements": "Chapter 9, Setting Forth"
+      }
+    },
+    "o2": {
+      "type": "fn",
+      "data": {
+        "id": "118",
+        "requirements": "1",
+        "production": "C",
+        "revenue": "E",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": "Mineable Resources: Aurorite, White Cometite, Dawnstone"
+      }
+    },
+    "o3": {
+      "type": "mission",
+      "data": {
+        "name": "Training Day",
+        "client": "Zarch Quokett (Ma-non Ship)",
+        "requirements": "Chapter 7, Prone Sweet Prone"
+      }
+    },
+    "o4": {
+      "type": "affinity",
+      "data": {
+        "name": "Affinity A False Hope (Administrative District)",
+        "requirements": "Chapter 5, Level 24, Hope - ♥♥"
+      }
+    },
+    "o5": {
+      "type": "fn",
+      "data": {
+        "id": "119",
+        "requirements": "1",
+        "production": "C",
+        "revenue": "E",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "o6": {
+      "type": "tyrant",
+      "data": {
+        "name": "Bogdan, the Dense (49)",
+        "level": "",
+        "subcategory": "Suid",
+        "appears": "Always",
+        "location": "Near the back of the Seaswept Base, at the base of one of the cliff towers"
+      }
+    },
+    "p1": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 3",
+        "rewards": "150 XP, 10,00 GP, 6 BP, HP Max Boost X"
+      }
+    },
+    "p2": {
+      "type": "mission",
+      "data": {
+        "name": "Stop, Thief!",
+        "client": "Shiraton (Commercial District)",
+        "requirements": "Chapter 9, A Dubious Operation"
+      }
+    },
+    "p3": {
+      "type": "fn",
+      "data": {
+        "id": "120",
+        "requirements": "3",
+        "production": "B",
+        "revenue": "B",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "p4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Ji-ett, the Thunderclap (72)",
+        "level": "",
+        "subcategory": "Fal-swo",
+        "appears": "Nighttime",
+        "location": "In the sky, above the mountain. Requires flight."
+      }
+    },
+    "q1": {
+      "type": "fn",
+      "data": {
+        "id": "121",
+        "requirements": "1",
+        "production": "A",
+        "revenue": "E",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "q2": {
+      "type": "tyrant",
+      "data": {
+        "name": "Rajidi, the Cumuliform",
+        "level": 52,
+        "subcategory": "Balaena",
+        "appears": "Rarely",
+        "location": "Floating above the waters in the area"
+      }
+    }
+  }
+}

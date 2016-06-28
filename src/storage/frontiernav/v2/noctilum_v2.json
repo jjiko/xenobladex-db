@@ -1,0 +1,734 @@
+{
+  "map":"noctilum",
+  "coordinatex": 39,
+  "coordinatesy": {"a1":"88px","a2":"220px","a3":"263.787px","a4":"308px","a5":"394.792px","b1":"64.7913px","b2":"110.782px","b3":"154.794px","b4":"197.782px","b5":"240.781px","b6":"283.788px","b7":"329.788px","b8":"374px","b9":"417.781px","b10":"462px","b11":"504.779px","c1":"0px","c2":"44px","c3":"87.7854px","c4":"131.795px","c5":"175px","c6":"219.792px","c7":"264px","c8":"307.786px","c9":"352.779px","c10":"394.794px","c11":"439.79px","c12":"483.794px","c13":"528px","d1":"63.779px","d2":"198.79px","d3":"242px","d4":"284.785px","d5":"329px","d6":"372.782px","d7":"418px","d8":"460.782px","d9":"504.781px","e1":"87px","e2":"217.787px","e3":"264px","e4":"308.785px","e5":"352px","e6":"394.789px","e7":"440.781px","e8":"484px","e9":"659.778px","e10":"704px","f1":"241.79px","f2":"285.78px","f3":"327.793px","f4":"373.786px","f5":"418px","f6":"462.789px","f7":"505.789px","f8":"549.793px","f9":"637px","f10":"683.787px","f11":"725.793px","g1":"352.778px","g2":"398.782px","g3":"440.794px","g4":"483.792px","g5":"529.781px","g6":"574px","g7":"615.787px","g8":"660px","g9":"703.782px","g10":"749px","g11":"794px","h1":"331px","h2":"375px","h3":"421px","h4":"507px","h5":"684px","h6":"727px","h7":"774px"},
+  "segments": {
+    "a1": {
+      "type": "fn",
+      "data": {
+        "id": "201",
+        "requirements": "3",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "a2": {
+      "type": "fn",
+      "data": {
+        "id": "202",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "a3": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Tree",
+        "requirements": "Biological Level 5",
+        "rewards": "500 XP, 12 BP, Warm Bunny Ears?"
+      }
+    },
+    "a4": {
+      "type": "fn",
+      "data": {
+        "id": "203",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "a5": {
+      "type": "treasure",
+      "data": {
+        "type": "Skell Wreckage",
+        "requirements": "Mechanical Level 2",
+        "rewards": "100 XP, 10,000 GP, Mining Probe G2"
+      }
+    },
+    "b1": {
+      "type": "mission",
+      "data": {
+        "name": "A Fateful Choice",
+        "client": "Client: On'tonam (Residential District)",
+        "requirements": "Requirements: Chapter 12, No-Show Nen'celeg, Noctilum Survey Rate > 80%"
+      }
+    },
+    "b2": {
+      "type": "affinity",
+      "data": {
+        "name": "The Nopon Heir (Administrative District)",
+        "requirements": "Chapter 12, Level 49, L - \u2665\u2665\u2665\u2665"
+      }
+    },
+    "b3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Planetes, the Torrential (50)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "b4": {
+      "type": "mission",
+      "data": {
+        "name": "House Call",
+        "client": "Client: Nan'celeg (Ma-non Ship)",
+        "requirements": "Requirements: Chapter 10, Circle of Life"
+      }
+    },
+    "b5": {
+      "type": "tyrant",
+      "data": {
+        "name": "Pyotr, the Shepherd (74)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "b6": {
+      "type": "affinity",
+      "data": {
+        "name": "Prospective Partners (Barracks)",
+        "requirements": "Chapter 9, Level 34, Mira Survey Rate > 18%, Spy Games"
+      }
+    },
+    "b7": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Tree",
+        "requirements": "Biological Level 4",
+        "rewards": "200 XP, 10 BP?, Urbane Sheep Horns"
+      }
+    },
+    "b8": {
+      "type": "fn",
+      "data": {
+        "id": "204",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "b9": {
+      "type": "mission",
+      "data": {
+        "name": "Frontier Spirit",
+        "client": "Client: Corwin (Admininstrative District)",
+        "requirements": "Requirements: Chapter 6"
+      }
+    },
+    "b10": {
+      "type": "fn",
+      "data": {
+        "id": "205",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "b11": {
+      "type": "tyrant",
+      "data": {
+        "name": "Froste, the Courteous (50)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "c1": {
+      "type": "tyrant",
+      "data": {
+        "name": "Telethia, the Endbringer (99)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "c2": {
+      "type": "fn",
+      "data": {
+        "id": "206",
+        "requirements": "5",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "c3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Joker, the Unknowable (90)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "c4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Frajeel, the Purgatorial (50)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "c5": {
+      "type": "fn",
+      "data": {
+        "id": "207",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "c6": {
+      "type": "mission",
+      "data": {
+        "name": "The Art of War (Ma-non Ship)",
+        "client": "Client: Sajif Scoppio",
+        "requirements": "Requirements: Chapter 8, Prone Sweet Prone"
+      }
+    },
+    "c7": {
+      "type": "fn",
+      "data": {
+        "id": "208",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "c8": {
+      "type": "mission",
+      "data": {
+        "name": "Rescue at the Ensconced Citadel",
+        "client": "Client: Julius (Administrative District)",
+        "requirements": "Requirements: Chapter 6, Noctilum Survey Rate > 30%"
+      }
+    },
+    "c9": {
+      "type": "affinity",
+      "data": {
+        "name": "My Dream (Administrative District)",
+        "requirements": "Chapter 5, Level 22"
+      }
+    },
+    "c10": {
+      "type": "tyrant",
+      "data": {
+        "name": "Katerina, the Cliffhanger (48)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "c11": {
+      "type": "tyrant",
+      "data": {
+        "name": "Schneider, the Cliffpercher (10)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "c12": {
+      "type": "mission",
+      "data": {
+        "name": "The Voltant Visionary",
+        "client": "Client: Trachlo Lythren (Industrial District)",
+        "requirements": "Requirements: Chapter 7, Dead Men Tell No Tales"
+      }
+    },
+    "c13": {
+      "type": "fn",
+      "data": {
+        "id": "209",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "d1": {
+      "type": "treasure",
+      "data": {
+        "type": "Patrol Chopper Wreckage",
+        "requirements": "Mechanical Level 4",
+        "rewards": "200 XP, 40,000 GP, EZ Debuff Probe"
+      }
+    },
+    "d2": {
+      "type": "mission",
+      "data": {
+        "name": "Circle of Life",
+        "client": "Client: Kon'luarb (Residential District)",
+        "requirements": "Requirements: Chapter 7, The Journey Begins, Water Woes"
+      }
+    },
+    "d3": {
+      "type": "fn",
+      "data": {
+        "id": "210",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "d4": {
+      "type": "treasure",
+      "data": {
+        "type": "Vehicle Wreckage",
+        "requirements": "Mechanical Level 4",
+        "rewards": "200 XP, 40,000 GP, Mining Probe G6"
+      }
+    },
+    "d5": {
+      "type": "fn",
+      "data": {
+        "id": "211",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "d6": {
+      "type": "mission",
+      "data": {
+        "name": "No-Show Nen'celeg",
+        "client": "Client: Nan'celeg (Ma-non Ship)",
+        "requirements": "Requirements: Chapter 10, House Call"
+      }
+    },
+    "d7": {
+      "type": "fn",
+      "data": {
+        "id": "212",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "d8": {
+      "type": "treasure",
+      "data": {
+        "type": "Trailer Wreckage",
+        "requirements": "Mechanical Level 1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G1"
+      }
+    },
+    "d9": {
+      "type": "mission",
+      "data": {
+        "name": "Dodonga Caravan",
+        "client": "Client: Vandham (part of BFFs affinity mission in the Barracks)",
+        "requirements": "Requirements: Chapter 5, Level 22, The Ties That Bind"
+      }
+    },
+    "e1": {
+      "type": "fn",
+      "data": {
+        "id": "213",
+        "requirements": "4",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "e2": {
+      "type": "affinity",
+      "data": {
+        "name": "Manhunt (Administrative District)",
+        "requirements": "Chapter 8, Level 33"
+      }
+    },
+    "e3": {
+      "type": "fn",
+      "data": {
+        "id": "214",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "e4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Demetrio, the Tempestuous (28)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "e5": {
+      "type": "fn",
+      "data": {
+        "id": "215",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "e6": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,000 GP, 4 BP, AttributeDmg.ETHER IV"
+      }
+    },
+    "e7": {
+      "type": "affinity",
+      "data": {
+        "name": "Close Comrades (Administrative District)",
+        "requirements": "Chapter 4, Level 20"
+      }
+    },
+    "e8": {
+      "type": "fn",
+      "data": {
+        "id": "216",
+        "requirements": "3",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "e9": {
+      "type": "mission",
+      "data": {
+        "name": "A Proper Chopper",
+        "client": "Client: Roscoe (Industrial District)",
+        "requirements": "Requirements: Chapter 4"
+      }
+    },
+    "e10": {
+      "type": "fn",
+      "data": {
+        "id": "217",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "f1": {
+      "type": "mission",
+      "data": {
+        "name": "Dead Men Tell No Tales",
+        "client": "Client: Stella (Administrative District)",
+        "requirements": "Requirements: Chapter 7, Primordia Survey Rate > 50%"
+      }
+    },
+    "f2": {
+      "type": "mission",
+      "data": {
+        "name": "Murder Most Foul",
+        "client": "Client: Ackwar (Commercial District)",
+        "requirements": "Requirements: Chapter 9"
+      }
+    },
+    "f3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Elena, the Infernal (79)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "f4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Griffus, the Tartarean (49)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "f5": {
+      "type": "fn",
+      "data": {
+        "id": "218",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "f6": {
+      "type": "mission",
+      "data": {
+        "name": "Adventure!",
+        "client": "Client: Mia (top of the Skybound Coil tree)",
+        "requirements": "Requirements: Chapter 5, Mamma Mia!"
+      }
+    },
+    "f7": {
+      "type": "tyrant",
+      "data": {
+        "name": "Tormenta, the Scarlet-Clad (41)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "f8": {
+      "type": "mission",
+      "data": {
+        "name": "Lone Survivors",
+        "client": "Client: Robert (Industrial District)",
+        "requirements": "Requirements: Chapter 8, Circle of Life"
+      }
+    },
+    "f9": {
+      "type": "fn",
+      "data": {
+        "id": "219",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "f10": {
+      "type": "tyrant",
+      "data": {
+        "name": "Sarcosuchus, the Iron-Eater (39)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "f11": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Tree",
+        "requirements": "Biological Level 1",
+        "rewards": "50 XP, 4 BP, Urbane Bunny Whiskers?"
+      }
+    },
+    "g1": {
+      "type": "treasure",
+      "data": {
+        "type": "White Whale Debris",
+        "requirements": "Mechanical Level 4",
+        "rewards": "200 XP, 40,000 GP, Mining Probe G9"
+      }
+    },
+    "g2": {
+      "type": "treasure",
+      "data": {
+        "type": "Skell Wreckage",
+        "requirements": "Mechanical Level 4",
+        "rewards": "200 XP, 40,000 GP, Mining Probe G8"
+      }
+    },
+    "g3": {
+      "type": "mission",
+      "data": {
+        "name": "The Duel (Part III)",
+        "client": "Client: Gi Zang (Admininstrative District)",
+        "requirements": "Requirements: Chapter 11, The Duel (Part II)"
+      }
+    },
+    "g4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Clemente, the Iron Meteor (22)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "g5": {
+      "type": "treasure",
+      "data": {
+        "type": "Patrol Chopper Wreckage (way up in the trees)",
+        "requirements": "Mechanical Level 2",
+        "rewards": "20 XP, 2,000 GP, Mining Probe G2"
+      }
+    },
+    "g6": {
+      "type": "fn",
+      "data": {
+        "id": "220",
+        "requirements": "2",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "g7": {
+      "type": "treasure",
+      "data": {
+        "type": "Skell Wreckage",
+        "requirements": "Mechanical Level 1",
+        "rewards": "50 XP, 6,000 GP, Mining Probe G2"
+      }
+    },
+    "g8": {
+      "type": "fn",
+      "data": {
+        "id": "221",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "g9": {
+      "type": "mission",
+      "data": {
+        "name": "Missing in Action",
+        "client": "Client: Jitsu (Whale's Nostril)",
+        "requirements": "Requirements: Chapter 5, BFFs, Lin in party"
+      }
+    },
+    "g10": {
+      "type": "fn",
+      "data": {
+        "id": "222",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "g11": {
+      "type": "tyrant",
+      "data": {
+        "name": "Desdemona, the Subterranean (11)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "h1": {
+      "type": "fn",
+      "data": {
+        "id": "223",
+        "requirements": "1",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "h2": {
+      "type": "fn",
+      "data": {
+        "id": "224",
+        "requirements": "4",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "h3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Buchwald, the Guardian (77)",
+        "subcategory": "",
+        "appears": "",
+        "location": ""
+      }
+    },
+    "h4": {
+      "type": "fn",
+      "data": {
+        "id": "225",
+        "requirements": "3",
+        "production": "",
+        "revenue": "",
+        "combat_support": "",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "h5": {
+      "type": "treasure",
+      "data": {
+        "type": "Skell Wreckage",
+        "requirements": "Mechanical Level 2",
+        "rewards": "100 XP, 10,000 GP, Research Probe G5"
+      }
+    },
+    "h6": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 4",
+        "rewards": "20 XP, 20,000 GP, 8 BP, Max TP Up X"
+      }
+    },
+    "h7": {
+      "type": "mission",
+      "data": {
+        "name": "Data Miner",
+        "client": "Client: Gigio (Rustpool Banks)",
+        "requirements": "Requires: Chapter 3"
+      }
+    }
+  }
+}

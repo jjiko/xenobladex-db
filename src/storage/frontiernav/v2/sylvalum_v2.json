@@ -1,0 +1,840 @@
+{
+  "map": "sylvalum",
+  "coordinatex": 39,
+  "coordinatesy": {"a1":"219px","a2":"262.793px","a3":"392.789px","a4":"439.78px","b1":"110.792px","b2":"153.792px","b3":"194.787px","b4":"239.78px","b5":"285px","b6":"327.786px","b7":"371.779px","b8":"417px","b9":"460.78px","c1":"132px","c2":"175px","c3":"218px","c4":"263px","c5":"308.787px","c6":"351px","c7":"393.782px","d1":"64px","d2":"110px","d3":"153px","d4":"197px","d5":"241px","d6":"285px","d7":"329px","d8":"372px","d9":"417.785px","e1":"0px","e2":"42.7849px","e3":"88px","e4":"131.781px","e5":"173.783px","e6":"219.782px","e7":"263px","e8":"307.783px","e9":"350.793px","e10":"393.779px","e11":"439px","f1":"20px","f2":"63.7935px","f3":"110.784px","f4":"152.791px","f5":"197.793px","f6":"241.795px","f7":"285.783px","f8":"329px","f9":"373.794px","f10":"415.791px","g1":"43.7808px","g2":"85.7846px","g3":"131px","g4":"175.789px","g5":"220px","g6":"263.784px","g7":"304.79px","g8":"350.784px","g9":"395.782px","h1":"19.7788px","h2":"65.7916px","h3":"110.779px","h4":"151.792px","h5":"197.783px","h6":"239.783px","h7":"284.786px","h8":"328.789px","h9":"373px","h10":"417.782px","i1":"0px","i2":"43px","i3":"88.7827px","i4":"131.786px","i5":"176px","i6":"219.794px","i7":"262.785px","i8":"307px","i9":"351.791px","j1":"21.7837px","j2":"64.7842px","j3":"110px","j4":"152.789px","j5":"197.779px","j6":"240px","j7":"285.792px","j8":"330.781px","k1":"131.794px","k2":"174.781px","k3":"219.781px","k4":"263.789px","l1":"197px","l2":"241.79px"},
+  "segments": {
+    "a1": {
+      "type": "fn",
+      "data": {
+        "id": "401",
+        "requirements": "2",
+        "production": "C",
+        "revenue": "B",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": "Parhelion Platinum, Marine Rutile"
+      }
+    },
+    "a2": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, SpecUp.ETHER-RES VII"
+      }
+    },
+    "a3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Yune, the Ambusher (20)",
+        "subcategory": "Visigel",
+        "appears": "Rarely",
+        "location": "Northwestern part of the beach"
+      }
+    },
+    "a4": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Petrified Tree",
+        "requirements": "Biological Level 3",
+        "rewards": "150 XP, 8 BP, some Eyepatch?"
+      }
+    },
+    "b1": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 5",
+        "rewards": "500 XP, 50,000 GP, 10 BP, Overdrive.EXTEND X?"
+      }
+    },
+    "b2": {
+      "type": "tyrant",
+      "data": {
+        "name": "Behemoth, the Netherdweller (60)",
+        "subcategory": "Virago",
+        "appears": "Rarely",
+        "location": "The very bottom of the Cavernous Abyss"
+      }
+    },
+    "b3": {
+      "type": "mission",
+      "data": {
+        "name": "Lesson From the Grave",
+        "client": "Client: Kupee (Cleansing Spring)",
+        "requirements": "Requirements: Chapter 4, Daytime"
+      }
+    },
+    "b4": {
+      "type": "mission",
+      "data": {
+        "name": "Predator and Prey",
+        "client": "Client: Dirk (camp in the southern end of the hexagon)",
+        "requirements": "Requirements: Chapter 6"
+      }
+    },
+    "b5": {
+      "type": "fn",
+      "data": {
+        "id": "402",
+        "requirements": "3",
+        "production": "A",
+        "revenue": "B",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "b6": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Petrified Tree",
+        "requirements": "Biological Level 2",
+        "rewards": "100 XP, 6 BP, Vogue Sheep Horns"
+      }
+    },
+    "b7": {
+      "type": "affinity",
+      "data": {
+        "name": "Bottoms Up (Industrial District)",
+        "requirements": "Chapter 4, Level 19, Nighttime"
+      }
+    },
+    "b8": {
+      "type": "fn",
+      "data": {
+        "id": "403",
+        "requirements": "1",
+        "production": "A",
+        "revenue": "C",
+        "combat_support": "S",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "b9": {
+      "type": "tyrant",
+      "data": {
+        "name": "Stola, the Champion (57)",
+        "subcategory": "Liceor",
+        "appears": "Crimson Aura",
+        "location": "On the southern tip of the beach (pop in)"
+      }
+    },
+    "c1": {
+      "type": "fn",
+      "data": {
+        "id": "404",
+        "requirements": "5",
+        "production": "B",
+        "revenue": "A",
+        "combat_support": "S",
+        "sightseeing_spots": "Sightseeing Spots: Abyss Reservoir",
+        "mineable_resources": ""
+      }
+    },
+    "c2": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, CritUp.MECHANOID VIII"
+      }
+    },
+    "c3": {
+      "type": "tyrant",
+      "data": {
+        "name": "Alexei, the Jade (35)",
+        "subcategory": "Monoceros",
+        "appears": "Always",
+        "location": "Near the wall"
+      }
+    },
+    "c4": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Reliquary",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, Resist.ELEC-DOWN VIII"
+      }
+    },
+    "c5": {
+      "type": "mission",
+      "data": {
+        "name": "Castle in the Sky",
+        "client": "Client: Kuta (Cleansing Springs)",
+        "requirements": "Requirements: Chapter 4, Nighttime"
+      }
+    },
+    "c6": {
+      "type": "fn",
+      "data": {
+        "id": "405",
+        "requirements": "1",
+        "production": "A",
+        "revenue": "E",
+        "combat_support": "A",
+        "sightseeing_spots": "",
+        "mineable_resources": "Arc Sand Ore"
+      }
+    },
+    "c7": {
+      "type": "tyrant",
+      "data": {
+        "name": "Florence, the Hell Maggot (24)",
+        "subcategory": "Germivore",
+        "appears": "Nighttime",
+        "location": "Near the wall, east of the Aeviter Statue."
+      }
+    },
+    "d1": {
+      "type": "tyrant",
+      "data": {
+        "name": "Antara, the Water Diviner (46)",
+        "subcategory": "Arenatect",
+        "appears": "Always",
+        "location": "In the cluster of Arenatect-looking rocks near the north wall"
+      }
+    },
+    "d2": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 3",
+        "rewards": "150 XP, 10,000 GP, 6 BP, SpecUp.ELEC-RES VIII"
+      }
+    },
+    "d3": {
+      "type": "mission",
+      "data": {
+        "name": "Plans of Attack",
+        "client": "Client: Zo Zinath (Wrothian Stronghold - night)",
+        "requirements": "Requirements: Chapter 11, Lend an Ear"
+      }
+    },
+    "d4": {
+      "type": "fn",
+      "data": {
+        "id": "406",
+        "requirements": "3",
+        "production": "C",
+        "revenue": "B",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "d5": {
+      "type": "tyrant",
+      "data": {
+        "name": "Radovan, the Sky Baron (37)",
+        "subcategory": "Jacul",
+        "appears": "Daytime",
+        "location": "High, sitting on one of those half-arches (pop in)"
+      }
+    },
+    "d6": {
+      "type": "tyrant",
+      "data": {
+        "name": "Laurencio, the Fog Bow (59)",
+        "subcategory": "Filiavent",
+        "appears": "Always",
+        "location": "The giant flower in the middle of the west lake"
+      }
+    },
+    "d7": {
+      "type": "tyrant",
+      "data": {
+        "name": "Asana, the Azure Star (30)",
+        "subcategory": "Cervus",
+        "appears": "Always",
+        "location": "The south side of the lake"
+      }
+    },
+    "d8": {
+      "type": "mission",
+      "data": {
+        "name": "The Line of Fire",
+        "client": "Client: Alice (Residential District)",
+        "requirements": "Requirements: Chapter 9, Shotgun Diplomacy"
+      }
+    },
+    "d9": {
+      "type": "tyrant",
+      "data": {
+        "name": "Damaged Zig (35)",
+        "subcategory": "Zig",
+        "appears": "Always",
+        "location": "On the outer wall"
+      }
+    },
+    "e1": {
+      "type": "mission",
+      "data": {
+        "name": "Unknown Assailant",
+        "client": "Client: Raleigh (Administrative District)",
+        "requirements": "Requirements: Chapter 10, Frontier Spirit"
+      }
+    },
+    "e2": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Petrified Tree",
+        "requirements": "Biological Level 5",
+        "rewards": "500 XP, 12 BP, FILE-USP1260ME (Barrage-Cloak lvl. 50), Refined? Bunny Whiskers"
+      }
+    },
+    "e3": {
+      "type": "fn",
+      "data": {
+        "id": "407",
+        "requirements": "3",
+        "production": "A",
+        "revenue": "B",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "e4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Candelario, the Bronze (47)",
+        "subcategory": "Petramand",
+        "appears": "Always",
+        "location": "The western tip of the hexagon"
+      }
+    },
+    "e5": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, Resist.ETHER-DOWN VIII"
+      }
+    },
+    "e6": {
+      "type": "affinity",
+      "data": {
+        "name": "Soldier of the Harriers (Administrative District)",
+        "requirements": "Chapter 7, Level 30, Doug \u2665\u2665\u2665"
+      }
+    },
+    "e7": {
+      "type": "fn",
+      "data": {
+        "id": "408",
+        "requirements": "1",
+        "production": "B",
+        "revenue": "D",
+        "combat_support": "B",
+        "sightseeing_spots": "Sightseeing Spots: Sandsprint Cavity (flight)",
+        "mineable_resources": "Aurorite, Arc Sand Ore, Everfreeze Ore"
+      }
+    },
+    "e8": {
+      "type": "mission",
+      "data": {
+        "name": "Hair Apparent",
+        "client": "Client: Nio (Cleansing Spring)",
+        "requirements": "Requirements: Chapter 8, Castle in the Sky, obtained Sapphire Ring from killing the Stray Potamus on the south end of this hexagon"
+      }
+    },
+    "e9": {
+      "type": "treasure",
+      "data": {
+        "type": "Patrol Chopper Wreckage",
+        "requirements": "Mechanical Level 3",
+        "rewards": "100 XP, 10,000 GP, Mining Probe G4"
+      }
+    },
+    "e10": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, Slayer.MECHANOID VIII"
+      }
+    },
+    "e11": {
+      "type": "fn",
+      "data": {
+        "id": "409",
+        "requirements": "3",
+        "production": "B",
+        "revenue": "A",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "f1": {
+      "type": "fn",
+      "data": {
+        "id": "410",
+        "requirements": "4",
+        "production": "C",
+        "revenue": "A",
+        "combat_support": "B",
+        "sightseeing_spots": "Sightseeing Spots: Arc Rock (flight)",
+        "mineable_resources": ""
+      }
+    },
+    "f2": {
+      "type": "tyrant",
+      "data": {
+        "name": "Luxaar's Xern (90)",
+        "subcategory": "Xern",
+        "appears": "Always",
+        "location": "In the sky"
+      }
+    },
+    "f3": {
+      "type": "treasure",
+      "data": {
+        "type": "Patrol Chopper Wreckage",
+        "requirements": "Mechanical Level 5",
+        "rewards": "500 XP, 10,000 GP, FILE-USP1160SA (Deus Crusher lvl 50), Mining Probe G9"
+      }
+    },
+    "f4": {
+      "type": "mission",
+      "data": {
+        "name": "Law and Orders",
+        "client": "Client: Wang (this quest is part of Gold Rush)",
+        "requirements": "Requirements: Chapter 11, The Celeste Three, A Challenger Approaches, started Gold Rush"
+      }
+    },
+    "f5": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Petrified Tree",
+        "requirements": "Biological Level 3",
+        "rewards": "150 XP, 8 BP, Ruinous? Devil Wings"
+      }
+    },
+    "f6": {
+      "type": "affinity",
+      "data": {
+        "name": "Serial Thriller (Commercial District)",
+        "requirements": "Chapter 12, Level 53, A False Hope, Murderess \u2665\u2665\u2665\u2665"
+      }
+    },
+    "f7": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Reliquary",
+        "requirements": "Archaeological Level 5",
+        "rewards": "500 XP, 50,000 GP, 10 BP, Slayer.HUMANOID X"
+      }
+    },
+    "f8": {
+      "type": "fn",
+      "data": {
+        "id": "411",
+        "requirements": "4",
+        "production": "A",
+        "revenue": "A",
+        "combat_support": "S",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "f9": {
+      "type": "mission",
+      "data": {
+        "name": "It's-a Mia!",
+        "client": "Client: Mia (Cleansing Spring?)",
+        "requirements": "Requirements: Chapter 9, Mighty Mia (Oblivia), A Girl's Wings"
+      }
+    },
+    "f10": {
+      "type": "treasure",
+      "data": {
+        "type": "Skell Wreckage",
+        "requirements": "Mechanical Level 3",
+        "rewards": "150 XP, 20,000 GP, Mining Probe G4"
+      }
+    },
+    "g1": {
+      "type": "treasure",
+      "data": {
+        "type": "Skell Wreckage",
+        "requirements": "Mechanical Level 4",
+        "rewards": "200 XP, 40,000 GP, Mining Probe G8"
+      }
+    },
+    "g2": {
+      "type": "mission",
+      "data": {
+        "name": "Good Fortun",
+        "client": "Client: HT665: Erio (Industrial District)",
+        "requirements": "Requirements: Chapter 10, Attack on Bianho Hills, Alex's Last Stand, Rites of Ruin"
+      }
+    },
+    "g3": {
+      "type": "fn",
+      "data": {
+        "id": "412",
+        "requirements": "3",
+        "production": "A",
+        "revenue": "B",
+        "combat_support": "A",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "g4": {
+      "type": "tyrant",
+      "data": {
+        "name": "Gesserith, the Wileworm (76)",
+        "subcategory": "Sabula",
+        "appears": "Summoned by Atreides the Distinguished (Sabula - level 74)",
+        "location": "Atreides pops up out of the ground frequently."
+      }
+    },
+    "g5": {
+      "type": "fn",
+      "data": {
+        "id": "413",
+        "requirements": "3",
+        "production": "C",
+        "revenue": "A",
+        "combat_support": "B",
+        "sightseeing_spots": "Sightseeing Spots: Xanadu Overlook",
+        "mineable_resources": ""
+      }
+    },
+    "g6": {
+      "type": "tyrant",
+      "data": {
+        "name": "Ramus, the Supersonic (41)",
+        "subcategory": "Aetrygon",
+        "appears": "Always",
+        "location": "High above the lake with the other Aetrygons (pop in)"
+      }
+    },
+    "g7": {
+      "type": "tyrant",
+      "data": {
+        "name": "Ignit, the Ultimate Chaos (88)",
+        "subcategory": "Coronid",
+        "appears": "Crimson Auroras",
+        "location": "It's the largest Coronid on the east side of the lake"
+      }
+    },
+    "g8": {
+      "type": "tyrant",
+      "data": {
+        "name": "Lockhart, the Killer of Hope (52)",
+        "subcategory": "Vivohast",
+        "appears": "Rarely",
+        "location": "Out in the open"
+      }
+    },
+    "g9": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 3",
+        "rewards": "150 XP, 10,000 GP, 6 BP, SpecUp.THERM-RES VI"
+      }
+    },
+    "h1": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, AttributeDmg.THERM X"
+      }
+    },
+    "h2": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Petrified Tree",
+        "requirements": "Biological Level 4",
+        "rewards": "200 XP, 10 BP, Fluffy Bunny Ears"
+      }
+    },
+    "h3": {
+      "type": "treasure",
+      "data": {
+        "type": "Skell Wreckage",
+        "requirements": "Mechanical Level 3",
+        "rewards": "150 XP, 20,000 GP, Mining Probe G4"
+      }
+    },
+    "h4": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Petrified Tree",
+        "requirements": "Biological Level 3",
+        "rewards": "150 XP, 8 BP, Soothing? Angel Wings"
+      }
+    },
+    "h5": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, AttributeDmg.GRAV VIII"
+      }
+    },
+    "h6": {
+      "type": "tyrant",
+      "data": {
+        "name": "Man'an, the Water Whisperer (43)",
+        "subcategory": "Arenatect",
+        "appears": "Always",
+        "location": "Down the hill from South Hardheart Canyon"
+      }
+    },
+    "h7": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Reliquary",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, SpecUp.GRAV-RES X"
+      }
+    },
+    "h8": {
+      "type": "tyrant",
+      "data": {
+        "name": "Thaddeus, the Ultramafic",
+        "subcategory": "Cinicula",
+        "appears": "Always",
+        "location": "Might pop up slow, otherwise, hard to miss"
+      }
+    },
+    "h9": {
+      "type": "fn",
+      "data": {
+        "id": "414",
+        "requirements": "2",
+        "production": "C",
+        "revenue": "B",
+        "combat_support": "B",
+        "sightseeing_spots": "Sightseeing Spots: Noctilucent Sphere Interior (flight), Quay Hollows (flight)",
+        "mineable_resources": "Parhelion Platinum, Marine Rutile"
+      }
+    },
+    "h10": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, SpecUp.THERM-RES VIII"
+      }
+    },
+    "i1": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,000 GP, 4 BP, Max HP Up VII"
+      }
+    },
+    "i2": {
+      "type": "fn",
+      "data": {
+        "id": "415",
+        "requirements": "3",
+        "production": "C",
+        "revenue": "A",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "i3": {
+      "type": "mission",
+      "data": {
+        "name": "Special Delivery",
+        "client": "Client: Zazazan (passage between Sylvalum and Cauldros)",
+        "requirements": "Requirements: Chapter 7, The Bodyguard (Cauldros)"
+      }
+    },
+    "i4": {
+      "type": "mission",
+      "data": {
+        "name": "The Duel (Part III)",
+        "client": "Client: Gi Zang (Administrative District)",
+        "requirements": "Requirements: Chapter 11, The Duel (Part II)"
+      }
+    },
+    "i5": {
+      "type": "fn",
+      "data": {
+        "id": "416",
+        "requirements": "3",
+        "production": "C",
+        "revenue": "B",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": ""
+      }
+    },
+    "i6": {
+      "type": "affinity",
+      "data": {
+        "name": "Brotherly Love (Administrative District)",
+        "requirements": "Chapter 11, Level 46, Phog \u2665\u2665\u2665\u2665, Frye \u2665\u2665\u2665\u2665, Blitzkrieg"
+      }
+    },
+    "i7": {
+      "type": "tyrant",
+      "data": {
+        "name": "Sadar's Qmoeva (44)",
+        "subcategory": "Qmoeva",
+        "appears": "Daytime",
+        "location": "419SW(low)"
+      }
+    },
+    "i8": {
+      "type": "fn",
+      "data": {
+        "id": "417",
+        "requirements": "2",
+        "production": "B",
+        "revenue": "D",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": "Everfreeze Ore, Boiled-Egg Ore"
+      }
+    },
+    "i9": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Petrified Tree",
+        "requirements": "Requirements: Biological Level 4",
+        "rewards": "200 XP, 10 BP, Devil Horns? (this one was weirdly labeled on Japanese sites)"
+      }
+    },
+    "j1": {
+      "type": "mission",
+      "data": {
+        "name": "Leaving the Nest",
+        "client": "Client: De Ezich (Wrothian Stronghold - night, behind the pool of water)",
+        "requirements": "Requirements: Chapter 12, Until the End (Cauldros)"
+      }
+    },
+    "j2": {
+      "type": "tyrant",
+      "data": {
+        "name": "Clara, the Pure White (21)",
+        "subcategory": "Ovis",
+        "appears": "Daytime",
+        "location": "Search on foot, the pop-in is very bad in a skell."
+      }
+    },
+    "j3": {
+      "type": "fn",
+      "data": {
+        "id": "418",
+        "requirements": "2",
+        "production": "C",
+        "revenue": "C",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": "Parhelion Platinum, Arc Sand Ore, Everfreeze Ore, Boiled-Egg Ore, Marine Rutile"
+      }
+    },
+    "j4": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, Resist.ELEC-DOWN VIII"
+      }
+    },
+    "j5": {
+      "type": "mission",
+      "data": {
+        "name": "Orphe Pluck",
+        "client": "Client: San'luarb (Industrial District)",
+        "requirements": "Requirements: Chapter 10, No Show Nen'celeg, Planetary Pioneer (Part IV)"
+      }
+    },
+    "j6": {
+      "type": "fn",
+      "data": {
+        "id": "419",
+        "requirements": "5",
+        "production": "C",
+        "revenue": "A",
+        "combat_support": "S",
+        "sightseeing_spots": "Sightseeing Spots: Behemoth's Shadows",
+        "mineable_resources": ""
+      }
+    },
+    "j7": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Petrified Tree",
+        "requirements": "Biological Level 2",
+        "rewards": "100 XP, 6 BP, Warm Angel Halo"
+      }
+    },
+    "j8": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Petrified Tree",
+        "requirements": "Biological Level 3",
+        "rewards": "150 XP, 8 BP, Lovestruck Kitty Ears"
+      }
+    },
+    "k1": {
+      "type": "treasure",
+      "data": {
+        "type": "Strange Petrified Tree",
+        "requirements": "Biological Level 4",
+        "rewards": "200 XP, 10 BP, Unfathomable Fa\u00e7ade?"
+      }
+    },
+    "k2": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 4",
+        "rewards": "200 XP, 20,000 GP, 8 BP, AttributeDmg.ETHER VIII"
+      }
+    },
+    "k3": {
+      "type": "mission",
+      "data": {
+        "name": "The Sword of Legendaryness",
+        "client": "Client: Muimui (Commercial District)",
+        "requirements": "Requirements: Chapter 11, Bread and a Circus"
+      }
+    },
+    "k4": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Container",
+        "requirements": "Archaeological Level 2",
+        "rewards": "100 XP, 5,000 GP, 4 BP, CritUp.MECHANOID IV"
+      }
+    },
+    "l1": {
+      "type": "fn",
+      "data": {
+        "id": "420",
+        "requirements": "2",
+        "production": "B",
+        "revenue": "C",
+        "combat_support": "B",
+        "sightseeing_spots": "",
+        "mineable_resources": "Everfreeze Ore"
+      }
+    },
+    "l2": {
+      "type": "tyrant",
+      "data": {
+        "name": "Oc-serv, the Ancient (40)",
+        "subcategory": "Oc-serv",
+        "appears": "Always",
+        "location": "Lying on the floor near the western corner of the hexagon"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+A1,FN Site 401,Mechanical Level: 2,Production: C,Revenue: B,Combat Support: B,"Mineable Resources: Parhelion Platinum, Marine Rutile"
+A2,Treasure: Alien Container,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, SpecUp.ETHER-RES VII"
+A3,"Tyrant: Yune, the Ambusher (20)",Subcategory: Visigel,Appears: Rarely,Location: Northwestern part of the beach
+A4,Treasure: Strange Petrified Tree,Requires: Biological Level 3,"Rewards: 150 XP, 8 BP, some Eyepatch?"
+B1,Treasure: Alien Wreckage,Requires: Archaeological Level 5,"Rewards: 500 XP, 50,000 GP, 10 BP, Overdrive.EXTEND X?"
+B2,"Tyrant: Behemoth, the Netherdweller (60)",Subcategory: Virago,Appears: Rarely,Location: The very bottom of the Cavernous Abyss
+B3,Mission: Lesson From the Grave,Client: Kupee (Cleansing Spring),"Requirements: Chapter 4, Daytime"
+B4,Mission: Predator and Prey,Client: Dirk (camp in the southern end of the hexagon),Requirements: Chapter 6
+B5,FN Site 402,Mechanical Level: 3,Production: A,Revenue: B,Combat Support: B
+B6,Treasure: Strange Petrified Tree,Requires: Biological Level 2,"Rewards: 100 XP, 6 BP, Vogue Sheep Horns"
+B7,Affinity Mission: Bottoms Up (Industrial District),"Requirements: Chapter 4, Level 19, Nighttime"
+B8,FN Site 403,Mechanical Level: 1,Production: A,Revenue: C,Combat Support: S
+B9,"Tyrant: Stola, the Champion (57)",Subcategory: Liceor,Appears: Crimson Aura,Location: On the southern tip of the beach (pop in)
+C1,FN Site 404,Mechanical Level: 5,Production: B,Revenue: A,Combat Support: S,Sightseeing Spots: Abyss Reservoir
+C2,Treasure: Alien Container,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, CritUp.MECHANOID VIII"
+C3,"Tyrant: Alexei, the Jade (35)",Subcategory: Monoceros,Appears: Always,Location: Near the wall
+C4,Treasure: Alien Reliquary,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, Resist.ELEC-DOWN VIII"
+C5,Mission: Castle in the Sky,Client: Kuta (Cleansing Springs),"Requirements: Chapter 4, Nighttime"
+C6,FN Site 405,Mechanical Level: 1,Production: A,Revenue: E,Combat Support: A,Mineable Resources: Arc Sand Ore
+C7,"Tyrant: Florence, the Hell Maggot (24)",Subcategory: Germivore,Appears: Nighttime,"Location: Near the wall, east of the Aeviter Statue."
+D1,"Tyrant: Antara, the Water Diviner (46)",Subcategory: Arenatect,Appears: Always,Location: In the cluster of Arenatect-looking rocks near the north wall
+D2,Treasure: Alien Container,Requires: Archaeological Level 3,"Rewards: 150 XP, 10,000 GP, 6 BP, SpecUp.ELEC-RES VIII"
+D3,Mission: Plans of Attack,Client: Zo Zinath (Wrothian Stronghold - night),"Requirements: Chapter 11, Lend an Ear"
+D4,FN Site 406,Mechanical Level: 3,Production: C,Revenue: B,Combat Support: B
+D5,"Tyrant: Radovan, the Sky Baron (37)",Subcategory: Jacul,Appears: Daytime,"Location: High, sitting on one of those half-arches (pop in)"
+D6,"Tyrant: Laurencio, the Fog Bow (59)",Subcategory: Filiavent,Appears: Always,Location: The giant flower in the middle of the west lake
+D7,"Tyrant: Asana, the Azure Star (30)",Subcategory: Cervus,Appears: Always,Location: The south side of the lake
+D8,Mission: The Line of Fire,Client: Alice (Residential District),"Requirements: Chapter 9, Shotgun Diplomacy"
+D9,Tyrant: Damaged Zig (35),Subcategory: Zig,Appears: Always,Location: On the outer wall
+E1,Mission: Unknown Assailant,Client: Raleigh (Administrative District),"Requirements: Chapter 10, Frontier Spirit"
+E2,Treasure: Strange Petrified Tree,Requires: Biological Level 5,"Rewards: 500 XP, 12 BP, FILE-USP1260ME (Barrage-Cloak lvl. 50), Refined? Bunny Whiskers"
+E3,FN Site 407,Mechanical Level: 3,Production: A,Revenue: B,Combat Support: B
+E4,"Tyrant: Candelario, the Bronze (47)",Subcategory: Petramand,Appears: Always,Location: The western tip of the hexagon
+E5,Treasure: Alien Container,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, Resist.ETHER-DOWN VIII"
+E6,Affinity Mission: Soldier of the Harriers (Administrative District),"Requirements: Chapter 7, Level 30, Doug ♥♥♥"
+E7,FN Site 408,Mechanical Level: 1,Production: B,Revenue: D,Combat Support: B,Sightseeing Spots: Sandsprint Cavity (flight),"Mineable Resources: Aurorite, Arc Sand Ore, Everfreeze Ore"
+E8,Mission: Hair Apparent,Client: Nio (Cleansing Spring),"Requirements: Chapter 8, Castle in the Sky, obtained Sapphire Ring from killing the Stray Potamus on the south end of this hexagon"
+E9,Treasure: Patrol Chopper Wreckage,Requires: Mechanical Level 3,"Rewards: 100 XP, 10,000 GP, Mining Probe G4"
+E10,Treasure: Alien Container,Requires: Archeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, Slayer.MECHANOID VIII"
+E11,FN Site 409,Mechanical Level: 3,Production: B,Revenue: A,Combat Support: B
+F1,FN Site 410,Mechanical Level: 4,Production: C,Revenue: A,Combat Support: B,Sightseeing Spots: Arc Rock (flight)
+F2,Tyrant: Luxaar's Xern (90),Subcategory: Xern,Appears: Always,Location: In the sky
+F3,Treasure: Patrol Chopper Wreckage,Requires: Mechanical Level 5,"Rewards: 500 XP, 10,000 GP, FILE-USP1160SA (Deus Crusher lvl 50), Mining Probe G9"
+F4,Mission: Law and Orders,Client: Wang (this quest is part of Gold Rush),"Requirements: Chapter 11, The Celeste Three, A Challenger Approaches, started Gold Rush"
+F5,Treasure: Strange Petrified Tree,Requires: Biological Level 3,"Rewards: 150 XP, 8 BP, Ruinous? Devil Wings"
+F6,Affinity Mission: Serial Thriller (Commercial District),"Requirements: Chapter 12, Level 53, A False Hope, Murderess ♥♥♥♥"
+F7,Treasure: Alien Reliquary,Requires: Archaeological Level 5,"Rewards: 500 XP, 50,000 GP, 10 BP, Slayer.HUMANOID X"
+F8,FN Site 411,Mechanical Level: 4,Production: A,Revenue: A,Combat Support: S
+F9,Mission: It's-a Mia!,Client: Mia (Cleansing Spring?),"Requirements: Chapter 9, Mighty Mia (Oblivia), A Girl's Wings"
+F10,Treasure: Skell Wreckage,Requires: Mechanical Level 3,"Rewards: 150 XP, 20,000 GP, Mining Probe G4"
+G1,Treasure: Skell Wreckage,Requires: Mechanical Level 4,"Rewards: 200 XP, 40,000 GP, Mining Probe G8"
+G2,Mission: Good Fortun,Client: HT665: Erio (Industrial District),"Requirements: Chapter 10, Attack on Bianho Hills, Alex's Last Stand, Rites of Ruin"
+G3,FN Site 412,Mechanical Level: 3,Production: A,Revenue: B,Combat Support: A
+G4,"Tyrant: Gesserith, the Wileworm (76)",Subcategory: Sabula,Appears: Summoned by Atreides the Distinguished (Sabula - level 74),Location: Atreides pops up out of the ground frequently.
+G5,FN Site 413,Mechanical Level: 3,Production: C,Revenue: A,Combat Support: B,Sightseeing Spots: Xanadu Overlook
+G6,"Tyrant: Ramus, the Supersonic (41)",Subcategory: Aetrygon,Appears: Always,Location: High above the lake with the other Aetrygons (pop in)
+G7,"Tyrant: Ignit, the Ultimate Chaos (88)",Subcategory: Coronid,Appears: Crimson Auroras,Location: It's the largest Coronid on the east side of the lake
+G8,"Tyrant: Lockhart, the Killer of Hope (52)",Subcategory: Vivohast,Appears: Rarely,Location: Out in the open
+G9,Treasure: Alien Wreckage,Requires: Archaeological Level 3,"Rewards: 150 XP, 10,000 GP, 6 BP, SpecUp.THERM-RES VI"
+H1,Treasure: Alien Wreckage,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, AttributeDmg.THERM X"
+H2,Treasure: Strange Petrified Tree,Requires: Biological Level 4,"Rewards: 200 XP, 10 BP, Fluffy Bunny Ears"
+H3,Treasure: Skell Wreckage,Requires: Mechanical Level 3,"Rewards: 150 XP, 20,000 GP, Mining Probe G4"
+H4,Treasure: Strange Petrified Tree,Requires: Biological Level 3,"Rewards: 150 XP, 8 BP, Soothing? Angel Wings"
+H5,Treasure: Alien Wreckage,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, AttributeDmg.GRAV VIII"
+H6,"Tyrant: Man'an, the Water Whisperer (43)",Subcategory: Arenatect,Appears: Always,Location: Down the hill from South Hardheart Canyon
+H7,Treasure: Alien Reliquary,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, SpecUp.GRAV-RES X"
+H8,"Tyrant: Thaddeus, the Ultramafic",Subcategory: Cinicula,Appears: Always,"Location: Might pop up slow, otherwise, hard to miss"
+H9,FN Site 414,Mechanical Level: 2,Production: C,Revenue: B,Combat Support: B,"Sightseeing Spots: Noctilucent Sphere Interior (flight), Quay Hollows (flight)","Mineable Resources: Parhelion Platinum, Marine Rutile"
+H10,Treasure: Alien Container,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, SpecUp.THERM-RES VIII"
+I1,Treasure: Alien Wreckage,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,000 GP, 4 BP, Max HP Up VII"
+I2,FN Site 415,Mechanical Level: 3,Production: C,Revenue: A,Combat Support: B
+I3,Mission: Special Delivery,Client: Zazazan (passage between Sylvalum and Cauldros),"Requirements: Chapter 7, The Bodyguard (Cauldros)"
+I4,Mission: The Duel (Part III),Client: Gi Zang (Administrative District),"Requirements: Chapter 11, The Duel (Part II)"
+I5,FN Site 416,Mechanical Level: 3,Production: C,Revenue: B,Combat Support: B
+I6,Affinity Mission: Brotherly Love (Administrative District),"Requirements: Chapter 11, Level 46, Phog ♥♥♥♥, Frye ♥♥♥♥, Blitzkrieg"
+I7,Tyrant: Sadar's Qmoeva (44),Subcategory: Qmoeva,Appears: Daytime,Location: 419SW(low)
+I8,FN Site 417,Mechanical Level: 2,Production: B,Revenue: D,Combat Support: B,"Mineable Resources: Everfreeze Ore, Boiled-Egg Ore"
+I9,Treasure: Strange Petrified Tree,Requirements: Biological Level 4,"Rewards: 200 XP, 10 BP, Devil Horns? (this one was weirdly labeled on Japanese sites)"
+J1,Mission: Leaving the Nest,"Client: De Ezich (Wrothian Stronghold - night, behind the pool of water)","Requirements: Chapter 12, Until the End (Cauldros)"
+J2,"Tyrant: Clara, the Pure White (21)",Subcategory: Ovis,Appears: Daytime,"Location: Search on foot, the pop-in is very bad in a skell."
+J3,FN Site 418,Mechanical Level: 2,Production: C,Revenue: C,Combat Support: B,"Mineable Resources: Parhelion Platinum, Arc Sand Ore, Everfreeze Ore, Boiled-Egg Ore, Marine Rutile"
+J4,Treasure: Alien Container,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, Resist.ELEC-DOWN VIII"
+J5,Mission: Orphe Pluck,Client: San'luarb (Industrial District),"Requirements: Chapter 10, No Show Nen'celeg, Planetary Pioneer (Part IV)"
+J6,FN Site 419,Mechanical Level: 5,Production: C,Revenue: A,Combat Support: S,Sightseeing Spots: Behemoth's Shadows
+J7,Treasure: Strange Petrified Tree,Requires: Biological Level 2,"Rewards: 100 XP, 6 BP, Warm Angel Halo"
+J8,Treasure: Strange Petrified Tree,Requires: Biological Level 3,"Rewards: 150 XP, 8 BP, Lovestruck Kitty Ears"
+K1,Treasure: Strange Petrified Tree,Requires: Biological Level 4,"Rewards: 200 XP, 10 BP, Unfathomable Façade?"
+K2,Treasure: Alien Container,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, AttributeDmg.ETHER VIII"
+K3,Mission: The Sword of Legendaryness,Client: Muimui (Commercial District),"Requirements: Chapter 11, Bread and a Circus"
+K4,Treasure: Alien Container,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,000 GP, 4 BP, CritUp.MECHANOID IV"
+L1,FN Site 420,Mechanical Level: 2,Production: B,Revenue: C,Combat Support: B,Mineable Resources: Everfreeze Ore
+L2,"Tyrant: Oc-serv, the Ancient (40)",Subcategory: Oc-serv,Appears: Always,Location: Lying on the floor near the western corner of the hexagon

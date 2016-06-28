@@ -1,0 +1,95 @@
+#frontiernav {
+  [id^=frontiernav-] {
+    position: relative;
+    width: 984px;
+    height: 928px;
+    margin-top: 15px;
+  }
+
+  [id^=poi-],
+  [id^=poi-] .x-icon,
+  [id^=segment-map-],
+  [id^=terrain-map-],
+  [id^=info-],
+  [id^=fn-ids-],
+  .fn-site-id {
+    position: absolute;
+  }
+
+  [id^=terrain-map-] {
+    z-index: 1;
+  }
+
+  [id^=segment-map-] {
+    z-index: 5;
+  }
+
+  [id^=poi-] {
+    z-index: 10;
+  }
+
+  [id^=info-] {
+    z-index: 15;
+    max-width: 250px;
+  }
+
+  [id^=fn-ids-] {
+    z-index: 15;
+
+    .fn-site-id {
+      color: yellow;
+      font-weight: 600;
+      display: block;
+      text-align: center;
+      width:55px;
+      text-shadow: 0 0 2px black;
+    }
+  }
+
+  i.x-icon {
+    background: url("//cdn.joejiko.com/img/gaming/xbx/sprites-3.png") 0 0 no-repeat;
+    display: inline-block;
+    height: 50px;
+    width: 55px;
+    opacity: .8;
+  }
+
+  i.x-icon:hover {
+    opacity: 1;
+  }
+
+  i.x-icon-fn {
+    background-position-y: 0;
+  }
+
+  i.x-icon-tyrant {
+    background-position-y: -50px;
+  }
+
+  i.x-icon-treasure {
+    background-position-y: -100px;
+  }
+
+  i.x-icon-affinity {
+    background-position-y: -150px;
+  }
+
+  i.x-icon-mission {
+    background-position-y: -200px;
+  }
+
+  i.x-icon-character-hangout {
+    background-position-y: -350px;
+  }
+  i.x-icon-heart-to-heart {
+    background-position-y: -300px;
+  }
+}
+
+.editing {
+  z-index: 995;
+}
+
+.testing {
+  z-index: 9999;
+}

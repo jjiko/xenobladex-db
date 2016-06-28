@@ -1,0 +1,75 @@
+A1,Treasure: White Whale Debris,Requires: Mechanical Level 1,"Rewards: 50 XP, 6,000 GP, Mining Probe G3"
+A2,Treasure: Alien Reliquary,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,000 GP, 4 BP, Slayer.MECHANOID IV"
+B1,FN Site 501,Mechanical Level: 1,Production: B,Revenue: F,Combat Support: B,Mineable Resources: Arc Sand Ore
+B2,Mission: Supplies Surprise,Client: Nalu (Drongo Caravan),Requirements: Chapter 4
+B3,FN Site 502,Mechanical Level: 1,Production: B,Revenue: F,Combat Support: B,Sightseeing Spots: Infernal Ledges,Mineable Resources: Bonjelium
+B4,Treasure: Indigen Nest,Requires: Biological Level 1,"Rewards: 50 XP, 4 BP, some Demon Horns?"
+C1,Treasure: Indigen Nest (flight?),Requires: Biological Level 5,"Rewards: 500 XP, 24 BP, Custom.WP-ATK XIII, Custom.WP-SPEED XIII, Custom.WP-FUEL XIII",
+C2,Mission: Gorkwa Games,Client: Troylan (Ma-non Ship),"Requirements: Chapter 7, Dead Men Tell No Tales"
+C3,Mission: Sparking a Smile,Client: Ngogo (Commercial District),"Requirements: Chapter 8, BFFs, Mira Survey Rate > 40%"
+C4,Mission: Slovity's Revenge,Client: Slovity Pagus (Ma-non Ship),"Requirements: Chapter 11, Slovity's Rampage"
+D1,FN Site 503,Mechanical Level: 2,Production: C,Revenue: D,Combat Support: B,Sightseeing Spots: White Phosphor Lake,Mineable Resources: Enduron Lead
+D2,Treasure: Lifepod,Requires: Mechanical Level 2,"Rewards: 30 XP, 3,000 GP, Mining Probe G8"
+D3,"Tyrant: Kringe, the Hunting Arrow (40)",Subcategory: Caro,Appears: Always,Location: At the top of the ramp heading down to the lava area (pop in)
+D4,Treasure: White Whale Debris,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Mining Probe G8"
+E1,Treasure: White Whale Debris,Requires: Mechanical Level 2,"Rewards: 100 XP, 20,000 GP, Mining Probe G1"
+E2,Mission: The Bodyguard,Client: Zazazan (somewhere in this hexagon),"Requirements: Chapter 5, BFFs"
+E3,"Mission: My Angel, My Lana",Client: Bubu (Commercial District),"Requirements: Chapter 10, BFFs"
+E4,Treasure: Alien Wreckage,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,000 GP, 4BP, SpecUp.GRAV-RES VIII"
+E5,FN Site 504,Mechanical Level: 2,Production: C,Revenue: C,Combat Support: B,"Mineable Resources: Arc Sand Ore, Enduron Lead, Marine Rutile, Bonjelium"
+F1,Affinity Mission: Definian Downfall,Client: HT665: Erio (Commercial District),"Requirements: Chapter 11, ...a lot of quests (see ultimate spreadsheet for full list)"
+F2,FN Site 505,Mechanical Level: 2,Production: C,Revenue: B,Combat Support: B,"Sightseeing Spots: Forgotten Mining Frigate?, Ganglion Antropolis",I wasn't sure which FN Site the Forgotten Mining Frigates were associated with
+F3,Treasure: Alien Reliquary,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,000 GP, 4 BP, Slayer.INSECTOID VII"
+F4,FN Site 506,Mechanical Level: 3,Production: C,Revenue: B,Combat Support: B,Sightseeing Spots: Beneath O'rrh Sim Keep,"Mineable Resources: Bonjelium, Arc Sand Ore"
+F5,"Tyrant: Coil, the Never-Ending (55)",Subcategory: Scintimure,Appears: Electromagnetic Storm,"Location: In the sky, hovering above one of those platforms"
+F6,Treasure: Alien Reliquary,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,000 GP, 4 BP, Overdrive.FRAME-HP X"
+F7,"Tyrant: Prinsipe, the Ravenous (44)",Subcategory: Blatta,Appears: Nighttime,"Location: In the sky, inside one of the smaller silos"
+F8,Mission: The Old Gods,Client: Feloran (Ma-non Ship),"Requirements: Chapter 12, Dead Men Tell No Tales"
+G1,Mission: Mia Is Missing! (aka Mia's Conclusion),Client: Mia (inside a locked trailer. Appears as a treasure symbol on minimap),"Requirements: Chapter 11, It's-a Mia!, Definian Downfall, Cauldros Survey Rate > 65%"
+G2,Mission: The Duel (Part IV),Client: Gi Zang (the center of E4/tile north of FN 504),"Requirements: Chapter 11, (The Duel Part III)"
+G3,Tyrant: Chantai's Galdr (47),Subcategory: Galdr,Appears: Daytime,Location: Standing in front of one of the archways
+G4,Treasure: Patrol Chopper Wreckage,Requires: Mechanical Level 3,"Rewards: 150 XP, 20,000 GP, Mining Probe G6"
+G5,Affinity Mission: To Serve Nopon (aka Collecting Alien Recipes!) (Barracks),"Requirements: Chapter 12, Level 52, Lin ♥♥♥♥"
+G6,Mission: Rites of Ruin,Client: Jalimbo (Residential District),"Requirements: Chapter 8, The Miracle Maker"
+G7,FN Site 507 (hard to get to without flight),Mechanical Level: 3,Production: C,Revenue: A,Combat Support: B,Sightseeing Spots: Bandit's Refuge,Mineable Resources: Bonjelium
+G8,Mission: Black Lifehold,Client: Milly (Oblivia - Dorian Caravan),"Requirements: Chapter 11, Daytime"
+H1,"Tyrant: Eisen, the Ebon Rock (51)",Subcategory: Petramand,Appears: Nighttime,Location: One of the large platforms in the lava (very slow pop-in)
+H2,Treasure: Alien Container,Requires: Archaeological Level 2,"Rewards: 30 XP, 1,500 GP, 2 BP, Resist Stun XII"
+H3,Affinity Mission: Lionhearted (aka Ceaseless Vigor),"Requirements: Chapter 12, Level 51, A Challenger Approaches"
+H4,FN Site 508,Mechanical Level: 2,Production: A,Revenue: B,Combat Support: S,Sightseeing Spots: O'rrh Sim Castle Ruins,"Mineable Resources: Enduron Lead, Marine Rutile"
+H5,"Tyrant: Pelicollo, the Panzer (36)",Subcategory: Caecus,Appears: Always,Location: Walking along the pathway
+H6,Treasure: Alien Container (flight?),Requires: Archaeological Level 3,"Rewards: 150 XP, 10,000 GP, 6 BP, CriticalUp X"
+H7,Treasure: Lifepod,Requires: Mechanical Level 3,"Rewards: 150 XP, 20,000 GP, Mining Probe G8"
+I1,"Tyrant: Chantai, the Insect Maiden (38)",Subcategory: Milsaadi,Appears: Nighttime,Location: Inside one of the large disk-shaped buildings in the sky
+I2,FN Site 509,Mechanical Level: 2,Production: A,Revenue: A,Combat Support: A
+I3,Tyrant: Armored Cruiser Seidr (61),Subcategory: Seidr,Appears: Daytime,Location: Walk east from the O'rrh Sim Watchtowers fast travel teleport (slow pop-in)
+I4,"Tyrant: Duran, the Draconian",Subcategory: Marnuck,Appears: Always (except late night),Location: Eastern corner of the hexagon
+I5,"Tyrant: Ilithios, the Enlightened (48)",Subcategory: Gularth,Appears: Always (except flaming hail),Location: Below the lava falls
+I6,Treasure: Lifepod,Requires: Mechanical Level 3,"Rewards: 150 XP, 20,000 GP, Mining Probe G8"
+I7,Treasure: Lifepod,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Mining Probe G9"
+J1,FN Site 510 (flight? - inside one of the smaller silos),Mechanical Level: 3,Production: C,Revenue: B,Combat Support: B,Mineable Resources: Bonjelium
+J2,Affinity Mission: A Present for Hope (Residential District),"Requirements: Chapter 10, Level 44, Hope ♥♥♥♥"
+J3,Treasure: Alien Wreckage,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,000 GP, 4BP, AttributeDmg.THERM VIII"
+J4,Treasure: Indigen Nest,Requires: Biological Level 2,"Rewards: 100 XP, 6 BP, Unfathomable Devil Wings"
+J5,Treasure: Alien Container,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,00 GP, 4 BP, Resist.THERM-DOWN VIII"
+J6,FN Site 511,Mechanical Level: 2,Production: A,Revenue: C,Combat Support: A,Mineable Resources: Bonjelium
+J7,Treasure: Patrol Chopper Wreckage,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Mining Probe G6"
+J8,FN Site 512,Mechanical Level: 4,Production: C,Revenue: A,Combat Support: S
+K1,Treasure: Alien Reliquary,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,000 GP, 4 BP, Overdrive.FRAME-HP XV"
+K2,FN Site 513,Mechanical Level: 4,Production: C,Revenue: A,Combat Support: B,"Sightseeing Spots: M'gando Mineral Spring, M'gando Volcanic Crater"
+K3,"Tyrant: Terenty, the Blademaster (72)",Subcategory: Ictus,Appears: Always,Location: Roams the valley between the ruins and the mountains
+K4,Treasure: Patrol Chopper Wreckage,Requires: Mechanical Level 2,"Rewards: 100 XP, 10,000 GP, Mining Probe G8"
+K5,Mission: Until the End,Client: Vi Sezha (Oblivia - Wrothian Stronghold),"Requirements: Chapter 11, A Challenger Approaches"
+K6,"Tyrant: Gi-zho, the Iron Deity (79)",Subcategory: Xe-dom,Appears: Always,Location: Inside the large mining frigate in the sky
+L1,"Tyrant: Jia Mian, the Beloved (50)",Subcategory: Jacul,Appears: Always,Location: Flying on the side of the mountain
+L2,Mission: The Queen Is Dead,Client: Ni Zinga (Oblivia - Wrothian Stronghold),"Requirements: Chapter 11, A Challenger Approaches"
+L3,"Tyrant: Sharnaak, the Technician (46)",Subcategory: Milsaadi,Appears: Nighttime,Location: Behind the first Xe-dom found while heading up the mountain (pop-in)
+L4,Mission: Alex's Last Stand,Client: Eliza (Residential District),"Requirements: Chapter 10, The Line of Fire"
+L5,FN Site 514,Mechanical Level: 3,Production: C,Revenue: A,Combat Support: B,Sightseeing Spots: Kw'arah Cloister
+L6,Treasure: Patrol Chopper Wreckage,Requires: Mechanical Level 4,"Rewards: 200 XP, 100,000 GP, Storage Probe"
+M1,Mission: The Unbreakable Sword,Client: De Zing (Ma-non Ship),"Requirements: Chapter 12, A Challenger Approaches"
+M2,Treasure: Alien Reliquary,Requires: Archaeological Level 4,"Rewards: 200 XP, 20,000 GP, 8 BP, AttributeDmg.ELEC X"
+M3,Treasure: Alien Wreckage,Requires: Archaeological Level 2,"Rewards: 100 XP, 5,000 GP, 4BP, Resist.GRAV-DOWN VIII"
+M4,FN Site 515,Mechanical Level: 3,Production: C,Revenue: B,Combat Support: S
+N1,FN Site 516,Mechanical Level: 1,Production: B,Revenue: E,Combat Support: B
+N2,Treasure: Indigen Nest,Requires: Biological Level 3,"Rewards: 150 XP, 8 BP, some Eyepatch?"

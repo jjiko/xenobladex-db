@@ -1,0 +1,468 @@
+{
+  "map":"residential district",
+  "coordinatex":39,
+  "coordinatesy":{"a1":"0px","a2":"45px","a3":"87px","a4":"132px","a5":"176px","a6":"219px","a7":"265px","a8":"308px","b1":"64px","b2":"109px","b3":"153px","b4":"198px","b5":"241px","b6":"284px","c1":"0px","c2":"42px","c3":"87px","c4":"132px","c5":"175px","c6":"219px","c7":"264px","c8":"308px","d1":"20px","d2":"65px","d3":"109px","d4":"154px","d5":"198px","d6":"242px","d7":"285px","e1":"0px","e2":"44px","e3":"87px","e4":"131px","e5":"175px","e6":"219px","e7":"264px","e8":"307px","f1":"21px","f2":"64px","f3":"109px","f4":"153px","f5":"196px","f6":"241px","f7":"285px","g1":"43px","g2":"87px","g3":"131px","g4":"175px","g5":"219px","g6":"263px","h1":"62px","h2":"108px","h3":"152px","h4":"195px","h5":"239px","i1":"40px","i2":"84px","i3":"128px","i4":"173px","i5":"217px"},
+  "segments": {
+    "a1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Phog",
+        "affinity": "1",
+        "appears": "Afternoon (under residential district)"
+      }
+    },
+    "a2": {
+      "type": "mission",
+      "data": {
+        "name": "Circle of Life",
+        "client": "Client: Kon'luarb",
+        "requirements": "Requirements: Chapter 7, The Journey Begins, Water Woes"
+      }
+    },
+    "a3": {
+      "type": "character hangout",
+      "data": {
+        "name": "Phog"
+      }
+    },
+    "a4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Lin",
+        "affinity": "5",
+        "appears": "Morning"
+      }
+    },
+    "a5": {
+      "type": "mission",
+      "data": {
+        "name": "Off the Record (Archaeological)",
+        "client": "Client: Solan (complete the mission here)",
+        "requirements": "Requirements: Archaeological Level 4"
+      }
+    },
+    "a6": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Phog",
+        "affinity": "3",
+        "appears": "All Day"
+      }
+    },
+    "a7": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage (appears after chapter 8)",
+        "requirements": "Archaeological Level 4"
+      }
+    },
+    "a8": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Gwin",
+        "affinity": "2",
+        "appears": "Late Night"
+      }
+    },
+    "b1": {
+      "type": "mission",
+      "data": {
+        "name": "Herbivores, Unite!",
+        "client": "Client: Naza Tenpanzi",
+        "requirements": "Requirements: Chapter 9, Circle of Life, Prone Sweet Prone, Noctilum Survey Rate > 45%"
+      }
+    },
+    "b2": {
+      "type": "affinity",
+      "data": {
+        "name": "A Present for Hope",
+        "requirements": "Chapter 10, Level 44, Hope \u2665\u2665\u2665\u2665"
+      }
+    },
+    "b3": {
+      "type": "mission",
+      "data": {
+        "name": "The Celeste Three",
+        "client": "Client: Fosdyke",
+        "requirements": "Requirements: Chapter 5, intel from NPC near Doug"
+      }
+    },
+    "b4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "L",
+        "affinity": "5",
+        "appears": "Early Morning"
+      }
+    },
+    "b5": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Celica",
+        "affinity": "2",
+        "appears": "Morning"
+      }
+    },
+    "b6": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Doug",
+        "affinity": "3",
+        "appears": "Daytime"
+      }
+    },
+    "c1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Gwin",
+        "affinity": "3",
+        "appears": "Late Night"
+      }
+    },
+    "c2": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Frye",
+        "affinity": "3",
+        "appears": "All Day"
+      }
+    },
+    "c3": {
+      "type": "mission",
+      "data": {
+        "name": "The Line of Fire",
+        "client": "Client: Alice",
+        "requirements": "Requirements: Chapter 9, Shotgun Diplomacy"
+      }
+    },
+    "c4": {
+      "type": "character hangout",
+      "data": {
+        "name": "Hope"
+      }
+    },
+    "c5": {
+      "type": "mission",
+      "data": {
+        "name": "Planetary Pioneer (Part V)",
+        "client": "Client: Kirsty",
+        "requirements": "Requirements: Chapter 11, Planetary Pioneer (Part IV)"
+      }
+    },
+    "c6": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Gwin",
+        "affinity": "4",
+        "appears": "All Day"
+      }
+    },
+    "c7": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Mia",
+        "affinity": "5",
+        "appears": "All Day"
+      }
+    },
+    "c8": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Hope",
+        "affinity": "4",
+        "appears": "All Day"
+      }
+    },
+    "d1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Phog",
+        "affinity": "5",
+        "appears": "All Day"
+      }
+    },
+    "d2": {
+      "type": "affinity",
+      "data": {
+        "name": "Foggy Dilemma",
+        "requirements": "Chapter 4, Level 13, Backup Request (Phog)"
+      }
+    },
+    "d3": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Murderess",
+        "affinity": "1",
+        "appears": "Afternoon"
+      }
+    },
+    "d4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Murderess",
+        "affinity": "4",
+        "appears": "All Day"
+      }
+    },
+    "d5": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage (only appears after chapter 8)",
+        "requirements": "Archaeological Level 3"
+      }
+    },
+    "d6": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Doug",
+        "affinity": "1",
+        "appears": "Afternoon"
+      }
+    },
+    "d7": {
+      "type": "mission",
+      "data": {
+        "name": "Bread and a Circus",
+        "client": "Client: Moimoi",
+        "requirements": "Requirements: Chapter 10, Muimui's Meltdown"
+      }
+    },
+    "e1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Elma",
+        "affinity": "2",
+        "appears": "Night"
+      }
+    },
+    "e2": {
+      "type": "mission",
+      "data": {
+        "name": "New Frontier",
+        "client": "Client: Kirsty",
+        "requirements": "Requirements: Chapter 12, Entrepreneurial Spirit, Wrothian Innovation, Planetary Pioneer (Part V)"
+      }
+    },
+    "e3": {
+      "type": "mission",
+      "data": {
+        "name": "Off the Record (Mechanical)",
+        "client": "Client: Solan (complete the mission here)",
+        "requirements": "Requirements: Mechanical Level 4"
+      }
+    },
+    "e4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Mia",
+        "affinity": "1",
+        "appears": "Late Night"
+      }
+    },
+    "e5": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Caroline",
+        "requirements": "Requirements: Trade Agreement?"
+      }
+    },
+    "e6": {
+      "type": "mission",
+      "data": {
+        "name": "Alex's Last Stand",
+        "client": "Client: Eliza",
+        "requirements": "Requirements: Chapter 10, The Line of Fire"
+      }
+    },
+    "e7": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Phog",
+        "affinity": "2",
+        "appears": "All Day"
+      }
+    },
+    "e8": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Kon'luarb",
+        "requirements": "Requirements: Haywire! (?)"
+      }
+    },
+    "f1": {
+      "type": "mission",
+      "data": {
+        "name": "Lakeside Getaway",
+        "client": "Client: Rosie",
+        "requirements": "Requirements: Chapter 6, Water Woes, Frontier Spirit"
+      }
+    },
+    "f2": {
+      "type": "mission",
+      "data": {
+        "name": "Water Woes",
+        "client": "Client: Ajoa",
+        "requirements": "Requirements: Chapter 5"
+      }
+    },
+    "f3": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Irina",
+        "affinity": "2",
+        "appears": "Evening"
+      }
+    },
+    "f4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "L",
+        "affinity": "3",
+        "appears": "All Day"
+      }
+    },
+    "f5": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Murderess",
+        "affinity": "5",
+        "appears": "All Day"
+      }
+    },
+    "f6": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Wendy",
+        "requirements": "Requirements: Sparking a Smile?"
+      }
+    },
+    "f7": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Nagi",
+        "affinity": "5",
+        "appears": "Afternoon"
+      }
+    },
+    "g1": {
+      "type": "character hangout",
+      "data": {
+        "name": "H.B."
+      }
+    },
+    "g2": {
+      "type": "affinity",
+      "data": {
+        "name": "Hope Springs Eternal",
+        "requirements": "Chapter 3, Level 21, accepted Marry Me!"
+      }
+    },
+    "g3": {
+      "type": "mission",
+      "data": {
+        "name": "The Miracle Maker",
+        "client": "Client: Staccata",
+        "requirements": "Requirements: Chapter 6, Water Woes"
+      }
+    },
+    "g4": {
+      "type": "mission",
+      "data": {
+        "name": "The Divine Nopopon",
+        "client": "Client: Shinshin",
+        "requirements": "Requirements: Chapter 12, BFFs, Mira Survey Rate > 80%"
+      }
+    },
+    "g5": {
+      "type": "affinity",
+      "data": {
+        "name": "A Great Divide",
+        "requirements": "Chapter 7, Level 30, Bottoms Up, Phog \u2665\u2665"
+      }
+    },
+    "g6": {
+      "type": "mission",
+      "data": {
+        "name": "The Bug Whisperer",
+        "client": "Client: Min'barac",
+        "requirements": "Requirements: Chapter 10, BFFs, Circle of Life, Prone Sweet Prone"
+      }
+    },
+    "h1": {
+      "type": "mission",
+      "data": {
+        "name": "Shotgun Diplomacy",
+        "client": "Client: Eliza",
+        "requirements": "Requirements: Chapter 8, Alien Nation"
+      }
+    },
+    "h2": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Letrick",
+        "requirements": "Requirements: Emotion Commotion"
+      }
+    },
+    "h3": {
+      "type": "mission",
+      "data": {
+        "name": "Rites of Ruin",
+        "client": "Client: Jalimbo",
+        "requirements": "Requirements: Chapter 8, The Miracle Maker"
+      }
+    },
+    "h4": {
+      "type": "mission",
+      "data": {
+        "name": "Definian Love OR Fortun and Glory",
+        "client": "Client: Lyvia OR Erio",
+        "requirements": "Requirements: Definian Downfall (kill Fortun OR spare Fortun)"
+      }
+    },
+    "h5": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Phoskeran",
+        "requirements": "Requirements: An Ancient Legend (?)"
+      }
+    },
+    "i1": {
+      "type": "treasure",
+      "data": {
+        "type": "Container",
+        "requirements": "Mechanical Level 2"
+      }
+    },
+    "i2": {
+      "type": "treasure",
+      "data": {
+        "type": "Trailer",
+        "requirements": "Mechanical Level 3"
+      }
+    },
+    "i3": {
+      "type": "mission",
+      "data": {
+        "name": "A Fateful Choice",
+        "client": "Client: On'tonam",
+        "requirements": "Requirements: Chapter 12, No-Show Nen'celeg, Noctilum Survey Rate > 80%"
+      }
+    },
+    "i4": {
+      "type": "mission",
+      "data": {
+        "name": "The Journey Begins",
+        "client": "Client: Kun'luarb",
+        "requirements": "Requirements: Chapter 7, Sun'celeg Rises"
+      }
+    },
+    "i5": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Hope",
+        "affinity": "1",
+        "appears": "Afternoon"
+      }
+    }
+  }
+}

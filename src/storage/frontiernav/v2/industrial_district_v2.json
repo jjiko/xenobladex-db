@@ -1,0 +1,425 @@
+{
+  "map":"industrial district",
+  "coordinatex":39,
+  "coordinatesy":{"a1":"359px","a2":"404px","a3":"445px","a4":"489px","a5":"534px","b1":"113px","b2":"204px","b3":"245px","b4":"291px","b5":"333px","b6":"379px","b7":"421px","b8":"465px","b9":"510px","c1":"3px","c2":"47px","c3":"92px","c4":"137px","c5":"181px","c6":"224px","c7":"268px","c8":"357px","c9":"399px","c10":"445px","c11":"489px","c12":"532px","d1":"23px","d2":"70px","d3":"112px","d4":"156px","d5":"202px","d6":"246px","d7":"289px","d8":"333px","d9":"378px","d10":"424px","d11":"466px","d12":"511px","e1":"49px","e2":"89px","e3":"135px","e4":"269px","e5":"354px","e6":"399px","f1":"22px","f2":"66px","f3":"112px","f4":"246px","f5":"288px","f6":"376px","g1":"0px","g2":"44px","g3":"222px","g4":"265px"},
+  "segments": {
+    "a1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Celica",
+        "affinity": "5",
+        "appears": "Night (on the roof)"
+      }
+    },
+    "a2": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Nagi",
+        "affinity": "2",
+        "appears": "Morning"
+      }
+    },
+    "a3": {
+      "type": "mission",
+      "data": {
+        "name": "The Gauntlet",
+        "client": "Client: Zo Ozuchi",
+        "requirements": "Requirements: Chapter 12, ...most of the other quests"
+      }
+    },
+    "a4": {
+      "type": "mission",
+      "data": {
+        "name": "Two Warriors",
+        "client": "Client: Go Belg",
+        "requirements": "Requirements: Chapter 11, A Challenger Approaches"
+      }
+    },
+    "a5": {
+      "type": "mission",
+      "data": {
+        "name": "Data Probe Challenge",
+        "client": "Client: Hugo",
+        "requirements": "Requirements: Chapter 8, The Probe-fessional"
+      }
+    },
+    "b1": {
+      "type": "mission",
+      "data": {
+        "name": "Good Fortun",
+        "client": "Client: HT665: Erio",
+        "requirements": "Requirements: Chapter 10, Attack on Bianho Hills, Alex's Last Stand, Rites of Ruin"
+      }
+    },
+    "b2": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Celica",
+        "affinity": "4",
+        "appears": "All Day"
+      }
+    },
+    "b3": {
+      "type": "affinity",
+      "data": {
+        "name": "New in New LA",
+        "requirements": "Chapter 9, Level 44, Manhunt"
+      }
+    },
+    "b4": {
+      "type": "character hangout",
+      "data": {
+        "name": "Celica"
+      }
+    },
+    "b5": {
+      "type": "mission",
+      "data": {
+        "name": "Yardley's Scheme",
+        "client": "Client: Yardley",
+        "requirements": "Requirements: Chapter 3"
+      }
+    },
+    "b6": {
+      "type": "mission",
+      "data": {
+        "name": "Off the Record (Biological)",
+        "client": "Client: Solan (complete the mission here)",
+        "requirements": "Requirements: Biological Level 4"
+      }
+    },
+    "b7": {
+      "type": "affinity",
+      "data": {
+        "name": "Boot Camp",
+        "requirements": "Chapter 10, Level 41, Nine Lives, Gwin \u2665"
+      }
+    },
+    "b8": {
+      "type": "treasure",
+      "data": {
+        "type": "Alien Wreckage (only appears after chapter 8)",
+        "requirements": "Archaeological Level 2, Flight? (on roof)"
+      }
+    },
+    "b9": {
+      "type": "affinity",
+      "data": {
+        "name": "A Girl's Wings",
+        "requirements": "Chapter 9, Level 33, The Skell License, accepted quest: Flight Module"
+      }
+    },
+    "c1": {
+      "type": "mission",
+      "data": {
+        "name": "Muimui's Meltdown",
+        "client": "Client: Moimoi",
+        "requirements": "Requirements: Chapter 9, Setting Forth"
+      }
+    },
+    "c2": {
+      "type": "mission",
+      "data": {
+        "name": "Turf War",
+        "client": "Client: Enrai",
+        "requirements": "Requirements: Chapter 10, \"Waste Not, Want Not\""
+      }
+    },
+    "c3": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Doug",
+        "affinity": "2",
+        "appears": "Morning"
+      }
+    },
+    "c4": {
+      "type": "mission",
+      "data": {
+        "name": "A Proper Chopper",
+        "client": "Client: Roscoe",
+        "requirements": "Requirements: Chapter 4"
+      }
+    },
+    "c5": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Murderess",
+        "affinity": "3",
+        "appears": "All Day"
+      }
+    },
+    "c6": {
+      "type": "mission",
+      "data": {
+        "name": "Forest Foray",
+        "client": "Client: Sullivan",
+        "requirements": "Requirements: Chapter 3, Noctilum Survey Rate > 15%"
+      }
+    },
+    "c7": {
+      "type": "mission",
+      "data": {
+        "name": "Pollution Solution",
+        "client": "Client: Liza",
+        "requirements": "Requirements: Chapter 7, The Voltant Visionary, Prone Sweet Prone"
+      }
+    },
+    "c8": {
+      "type": "mission",
+      "data": {
+        "name": "Good Neighbors",
+        "client": "Client: Tan'celeg",
+        "requirements": "Requirements: Chapter 7, Circle of Life, Lakeside Getaway"
+      }
+    },
+    "c9": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Irina",
+        "affinity": "4",
+        "appears": "All Day"
+      }
+    },
+    "c10": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Lin",
+        "affinity": "1",
+        "appears": "Night"
+      }
+    },
+    "c11": {
+      "type": "mission",
+      "data": {
+        "name": "Data Probe Breakthrough",
+        "client": "Client: Hugo",
+        "requirements": "Requirements: Chapter 11, Data Probe Progress"
+      }
+    },
+    "c12": {
+      "type": "mission",
+      "data": {
+        "name": "Data Probe Revolution",
+        "client": "Client: Hugo",
+        "requirements": "Requirements: Chapter 12, Data Probe Evolution"
+      }
+    },
+    "d1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Elma",
+        "affinity": "1",
+        "appears": "Afternoon"
+      }
+    },
+    "d2": {
+      "type": "mission",
+      "data": {
+        "name": "Lone Survivors",
+        "client": "Client: Robert",
+        "requirements": "Requirements: Chapter 8, Circle of Life"
+      }
+    },
+    "d3": {
+      "type": "mission",
+      "data": {
+        "name": "Entrepreneurial Spirit",
+        "client": "Client: Tobias",
+        "requirements": "Requirements: Chapter 8, The Root of All Evil"
+      }
+    },
+    "d4": {
+      "type": "mission",
+      "data": {
+        "name": "Child of Mira",
+        "client": "Client: Orleron",
+        "requirements": "Requirements: Chapter 11, Pollution Solution"
+      }
+    },
+    "d5": {
+      "type": "treasure",
+      "data": {
+        "type": "Container",
+        "requirements": "Mechanical Level 3"
+      }
+    },
+    "d6": {
+      "type": "mission",
+      "data": {
+        "name": "Orphe Pluck",
+        "client": "Client: San'luarb",
+        "requirements": "Requirements: Chapter 10, No Show Nen'celeg, Planetary Pioneer (Part IV)"
+      }
+    },
+    "d7": {
+      "type": "mission",
+      "data": {
+        "name": "Data Probe Progress",
+        "client": "Client: Hugo",
+        "requirements": "Requirements: Chapter 10, Data Probe Challenge"
+      }
+    },
+    "d8": {
+      "type": "mission",
+      "data": {
+        "name": "Data Probe Evolution",
+        "client": "Client: Hugo",
+        "requirements": "Requirements: Chapter 12, Data Probe Breakthrough"
+      }
+    },
+    "d9": {
+      "type": "mission",
+      "data": {
+        "name": "The Pip-Squeak",
+        "client": "Client: Matthew",
+        "requirements": "Requirements: Chapter 5"
+      }
+    },
+    "d10": {
+      "type": "mission",
+      "data": {
+        "name": "Professorial (aka The Disappearance of Doctor B)",
+        "client": "Client: Veven",
+        "requirements": "Requirements: Chapter 12, Professor B's Return, one of the Definian quests?"
+      }
+    },
+    "d11": {
+      "type": "mission",
+      "data": {
+        "name": "Rise of the Blood Lobster",
+        "client": "Client: The Blood Lobster",
+        "requirements": "Requirement: Chapter 3, A Hero's Ride"
+      }
+    },
+    "d12": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Mia",
+        "affinity": "3",
+        "appears": "Late Night"
+      }
+    },
+    "e1": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Hope",
+        "affinity": "3",
+        "appears": "Morning"
+      }
+    },
+    "e2": {
+      "type": "mission",
+      "data": {
+        "name": "Pack It In",
+        "client": "Client: Nococche",
+        "requirements": "Requirements: Chapter 9, Dead Men Tell No Tales"
+      }
+    },
+    "e3": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Irina",
+        "affinity": "1",
+        "appears": "Night"
+      }
+    },
+    "e4": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Frye",
+        "affinity": "5",
+        "appears": "All Day"
+      }
+    },
+    "e5": {
+      "type": "character hangout",
+      "data": {
+        "name": "Alexa"
+      }
+    },
+    "e6": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Celica",
+        "affinity": "1",
+        "appears": "Afternoon"
+      }
+    },
+    "f1": {
+      "type": "mission",
+      "data": {
+        "name": "Mystery Man",
+        "client": "Client: Professor B",
+        "requirements": "Requirements: Chapter 5"
+      }
+    },
+    "f2": {
+      "type": "mission",
+      "data": {
+        "name": "The Voltant Visionary",
+        "client": "Client: Trachlo Lythren",
+        "requirements": "Requirements: Chapter 7, Dead Men Tell No Tales"
+      }
+    },
+    "f3": {
+      "type": "affinity shift",
+      "data": {
+        "name": "Horonalderon",
+        "requirements": "Requirements: Slovity questline, The Good Thief?"
+      }
+    },
+    "f4": {
+      "type": "character hangout",
+      "data": {
+        "name": "Frye"
+      }
+    },
+    "f5": {
+      "type": "mission",
+      "data": {
+        "name": "The Good Thief",
+        "client": "Client: Horonalderon",
+        "requirements": "Requirements: Chapter 9, Dead Men Tell No Tales, Water Woes"
+      }
+    },
+    "f6": {
+      "type": "affinity",
+      "data": {
+        "name": "Fitting In",
+        "requirements": "Chapter 11, Level 46, A Girl's Wings, Nopon Treaty, Celica \u2665\u2665\u2665"
+      }
+    },
+    "g1": {
+      "type": "mission",
+      "data": {
+        "name": "Professor B's Return",
+        "client": "Client: Veven",
+        "requirements": "Requirements: Chapter 7, Mystery Man"
+      }
+    },
+    "g2": {
+      "type": "mission",
+      "data": {
+        "name": "Gold Rush",
+        "client": "Client: Adolphus (night)",
+        "requirements": "Requirements: Chapter 11, The Celeste Three, A Challenger Approaches"
+      }
+    },
+    "g3": {
+      "type": "heart-to-heart",
+      "data": {
+        "name": "Frye",
+        "affinity": "1",
+        "appears": "Late Night"
+      }
+    },
+    "g4": {
+      "type": "affinity",
+      "data": {
+        "name": "Bottoms Up",
+        "requirements": "Chapter 4, Level 19, Nighttime"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "jiko/xenobladex-db",
+    "description": "xenoblade x game completion browser",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joe Jiko",
+            "email": "me@joejiko.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9",
+        "illuminated/routing": "5.2.*",
+        "illuminate/support": "5.2.*",
+        "illuminate/view": "5.2.*",
+        "jenssegers/agent": "^2.3"
+    }
+}
