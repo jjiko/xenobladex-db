@@ -1,4 +1,10 @@
 <?php
+Route::get('admin/frontiernav', function () {
+  $frontiernav = new \Jiko\XBXDB\Support\Helpers\FrontierNav();
+  //return $frontiernav->csvToJson('Jiko/XBXDB/src/storage/oblivia.csv',false);
+  return $frontiernav->importV2('Jiko/XBXDB/src/storage/sylvalum_v2.json');
+});
+
 Route::group(['prefix' => '/g/xbx/db'], function () {
   Route::get('all.json', 'DataController@all');
   Route::get('arts.json', 'DataController@arts');

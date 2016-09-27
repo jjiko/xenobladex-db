@@ -9,6 +9,7 @@ use Jiko\XBXDB\Models\Engineering;
 use Jiko\XBXDB\Models\FrontierNav;
 use Jiko\XBXDB\Models\Materials;
 use Jiko\XBXDB\Models\SquadTasks;
+use Illuminate\Support\Facades\Route;
 
 class RouteServiceProvider extends ServiceProvider
 {
@@ -27,34 +28,34 @@ class RouteServiceProvider extends ServiceProvider
    * @param  \Illuminate\Routing\Router  $router
    * @return void
    */
-  public function boot(Router $router)
+  public function boot()
   {
-    parent::boot($router);
+    parent::boot();
 
     $this->loadViewsFrom(__DIR__.'/../resources/views', 'xbx');
 
-    $router->model('affinity_mission', 'Jiko\XBXDB\Models\AffinityMissions');
-    $router->model('arts', 'Jiko\XBXDB\Models\Arts');
-    $router->model('basic_mission', 'Jiko\XBXDB\Models\BasicMissions');
-    $router->model('bestiary', 'Jiko\XBXDB\Models\Bestiary');
-    $router->bind('engineering_category', function($value){
+    Route::model('affinity_mission', 'Jiko\XBXDB\Models\AffinityMissions');
+    Route::model('arts', 'Jiko\XBXDB\Models\Arts');
+    Route::model('basic_mission', 'Jiko\XBXDB\Models\BasicMissions');
+    Route::model('bestiary', 'Jiko\XBXDB\Models\Bestiary');
+    Route::bind('engineering_category', function($value){
       return Engineering::whereHas('categories', function($query) use ($value){
         $query->where('slug', '=', $value);
       })->get();
     });
-    $router->bind('engineering', function($value){
+    Route::bind('engineering', function($value){
       return Engineering::where('id', $value)->with('materials')->get();
     });
-    $router->bind('frontiernav_map', function($value){
+    Route::bind('frontiernav_map', function($value){
       $name = str_replace('-', ' ', $value);
       return FrontierNav::where('map', $name)->get()->groupBy('map');
     });
-    $router->bind('materials', function($value){
+    Route::bind('materials', function($value){
       return Materials::where('id', $value)->with('bestiary')->get();
     });
-    $router->model('normal_mission', 'Jiko\XBXDB\Models\NormalMissions');
-    $router->model('skills', 'Jiko\XBXDB\Models\Skills');
-    $router->bind('squad_task_collection', function($value){
+    Route::model('normal_mission', 'Jiko\XBXDB\Models\NormalMissions');
+    Route::model('skills', 'Jiko\XBXDB\Models\Skills');
+    Route::bind('squad_task_collection', function($value){
       return SquadTasks::where('name', $value)->get();
     });
   }
