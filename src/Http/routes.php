@@ -41,17 +41,17 @@ Route::group(['prefix' => '/g/xbx/db'], function () {
     return Redirect::to('/g/xbx/db/tyrant/' . $request, 301);
   })->where('any', '.*');
 
-  Route::get('/', ['as' => 'xbxdb', 'uses' => 'XbxDbController@index']);
-  Route::get('affinity-missions', ['as' => 'affinity_missions_index', 'uses' => 'AffinityMissionsController@index']);
-  Route::get('affinity-mission/{affinity_mission}-{slug}', ['as' => 'missions.affinity-mission', 'uses' => 'AffinityMissionsController@show']);
-  Route::get('arts', ['as' => 'arts_index', 'uses' => 'ArtsController@index']);
-  Route::get('art/{arts}', ['as' => 'arts.art', 'uses' => 'ArtsController@show']);
-  Route::get('basic-missions', ['as' => 'basic_missions_index', 'uses' => 'BasicMissionsController@index']);
-  Route::get('basic-mission/{basic_mission}-{slug}', ['as' => 'missions.basic-mission', 'uses' => 'BasicMissionsController@show']);
-  Route::get('bestiary', ['as' => 'bestiary_index', 'uses' => 'BestiaryController@index']);
-  Route::get('bestiary/{bestiary}-{slug}', ['as' => 'bestiary.indigen', 'uses' => 'BestiaryController@show']);
+  Route::get('/', 'XbxDbController@index')->name('xbxdb');
+  Route::get('affinity-missions'->name('affinity_missions_index')
+  Route::get('affinity-mission/{affinity_mission}-{slug}', 'AffinityMissionsController@show')->name('missions.affinity-mission');
+  Route::get('arts', 'ArtsController@index')->name('arts_index');
+  Route::get('art/{arts}', 'ArtsController@show')->name('arts.art');
+  Route::get('basic-missions', 'BasicMissionsController@index')->name('basic_missions_index');
+  Route::get('basic-mission/{basic_mission}-{slug}', 'BasicMissionsController@show')->name('missions.basic-mission');
+  Route::get('bestiary', 'BestiaryController@index')->name('bestiary_index');
+  Route::get('bestiary/{bestiary}-{slug}', 'BestiaryController@show')->name('bestiary.indigen');
   Route::get('bestiary/{bestiary_category}', 'BestiaryController@index');
-  Route::get('engineering', ['as' => 'engineering_index', 'uses' => 'EngineeringController@index']);
+  Route::get('engineering', 'EngineeringController@index')->name('engineering_index');
   Route::get('engineering/cat/{engineering_category}', 'EngineeringController@category');
   Route::get('engineering/{engineering}-{slug}', 'EngineeringController@show');
   Route::get('engineering/{engineering_name}', function($value){
@@ -62,19 +62,19 @@ Route::group(['prefix' => '/g/xbx/db'], function () {
     // @todo mark as 404
     return Redirect::to('/g/xbx/db/engineering');
   });
-  Route::get('frontiernav', ['as' => 'frontiernav_index', 'uses' => 'FrontierNavController@index']);
-  Route::get('frontiernav/{frontiernav_map}', ['as' => 'frontiernav_map', 'uses' => 'FrontierNavController@show']);
-  Route::get('materials', ['as' => 'materials_index', 'uses' => 'MaterialsController@index']);
+  Route::get('frontiernav', 'FrontierNavController@index')->name('frontiernav_index');
+  Route::get('frontiernav/{frontiernav_map}', 'FrontierNavController@show')->name('frontiernav_map');
+  Route::get('materials', 'MaterialsController@index')->name('materials_index');
   Route::get('material/{materials}-{slug}', 'MaterialsController@show');
-  Route::get('normal-missions', ['as' => 'normal_missions_index', 'uses' => 'NormalMissionsController@index']);
+  Route::get('normal-missions', 'NormalMissionsController@index')->name('normal_missions_index');
   Route::get('normal-mission/{normal_mission}-{slug}', 'NormalMissionsController@show');
-  Route::get('skills', ['as' => 'skills_index', 'uses' => 'SkillsController@index']);
+  Route::get('skills', 'SkillsController@index')->name('skills_index');
   Route::get('skill/{skills}-{slug}', 'SkillsController@show');
-  Route::get('squad-tasks', ['as' => 'squad_tasks_index', 'uses' => 'SquadTasksController@index']);
+  Route::get('squad-tasks', 'SquadTasksController@index')->name('squad_tasks_index');
   Route::get('squad-task/{squad_task_collection}', 'SquadTasksController@show');
   Route::get('tyrants/{tyrants_category}', 'BestiaryController@tyrantsByCategory');
   Route::get('tyrant/{bestiary}-{slug}', 'BestiaryController@showTyrant');
-  Route::get('tyrants', ['as' => 'tyrants_index', 'uses' => 'BestiaryController@tyrants']);
+  Route::get('tyrants', 'BestiaryController@tyrants')->name('tyrants_index');
   //Route::get('{table}', 'XenobladeXDBController@category');
   //Route::get('{table}/{slug}', 'XenobladeXDBController@show')->where('slug', '^[^0-9].+');
   //Route::get('squad-tasks/{id}', 'XenobladeXDBController@showSquadTasks');

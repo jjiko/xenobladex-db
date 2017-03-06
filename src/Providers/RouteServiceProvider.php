@@ -25,37 +25,37 @@ class RouteServiceProvider extends ServiceProvider
   /**
    * Define your route model bindings, pattern filters, etc.
    *
-   * @param  \Illuminate\Routing\Router  $router
+   * @param  \Illuminate\Routing\Router $router
    * @return void
    */
   public function boot()
   {
     parent::boot();
 
-    $this->loadViewsFrom(__DIR__.'/../resources/views', 'xbx');
+    $this->loadViewsFrom(__DIR__ . '/../resources/views', 'xbx');
 
     Route::model('affinity_mission', 'Jiko\XBXDB\Models\AffinityMissions');
     Route::model('arts', 'Jiko\XBXDB\Models\Arts');
     Route::model('basic_mission', 'Jiko\XBXDB\Models\BasicMissions');
     Route::model('bestiary', 'Jiko\XBXDB\Models\Bestiary');
-    Route::bind('engineering_category', function($value){
-      return Engineering::whereHas('categories', function($query) use ($value){
+    Route::bind('engineering_category', function ($value) {
+      return Engineering::whereHas('categories', function ($query) use ($value) {
         $query->where('slug', '=', $value);
       })->get();
     });
-    Route::bind('engineering', function($value){
+    Route::bind('engineering', function ($value) {
       return Engineering::where('id', $value)->with('materials')->get();
     });
-    Route::bind('frontiernav_map', function($value){
+    Route::bind('frontiernav_map', function ($value) {
       $name = str_replace('-', ' ', $value);
       return FrontierNav::where('map', $name)->get()->groupBy('map');
     });
-    Route::bind('materials', function($value){
+    Route::bind('materials', function ($value) {
       return Materials::where('id', $value)->with('bestiary')->get();
     });
     Route::model('normal_mission', 'Jiko\XBXDB\Models\NormalMissions');
     Route::model('skills', 'Jiko\XBXDB\Models\Skills');
-    Route::bind('squad_task_collection', function($value){
+    Route::bind('squad_task_collection', function ($value) {
       return SquadTasks::where('name', $value)->get();
     });
   }
@@ -63,13 +63,13 @@ class RouteServiceProvider extends ServiceProvider
   /**
    * Define the routes for the application.
    *
-   * @param  \Illuminate\Routing\Router  $router
+   * @param  \Illuminate\Routing\Router $router
    * @return void
    */
   public function map(Router $router)
   {
     $router->group(['namespace' => $this->namespace], function ($router) {
-      if (in_array(Input::server('HTTP_HOST'), ['www.joejiko.com','local.joejiko.com'])) {
+      if (preg_match('/joejiko\.com/i', Input::server('HTTP_HOST'), $matches)) {
         require_once(__DIR__ . '/../Http/routes.php');;
       }
     });
