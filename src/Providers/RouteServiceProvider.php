@@ -2,8 +2,8 @@
 
 namespace Jiko\XBXDB\Providers;
 
-use Illuminate\Routing\Router;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
+use Illuminate\Routing\Router;
 use Illuminate\Support\Facades\Input;
 use Jiko\XBXDB\Models\Engineering;
 use Jiko\XBXDB\Models\FrontierNav;
@@ -34,10 +34,15 @@ class RouteServiceProvider extends ServiceProvider
 
     $this->loadViewsFrom(__DIR__ . '/../resources/views', 'xbx');
 
-    Route::model('affinity_mission', 'Jiko\XBXDB\Models\AffinityMissions');
-    Route::model('arts', 'Jiko\XBXDB\Models\Arts');
-    Route::model('basic_mission', 'Jiko\XBXDB\Models\BasicMissions');
-    Route::model('bestiary', 'Jiko\XBXDB\Models\Bestiary');
+    Route::model('affinity_mission', \Jiko\XBXDB\Models\AffinityMissions::class);
+    Route::model('arts', \Jiko\XBXDB\Models\Arts::class);
+    Route::model('basic_mission', \Jiko\XBXDB\Models\BasicMissions::class);
+    Route::model('bestiary', \Jiko\XBXDB\Models\Bestiary::class);
+    Route::model('normal_mission', \Jiko\XBXDB\Models\NormalMissions::class);
+    Route::model('skills', \Jiko\XBXDB\Models\Skills::class);
+
+    // @todo fix bindings
+    // @note stopped working in 5.4
     Route::bind('engineering_category', function ($value) {
       return Engineering::whereHas('categories', function ($query) use ($value) {
         $query->where('slug', '=', $value);
@@ -53,8 +58,6 @@ class RouteServiceProvider extends ServiceProvider
     Route::bind('materials', function ($value) {
       return Materials::where('id', $value)->with('bestiary')->get();
     });
-    Route::model('normal_mission', 'Jiko\XBXDB\Models\NormalMissions');
-    Route::model('skills', 'Jiko\XBXDB\Models\Skills');
     Route::bind('squad_task_collection', function ($value) {
       return SquadTasks::where('name', $value)->get();
     });
