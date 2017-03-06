@@ -42,7 +42,7 @@ Route::group(['prefix' => '/g/xbx/db'], function () {
   })->where('any', '.*');
 
   Route::get('/', 'XbxDbController@index')->name('xbxdb');
-  Route::get('affinity-missions'->name('affinity_missions_index')
+  Route::get('affinity-missions'->name('affinity_missions_index');
   Route::get('affinity-mission/{affinity_mission}-{slug}', 'AffinityMissionsController@show')->name('missions.affinity-mission');
   Route::get('arts', 'ArtsController@index')->name('arts_index');
   Route::get('art/{arts}', 'ArtsController@show')->name('arts.art');
