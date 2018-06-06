@@ -1,7 +1,6 @@
 <?php
 Route::group(['middleware' => 'bindings'], function () {
-
-
+  Route::get('admin/xbx/bestiary-materials', 'Jiko\XBXDB\Admin\Http\Controllers\AdminPageController@bestiaryMaterials');
   Route::get('admin/frontiernav', function () {
     $frontiernav = new \Jiko\XBXDB\Support\Helpers\FrontierNav();
     //return $frontiernav->csvToJson('Jiko/XBXDB/src/storage/oblivia.csv',false);

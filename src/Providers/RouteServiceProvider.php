@@ -72,7 +72,7 @@ class RouteServiceProvider extends ServiceProvider
   public function map(Router $router)
   {
     $router->group(['namespace' => $this->namespace], function ($router) {
-      if (preg_match('/joejiko\.com/i', Input::server('HTTP_HOST'), $matches)) {
+      if (preg_match('/joejiko\.com|192\.168\.87/i', Input::server('HTTP_HOST'), $matches)) {
         require_once(__DIR__ . '/../Http/routes.php');;
       }
     });
